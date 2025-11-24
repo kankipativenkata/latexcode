@@ -1,0 +1,6306 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.23)  24 NOV 2025 07:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex"
+(d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(acmart.cls
+Document Class: acmart 2025/08/27 v2.16 Typesetting articles for the Association for Computing Machinery
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+ (C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count275
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\venka\AppData\Roaming\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\venka\AppData\Roaming\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count276
+\xs_countb=\count277
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package acmart Info: Not using screen mode on input line 77.
+Package acmart Info: Using breaking urls on hyphens on input line 85.
+Package acmart Info: Requiring acmthm on input line 93.
+Package acmart Info: Not using review mode on input line 102.
+Package acmart Info: Not using authorversion mode on input line 110.
+Package acmart Info: Not using nonacm mode on input line 122.
+Package acmart Info: Explicitly selecting natbib mode on input line 138.
+Package acmart Info: Not using anonymous mode on input line 146.
+Package acmart Info: Not using timestamp mode on input line 154.
+Package acmart Info: Not using authordraft mode on input line 164.
+Package acmart Info: Using screen mode on input line 179.
+Package acmart Info: Using review mode on input line 179.
+Class acmart Info: Using format acmsmall, number 1 on input line 179.
+Class acmart Info: Using fontsize 10pt on input line 281.
+ (C:\Program Files\MiKTeX\tex/latex/amscls\amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+\linespacing=\dimen148
+\normalparindent=\dimen149
+\normaltopskip=\skip49
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen150
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count278
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count279
+\leftroot@=\count280
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count281
+\DOTSCASE@=\count282
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count283
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count284
+\dotsspace@=\muskip17
+\c@parentequation=\count285
+\dspbrk@lvl=\count286
+\tag@help=\toks20
+\row@=\count287
+\column@=\count288
+\maxfields@=\count289
+\andhelp@=\toks21
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 397.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert252
+\abstractbox=\box55
+\listisep=\skip53
+\c@part=\count290
+\c@section=\count291
+\c@subsection=\count292
+\c@subsubsection=\count293
+\c@paragraph=\count294
+\c@subparagraph=\count295
+\c@figure=\count296
+\c@table=\count297
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\captionindent=\dimen159
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks29
+)
+LaTeX Info: Redefining \markboth on input line 283.
+ (C:\Program Files\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2025/07/09 v3.2b Micro-typographical refinements (RS)
+ (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count298
+)
+\MT@toks=\toks30
+\MT@tempbox=\box56
+\MT@count=\count299
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks31
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen160
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count300
+ (C:\Program Files\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2025/07/09 v3.2b Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip59
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Program Files\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2025/07/09 v3.2b microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count301
+\@cmidlb=\count302
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count303
+\@lastruleclass=\count304
+\@thisrulewidth=\dimen173
+) (C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (C:\Program Files\MiKTeX\tex/latex/totpages\totpages.sty
+Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
+ (C:\Program Files\MiKTeX\tex/latex/everyshi\everyshi.sty
+Package: everyshi 2020/11/18 v4.00 EveryShipout Package
+)) (C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\@ACM@acmcp@delta=\dimen174
+ (C:\Program Files\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip60
+\bibsep=\skip61
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count305
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count306
+) (C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen175
+\Hy@linkcounter=\count307
+\Hy@pagecounter=\count308
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count309
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4066.
+Package hyperref Info: Option `unicode' set `true' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count310
+ (C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen176
+ (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count311
+\Field@Width=\dimen177
+\Fld@charsize=\dimen178
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count312
+\c@Item=\count313
+\c@Hfootnote=\count314
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count315
+\c@bookmark@seq@number=\count316
+ (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip62
+) (C:\Program Files\MiKTeX\tex/latex/hyperxmp\hyperxmp.sty
+Package: hyperxmp 2024/03/17 v5.13 Store hyperref metadata in XMP format
+\hyxmp@aep@toks=\toks32
+ (C:\Program Files\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\@hyxmp@count=\count317
+ (C:\Program Files\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen179
+\Gin@req@width=\dimen180
+) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count318
+\Gm@cntv=\count319
+\c@Gm@tempcnt=\count320
+\Gm@bindingoffset=\dimen181
+\Gm@wd@mp=\dimen182
+\Gm@odd@mp=\dimen183
+\Gm@even@mp=\dimen184
+\Gm@layoutwidth=\dimen185
+\Gm@layoutheight=\dimen186
+\Gm@layouthoffset=\dimen187
+\Gm@layoutvoffset=\dimen188
+\Gm@dimlist=\toks33
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/ncctools\manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+ (C:\Program Files\MiKTeX\tex/latex/ncctools\nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen189
+)
+\footinsauthorsaddresses=\insert251
+\c@footnoteauthorsaddresses=\count321
+\footinscopyrightpermission=\insert250
+\c@footnotecopyrightpermission=\count322
+ (C:\Program Files\MiKTeX\tex/generic/pdftex\glyphtounicode.tex) (C:\Program Files\MiKTeX\tex/latex/cmap\cmap.sty
+Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+<<t1.cmap>>) (C:\Program Files\MiKTeX\tex/latex/libertine\libertine.sty
+Package: libertine 2024/04/23 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2025-05-24 v2.0.1 Font selection axes (deprecated)
+ (C:\Program Files\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+))
+LaTeX Info: Redefining \oldstylenums on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/libertine\LinLibertine_I.tex)) (C:\Program Files\MiKTeX\tex/latex/inconsolata\zi4.sty
+Package: zi4 2019/05/17 v1.12
+ `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+\zifour@ocount=\count323
+) (C:\Program Files\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2024/09/22 v1.754
+ `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count324
+ (C:\Program Files\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count325
+\tx@IsAlNum=\count326
+\tx@tA=\toks34
+\tx@tB=\toks35
+\tx@su=\read2
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/LinuxLibertineT-TLF/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/m/n on input line 402.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/LinuxLibertineT-TLF/m/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 403.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/LinuxBiolinumT-TLF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/LinuxBiolinumT-TLF/m/n on input line 410.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/LinuxBiolinumT-TLF/m/n --> OT1/LinuxBiolinumT-TLF/b/n on input line 412.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/LinuxLibertineT-TLF/m/it on input line 419.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/LinuxLibertineT-TLF/m/it on input line 419.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 420.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 420.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 422.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/LinuxLibertineT-TLF/m/it --> OT1/LinuxLibertineT-TLF/sb/it on input line 423.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 426.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 444.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 444.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 444.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 445.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 582.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 584.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 604.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 605.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 630.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 651.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
+\symlargesymbolsTXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
+\tx@sbptoks=\toks36
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 903.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 904.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 905.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 910.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 911.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 913.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 915.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 919.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 920.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 991.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
+LaTeX Info: Redefining \Bbbk on input line 2847.
+LaTeX Info: Redefining \not on input line 2995.
+LaTeX Info: Redefining \textsquare on input line 3025.
+LaTeX Info: Redefining \openbox on input line 3027.
+) (C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen190
+\captionmargin=\dimen191
+\caption@leftmargin=\dimen192
+\caption@rightmargin=\dimen193
+\caption@width=\dimen194
+\caption@indent=\dimen195
+\caption@parindent=\dimen196
+\caption@hangindent=\dimen197
+Package caption Info: AMS or SMF document class detected.
+ (C:\Program Files\MiKTeX\tex/latex/caption\caption-ams-smf.sto
+File: caption-ams-smf.sto 2020/08/22 v2.0 Adaption of the caption package to the AMS and SMF document classes (AR)
+))
+\c@caption@flags=\count327
+\c@continuedfloat=\count328
+Package caption Info: hyperref package is loaded.
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count329
+\float@exts=\toks37
+\float@box=\box57
+\@float@everytoks=\toks38
+\@floatcapt=\box58
+)
+\@float@every@sidebar=\toks39
+\c@sidebar=\count330
+\fulltextwidth=\dimen198
+\@ACM@labelwidth=\dimen199
+\listisep=\skip63
+\num@authorgroups=\count331
+\num@authors=\count332
+\@ACM@badge@width=\skip64
+\@ACM@title@width=\skip65
+\@ACM@badge@skip=\skip66
+Class acmart Info: Printing CCS on input line 1848.
+Class acmart Info: Printing bibformat on input line 1848.
+Class acmart Info: Printing folios on input line 1853.
+Class acmart Info: Setting authorsperrow to 0 on input line 1858.
+ (C:\Program Files\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') Excluding comment 'CCSXML'
+\c@@concepts=\count333
+\mktitle@bx=\box59
+\@ACM@acmcpbox=\box60
+\@ACM@commabox=\box61
+\author@bx=\box62
+\author@bx@wd=\dimen256
+\author@bx@sep=\skip67
+ (C:\Program Files\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip68
+\f@nch@offset@elh=\skip69
+\f@nch@offset@erh=\skip70
+\f@nch@offset@olh=\skip71
+\f@nch@offset@orh=\skip72
+\f@nch@offset@elf=\skip73
+\f@nch@offset@erf=\skip74
+\f@nch@offset@olf=\skip75
+\f@nch@offset@orf=\skip76
+\f@nch@height=\skip77
+\f@nch@footalignment=\skip78
+\f@nch@widthL=\skip79
+\f@nch@widthC=\skip80
+\f@nch@widthR=\skip81
+\@temptokenb=\toks40
+)
+\ACM@linecount@bx=\box63
+\ACM@linecount@bxht=\skip82
+\ACM@linecount=\count334
+ Special comment 'acks'
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF on input line 3652.
+ (C:\Program Files\MiKTeX\tex/latex/libertine\t1linuxlibertinet-tlf.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3652.
+)
+Class acmart Info: Using journal code jacm on input line 8.
+Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 16.
+\c@theorem=\count335
+ Include comment 'screenonly' Excluding comment 'printonly' Include comment 'anonsuppress' (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count336
+) (final_v1.aux)
+\openout1 = `final_v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 16.
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\omlnxlmi.fd
+File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/libertine\ot1linuxlibertinet-tlf.fd
+File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+<<ot1.cmap>>
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 8.0pt on input line 16.
+<<oml.cmap>>
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 16.
+ (C:\Program Files\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.0pt on input line 16.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 5.5pt on input line 16.
+LaTeX Info: Command `\dddot' is already robust on input line 16.
+LaTeX Info: Command `\ddddot' is already robust on input line 16.
+LaTeX Info: Redefining \microtypecontext on input line 16.
+Package microtype Info: Applying patch `item' on input line 16.
+Package microtype Info: Applying patch `toc' on input line 16.
+Package microtype Info: Applying patch `eqnum' on input line 16.
+Package microtype Info: Applying patch `footnote' on input line 16.
+Package microtype Info: Applying patch `verbatim' on input line 16.
+LaTeX Info: Redefining \microtypesetup on input line 16.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package hyperref Info: Link coloring ON on input line 16.
+ (final_v1.out) (final_v1.out)
+\@outlinefile=\write4
+\openout4 = `final_v1.out'.
+
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count337
+\scratchdimen=\dimen257
+\scratchbox=\box64
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen258
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks42
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside heightrounded 
+* h-part:(L,W,R)=(46.0pt, 395.8225pt, 46.0pt)
+* v-part:(T,H,B)=(58.0pt, 620.7pt, 44.0pt)
+* \paperwidth=487.8225pt
+* \paperheight=722.7pt
+* \textwidth=395.8225pt
+* \textheight=574.0pt
+* \oddsidemargin=-26.26999pt
+* \evensidemargin=-26.26999pt
+* \topmargin=-14.26999pt
+* \headheight=13.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=24.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count343
+\c@mv@boldtabular=\count344
+(C:\Program Files\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 44.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 44.
+ (C:\Program Files\MiKTeX\tex/latex/libertine\t1linuxbiolinumt-tlf.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 44.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 44.
+ (C:\Program Files\MiKTeX\tex/latex/libertine\ts1linuxlibertinet-tlf.fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 44.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+ (C:\Program Files\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+) (C:\Program Files\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 9.0pt on input line 44.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 44.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 46.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 46.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 48.
+ [1.1{C:/Users/venka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
+<figure1.png, id=86, 453.0015pt x 249.66pt>
+File: figure1.png Graphic file (type png)
+<use figure1.png>
+Package pdftex.def Info: figure1.png  used on input line 54.
+(pdftex.def)             Requested size: 316.6592pt x 174.517pt.
+
+
+Class acmart Warning: A possible image without description on input line 56.
+
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 60.
+[2.2 <./figure1.png>]
+<figure2.png, id=92, 453.0015pt x 262.8pt>
+File: figure2.png Graphic file (type png)
+<use figure2.png>
+Package pdftex.def Info: figure2.png  used on input line 66.
+(pdftex.def)             Requested size: 316.6592pt x 183.70209pt.
+
+
+Class acmart Warning: A possible image without description on input line 68.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[3.3 <./figure2.png>]
+<figure3.png, id=98, 453.1329pt x 224.39835pt>
+File: figure3.png Graphic file (type png)
+<use figure3.png>
+Package pdftex.def Info: figure3.png  used on input line 81.
+(pdftex.def)             Requested size: 316.6592pt x 156.8141pt.
+
+
+Class acmart Warning: A possible image without description on input line 83.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [4.4]
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 10.0pt on input line 92.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 7.3pt on input line 92.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 94.
+
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 94--94
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Method
+ []
+
+
+Overfull \hbox (14.76984pt too wide) in paragraph at lines 94--95
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved tu-
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 96--96
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mor de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ac-cu-racy on
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 96--96
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fer adapt-abil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Expand data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) aug-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 96--97
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) & cross In-sti-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-cancer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) im-age clas-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fi-ca-tion with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Versatile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fine-tuned
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Mod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Superior MRI
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tu-mor clas-si-fi-
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) it-er-a-tive train-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Effective
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fine-tuning
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Sensitive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) to hy-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pa-ram-e-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use Bayesian
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 102--102
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Assessed deep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-modal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited to
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 102--103
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Extend to mul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ac-cu-racy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with hy-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pa-ram-e-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Complexity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) con-ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Simplify ar-chi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) evo-lu-tion-ary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dropout &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data Aug-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Strong reg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) u-lar-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combine with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ex-plain-able AI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Review of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL Ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) syn-the-sis of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) breast can-cer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) analytical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) benchmark-
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 110--110
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Neu-ral Net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Accurate tem-
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 110--110
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) po-ral anal-y-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) of metastatic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Temporal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Statistical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) glioblas-toma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Custom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Efficient fea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ture learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Balanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) model ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Overfitting
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 114--115
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Introduce adap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tive dropout
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Explainable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Transparency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-pu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Transfer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Model de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-trained
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Train domain-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DeepCancer
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 120--120
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High train-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Wavelet +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Meta-heuris-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) via fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Signal-level
+ []
+
+
+Overfull \hbox (8.73146pt too wide) in paragraph at lines 124--124
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Synthesized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) trends in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) seg-men-ta-
+ []
+
+
+Overfull \hbox (8.29712pt too wide) in paragraph at lines 126--126
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) tion/classification| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Holistic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Absence of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Op-ti-miza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-dic-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Advanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Precision in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) brain tu-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High pre-ci-
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 130--130
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dataset im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply SMOTE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) or syn-thetic
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 132--132
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Resid-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Accurate in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tracra-nial
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 132--132
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tu-mor clas-si-fi-
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 132--132
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Gradient sta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High ac-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) saliency-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Secure Hy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Federated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Privacy-
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 136--136
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Network la-
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 136--137
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use edge op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Vol-u-met-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tion through
+ []
+
+
+Overfull \hbox (1.5416pt too wide) in paragraph at lines 138--138
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Morphological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Saliency-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Bridged ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Voxel
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 142--142
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Group-ing +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Accurate seg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Add multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with Tran-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply mul-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) modal data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Parameter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Es-ti-ma-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) brain tu-mor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Regularization
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with dropout
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL Frame-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Reliable MRI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automation-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hardware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deploy light-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) IoT In-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) grated DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimize IoT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) data com-pres-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Practical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Expand open
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ex-plain-able
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 154--154
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High clin-i-cal
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 154--155
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Simplify hy-brid
+ []
+
+
+LaTeX Warning: Float too large for page by 793.7998pt on input line 157.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure4.png, id=103, 453.1329pt x 280.76895pt>
+File: figure4.png Graphic file (type png)
+<use figure4.png>
+Package pdftex.def Info: figure4.png  used on input line 166.
+(pdftex.def)             Requested size: 316.6592pt x 196.20703pt.
+
+Class acmart Warning: A possible image without description on input line 168.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[5.5 <./figure3.png>]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 179--179
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Method
+ []
+
+
+Overfull \hbox (8.90797pt too wide) in paragraph at lines 179--179
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Limitations| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 179--180
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 179--180
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ing for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Re-cur-rence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) deep model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ef-fec-tively
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-dicted re-
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 181--181
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Strong tem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gen-er-al-
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) iza-tion to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ex-ter-nal
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 181--182
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Validate us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) multi-center
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) lon-gi-tu-di-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) histopatho-log-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) i-cal se-quence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combines
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) spa-tial &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) se-quen-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) prun-ing &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) light-weight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 185--185
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bil-ity through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) en-sem-ble vot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Complex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) en-sem-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-te-gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Develop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) au-to-mated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) en-sem-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) op-ti-miza-tion
+ []
+
+
+Overfull \hbox (6.27057pt too wide) in paragraph at lines 187--187
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Mammography-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based Risk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Linked risk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) model evo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) lu-tion with
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) can-cer mor-tal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-7) Incorporates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tem-po-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bal-ance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) af-fects
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) risk cal-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-sam-pling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and tem-po-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Pathological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Im-age DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enabled early
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) di-ag-no-sis via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) si-tiv-ity in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) early-stage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ex-plain-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Grad-CAM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) or saliency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) map-ping for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multimodal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL + On-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) co-type DX
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and ge-nomic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) risk data for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-cur-rence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ge-nomic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Utilize fed-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ated learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) for privacy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Progressive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Learn-ing +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) di-ag-nos-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ac-cu-racy in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ver-gence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Sensitive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Incorporate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) adap-tive fine-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Evolutionary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Learn-
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 195--195
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced fea-
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 195--195
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ture op-ti-miza-
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 195--195
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tion via meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) hy-per-pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--195
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ram-e-ter
+ []
+
+
+Overfull \hbox (17.26738pt too wide) in paragraph at lines 195--195
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tributed GPU
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) trends in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ar-chi-tec-ture
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-plex-ity vs.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) analytical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-pre-hen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Lack of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ex-per-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) men-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Propose stan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dard-ized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bench-marks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) for meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Review of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Chal-lenges
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) & Fu-ture
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ity and re-pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Thematic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) breadth
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) & fu-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Absence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) of quan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-ta-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-view syn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) the-sis with
+ []
+
+
+LaTeX Warning: Float too large for page by 89.79993pt on input line 202.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6.6 <./figure4.png>]
+Overfull \hbox (2.60435pt too wide) in paragraph at lines 207--208
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) bil-ity, fair-ness, and ex-plain-abil-ity across imag-ing modal-i-ties and pa-tient de-mo-graph-ics. Metaheuristic-
+ []
+
+<figure5.png, id=114, 453.0015pt x 270.684pt>
+File: figure5.png Graphic file (type png)
+<use figure5.png>
+Package pdftex.def Info: figure5.png  used on input line 211.
+(pdftex.def)             Requested size: 316.6592pt x 189.21317pt.
+
+Class acmart Warning: A possible image without description on input line 213.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[7.7 <./figure5.png>]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 226--226
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Method
+ []
+
+
+Overfull \hbox (8.90797pt too wide) in paragraph at lines 226--226
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Limitations| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 226--227
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 226--227
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ing + Ant
+ []
+
+
+Underfull \hbox (badness 2941) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Colony Op-ti-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 228--228
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Achieved high
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ac-cu-racy via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bio In-spired
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) con-ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gence &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture
+ []
+
+
+Overfull \hbox (17.26738pt too wide) in paragraph at lines 228--228
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ten-sity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dur-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ adap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tive ACO or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) hy-brid meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Explainable
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) model in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pretabil-ity in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Promotes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) cost for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) vi-su-al-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) End-to-end
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) screen-ing au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Operational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use class
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) weight-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) or syn-thetic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MobileNetV2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) + Op-ti-miza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Lightweight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) & de-ploy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Slight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) drop in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) computing-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based re-fine-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN Frame-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) work (Mul-ti-
+ []
+
+
+Overfull \hbox (1.66615pt too wide) in paragraph at lines 236--236
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Overfitting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--236
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) on small
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) trans-fer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-layer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN (Skin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Efficient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) multi-stage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-pro-cess-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use do-main
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) adap-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and fed-er-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Attention-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ter-
+ []
+
+
+Overfull \hbox (17.26738pt too wide) in paragraph at lines 240--240
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use at-ten-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) prun-ing &
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 240--241
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ef-fi-cient trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Comparative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL + TL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Validated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) per-for-mance
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 242--242
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) across mod-els
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Benchmark
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) depth and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--242
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-con-sis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use stan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dard-ized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) der-moscopy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) + Two-Stage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dual-task
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Utilize model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Color Space
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Anal-y-sis in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified key
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) role of color
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Complex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) space adap-ta-
+ []
+
+
+Overfull \hbox (3.66132pt too wide) in paragraph at lines 248--248
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Interpretability
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Balanced ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Clinical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Develop fast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gra-di-ent ap-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) prox-i-ma-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid Fea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ture Fu-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Robust
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dun-dancy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) PCA or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) attention-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Web-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN (Skin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Cloud-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) deployed
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 252--252
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) real-time di-ag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Network
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) de-pen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate of-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fline fall-back
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 254--254
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Robust and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-plex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) weighted
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 254--255
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) en-sem-ble op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multimodal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hy-brid DL
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 256--256
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrated im-
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 256--256
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High sta-tis-
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 256--256
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-cal ro-bust-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) het-ero-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use do-main
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gen-er-al-iza-tion
+ []
+
+
+LaTeX Warning: Float too large for page by 223.7999pt on input line 259.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figure6.png, id=121, 453.1329pt x 224.7597pt>
+File: figure6.png Graphic file (type png)
+<use figure6.png>
+Package pdftex.def Info: figure6.png  used on input line 268.
+(pdftex.def)             Requested size: 316.6592pt x 157.06664pt.
+
+Class acmart Warning: A possible image without description on input line 270.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8.8]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 283--283
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 283--284
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 283--284
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 285--285
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Learn-ing with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fea-ture Se-lec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Reduces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) di-men-sional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tive fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predicted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) NSCLC sur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) vival with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Prognostic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--287
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 287--287
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) large an-no-
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 287--288
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fer learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) from pub-lic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CT-based DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Read-ing Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-stage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Incorporate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Clinical DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clin-i-cal in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Real-world
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 291--291
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dataset im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use cross
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) In-sti-tu-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ex-pres-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Classified
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-omics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) em-bed-ding &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) FPA-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Weighted En-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Reduced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) en-sem-ble
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 295--295
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Model com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Streamline
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) knowl-edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Attribute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combined
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ML and DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) for ac-cu-rate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) feature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use early
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) stop-ping and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dropout reg-u-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) racy through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) hy-brid op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Adaptive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) plain-able AI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-7) Histopathology
+ []
+
+
+Overfull \hbox (7.23206pt too wide) in paragraph at lines 301--301
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Morphological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--301
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High mem-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 301--302
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) lay-ers for ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ICyO-TLDCN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) (Cyno-mys
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 303--303
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ver-gence via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) meta-heuris-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Complex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) hy-per-pa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ram-e-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Simplify al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) go-rithm via
+ []
+
+
+Overfull \hbox (17.0387pt too wide) in paragraph at lines 305--305
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histomorphological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Accurate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Large-scale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) high-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) resolution
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply patch-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 307--307
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predictive CT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) screen-ing ac-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 307--307
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Early de-tec-
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 307--307
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data im-bal-
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 307--308
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Augment with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) syn-thetic
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 307--308
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mi-nor-ity over-
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 309--309
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ing with Pat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Balanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with entropy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Domain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) to sin-gle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Expand with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) multi-domain
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 311--311
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN + Trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Captured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) long-range
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) de-pen-den-cies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) con-tex-tu-al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+7) Transformer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use sparse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) at-ten-tion or
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 311--312
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ef-fi-cient trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Length-Scale
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 313--313
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified spa-
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 313--313
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tial scales af-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Theoretical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) model in-
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 313--313
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) i-cal ap-pli-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Validate via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) multi In-sti-tu-
+ []
+
+
+LaTeX Warning: Float too large for page by 199.7999pt on input line 316.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[9.9 <./figure6.png>]
+<figure7.png, id=131, 453.1329pt x 269.92845pt>
+File: figure7.png Graphic file (type png)
+<use figure7.png>
+Package pdftex.def Info: figure7.png  used on input line 327.
+(pdftex.def)             Requested size: 316.6592pt x 188.63147pt.
+
+
+Class acmart Warning: A possible image without description on input line 329.
+
+[10.10 <./figure7.png>]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 340--340
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 340--341
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 340--341
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) for Mi-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) chon-drial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enabled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) organelle-level
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) func-tion pre-dic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tion linked to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) can-cer me-tab-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) i-cal in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) scal-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) to whole-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tissue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fer learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Bleed-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tra-op-er-a-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bleed-ing de-tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/LinuxLibertineT-TLF/m/n/10 (+3) la-paro-scopic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Extend to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) multi-surgical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) con-texts via
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 344--345
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dataset ex-pan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Convolutional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Gated Kro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) necker Net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Captures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) high-order
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) spa-tial de-
+ []
+
+
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 346--346
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 348--348
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-modal Ar-chi-
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 348--348
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) specific sur-vival
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Strong
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mul-ti-modal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Incorporate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) attention-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based in-ter-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Re-view of DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in Med-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified it-er-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) tive val-i-da-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Meta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) analytical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Lack of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) domain-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) specific
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bench-mark-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrates
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 352--352
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clin-i-cal and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ra-diomic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dependent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) on mul-ti-
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 352--352
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) modal data
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 352--353
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ fed-er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ated learn-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Edge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Refined nu-clei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) seg-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 354--354
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with high pre-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mor-pho-log-i-
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 354--354
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Sensitive to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) noise and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply de-nois-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ing au-toen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Supervised
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Learn-ing on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Autonomous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) HCC sub-type
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Potential
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) rep-re-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pre-train-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with multi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Reclassified
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-bined
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) hepatocellular-
+ []
+
+
+Overfull \hbox (9.77658pt too wide) in paragraph at lines 358--358
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) cholangiocarcinoma| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) high-quality
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) histopathol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Expand his-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) to-log-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) di-ver-sity in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MRI-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Differentiated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dual-phenotype
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multicenter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--360
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Complex
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 360--361
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combine with
+ []
+
+
+LaTeX Warning: Float too large for page by 17.79993pt on input line 363.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[11.11]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 379--379
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 379--380
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 379--380
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Lightweight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN Frame-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-ple cer-vi-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) can-cer types
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High ac-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) racy with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-duced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) com-pu-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--381
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dataset
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 381--382
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Employ trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) cross-domain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Col-poscopy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Improved vi-
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 383--383
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sual de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) of cer-vi-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Overfitting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) on small
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) reg-u-lar-ized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble ML
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 385--385
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predicted can-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Transparent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clas-si-fi-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ro-bust-ness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Balanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) per-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) across
+ []
+
+
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 387--387
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use prun-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Criteria-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Calibrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ra-dio-ther-apy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) plan-ning via
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 389--389
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Clinical rel-
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 389--389
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) e-vance and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate fed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) topo-graph-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) i-cal fea-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) se-lec-tion for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Reduced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-dun-dancy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) proved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--391
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-miza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combined
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) seg-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and clas-si-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ag-nos-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Training
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) transfer-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multimodal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predicted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ra-dio-ther-apy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) prog-no-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gen-er-al-iz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data har-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mo-niza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) nor-mal-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid DL +
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 397--397
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Extracted and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clas-si-fied Pap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Feature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--397
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-dun-dancy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Introduce fea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ture se-lec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--398
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with mu-tual
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 399--399
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN for Pap
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 399--399
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Accurate cy-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pho-log-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--399
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 399--399
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Sensitive to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use con-trast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) nor-mal-iza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and noise
+ []
+
+
+LaTeX Warning: Float too large for page by 41.79993pt on input line 402.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12.12]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 420--420
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Overfull \hbox (20.46031pt too wide) in paragraph at lines 420--421
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Recommendations
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 420--421
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) to Over-come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Radiomics +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predicted dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ra-diomics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) im-proved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Model de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pen-dent
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 422--422
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) on imag-ing
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 422--423
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) adap-ta-tion for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) imag-ing vari-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Attention-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Diagnosed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fol-lic-u-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) car-ci-noma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pretabil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) at-ten-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Expand with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) po-ten-tial risk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) genes for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Iterative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) op-ti-miza-
+ []
+
+
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 426--426
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Implement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) re-in-force-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) prun-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) GPU par-al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fusion DL +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Telang-iec-ta-sia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) de-tec-tion via
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) mor-pho-log-i-cal
+ []
+
+
+Underfull \hbox (badness 6893) in paragraph at lines 428--428
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid fea-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Feature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ex-trac-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Automate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) seg-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) via at-ten-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) histopatho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Captured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) spa-tial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--430
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) vari-ance
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 430--430
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data im-bal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Apply syn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) stag-ing pre-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multimodal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Use semi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) supervised
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 432--433
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) trans-fer learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-Channel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High prog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) nos-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pretabil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Integrate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) SHAP-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) fea-ture ex-pla-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Supervised
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 436--436
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identified pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Label-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) gen-er-al-iz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Requires
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--436
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) large un-la-
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 436--437
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Combine with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) weak su-per-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL Fea-ture
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 438--438
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predicted lym-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pho-vas-cu-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) in-va-sion in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Overfitting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Regularize
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) with dropout
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and Bayesian
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 440--440
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MRI-based Ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Differentiated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dual-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) phenotype
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) High inter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Limited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) modal-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Incorporate
+ []
+
+
+LaTeX Warning: Float too large for page by 17.79993pt on input line 443.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 455--455
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Cancer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--455
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Dataset
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 455--456
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Performance Met-rics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid CNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--461
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fine-tuned
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--461
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--463
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Comparative
+ []
+
+
+Overfull \hbox (14.13551pt too wide) in paragraph at lines 463--463
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Hyperspectral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Bio In-spired
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--465
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hy-brid Deep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dropout &
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 467--467
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Data Aug-men-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 469--469
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Review of DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Longitudinal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Neu-ral Net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Brain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Metas-ta-
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 473--473
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic Re-
+ []
+
+
+Overfull \hbox (10.1918pt too wide) in paragraph at lines 473--473
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Glioblastoma| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--475
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Custom CNN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ISIC-
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 483--483
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fusion of TL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 487--487
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Bio In-spired
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Op-ti-miza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Advanced DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 493--493
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Resid-ual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 497--497
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Secure Hy-brid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Federated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Replicator +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Vol-u-met-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Saliency-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Custom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Tran-scrip-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 511--511
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) IoT In-te-grated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Federated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Smart Deep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Learn-ing Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Kaggle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BraTS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) for Mi-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) chon-drial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Live-cell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--517
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Imag-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Bleed-ing
+ []
+
+
+Overfull \hbox (9.93535pt too wide) in paragraph at lines 519--519
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Laparoscopic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Convolutional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Gated Kro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) necker Net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) LIHC-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 523--523
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ti-modal Ar-chi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Edge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Histopath
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Self-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Supervised
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MRI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL Phe-no-typ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--533
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Pathology
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MRI-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Deep Ra-
+ []
+
+
+Overfull \hbox (4.09618pt too wide) in paragraph at lines 535--535
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Multicenter| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Lightweight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--537
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Kaggle
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 539--539
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN on Col-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--539
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Custom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--541
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hospital
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 543--543
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fusion of DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ISBI Col-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Criteria-
+ []
+
+
+Overfull \hbox (10.78294pt too wide) in paragraph at lines 545--545
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Radiotherapy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Cytology
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multimodal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) center
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hybrid DL +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--553
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Pap
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 555--555
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN for Pap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Herlev
+ []
+
+
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 557--557
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 559--559
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--559
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Hospital
+ []
+
+
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 561--561
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--561
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Genomic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Fusion DL +
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 565--565
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) moral Het-ero-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) LIHC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-channel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) BMC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Dynamic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CT
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 575--575
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) MRI-based Ra-
+ []
+
+
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 575--575
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma
+ []
+
+
+Overfull \hbox (1.41481pt too wide) in paragraph at lines 575--575
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) (HCC/ICC)| 
+ []
+
+
+Overfull \hbox (3.90617pt too wide) in paragraph at lines 575--575
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Multicenter
+ []
+
+
+LaTeX Warning: Float too large for page by 1213.79962pt on input line 578.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[13.13]
+Overfull \hbox (21.87508pt too wide) in paragraph at lines 587--587
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Reference| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Cancer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Dataset
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 587--588
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Performance Met-rics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--589
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) EfficientNet +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ensemble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based Risk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Pathological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--597
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Im-age DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--599
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--601
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Progressive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--601
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CBIS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--603
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Evolutionary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--603
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Private
+ []
+
+
+Overfull \hbox (6.07137pt too wide) in paragraph at lines 603--603
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histopathol-
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 605--605
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Systematic Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) DL + Ant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Colony Op-ti-
+ []
+
+
+Overfull \hbox (2.29301pt too wide) in paragraph at lines 611--611
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) HAM10000| 
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 613--613
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Screen-ing Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) PH2
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--617
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN Frame-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--617
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) work (Mul-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-layer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN (Skin-
+ []
+
+
+Overfull \hbox (2.29301pt too wide) in paragraph at lines 619--619
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) HAM10000| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Attention-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) based Multi-
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 621--621
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ISIC Der-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--623
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Comparative
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--623
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) PH2 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Optimized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ISIC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Le-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--625
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Seg-men-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Color Space
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Private
+ []
+
+
+Overfull \hbox (2.29301pt too wide) in paragraph at lines 631--631
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) HAM10000| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Web-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--633
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN (Skin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ISIC +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Clin-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) NSCLC-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CT-based DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Read-ing Sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--645
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Clinical DL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 647--647
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) FPA-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--649
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Weighted En-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Attribute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) NSCLC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--653
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Kaggle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--655
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-7) Histopathology
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--655
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--655
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) LUAD
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) ICyO-TLDCN
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--657
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) (Meta-heuris-tic
+ []
+
+
+Overfull \hbox (17.0387pt too wide) in paragraph at lines 659--659
+[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histomorphological
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--659
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCGA +
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 661--661
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Predictive CT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) NSCLC
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 665--665
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) CNN + Trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--665
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) TCIA +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--667
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Length-Scale
+ []
+
+
+LaTeX Warning: Float too large for page by 773.79974pt on input line 670.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14.14]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 683.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[15.15]
+
+Class acmart Warning: Some images may lack descriptions.
+(acmart)              ACM is committed to complying with the upcoming US ADA https://accessiblyapp.com/accessibility-compliance/ada/ and European Accessibility Act (EAA) https://accessiblyapp.com/accessibility-compliance/eaa/ regulations by actively working to ensure our publications and application services are accessible to individuals with disabilities, adhering to the WCAG guidelines to provide a seamless experience for all users, and regularly reviewing our accessibility practices to maintain compliance with evolving standards. 
+(acmart)              To this end, we strongly encourage our authors to provide alternative text and captions for images and multimedia content. It is also important to optimize color contrast for the visually impaired. Taking these important steps when creating your papers will ensure that the widest possible audience can ingest your work..
+
+
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
+
+[16.16]
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[17.17] [18.18]
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[19.19] [20.20]
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[21.21] [22.22]
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[23.23] [24.24]
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+(C:\Program Files\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) (C:\Program Files\MiKTeX\tex/generic/stringenc\se-utf8.def
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
+) [25.25] (final_v1.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+ ***********
+Package rerunfilecheck Info: File `final_v1.out' has not changed.
+(rerunfilecheck)             Checksum: FEEBB6FC81ADF2206E2300971C944E70;3647.
+ ) 
+Here is how much of TeX's memory you used:
+ 21128 strings out of 467871
+ 338491 string characters out of 5428442
+ 1043492 words of memory out of 5000000
+ 49088 multiletter control sequences out of 15000+600000
+ 779147 words of font info for 338 fonts, out of 8000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 90i,17n,131p,2105b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on final_v1.pdf (25 pages, 1323218 bytes).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 75956 words of extra memory for PDF output out of 89155 (max. 10000000)
+
