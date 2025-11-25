@@ -204,6 +204,16 @@ INPUT C:\Program Files\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tabulary\tabulary.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tabulary\tabulary.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\preprint\balance.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\preprint\balance.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\final_v1.aux
@@ -295,6 +305,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
 INPUT C:\Program Files\MiKTeX\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
 INPUT C:\Program Files\MiKTeX\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
@@ -354,9 +366,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--b
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
 INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\libertine\lbtn_nh77jq.enc
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\libertine\lbtn_7grukw.enc
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ts1.vf
@@ -392,66 +401,53 @@ INPUT .\figure3.png
 INPUT .\figure3.png
 INPUT .\figure3.png
 INPUT .\figure3.png
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ot1.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\nxlmi.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\nxlmi7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\nxlmia.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\nxlmia.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure4.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure5.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure6.png
-INPUT .\figure7.png
-INPUT .\figure7.png
-INPUT .\figure7.png
-INPUT .\figure7.png
-INPUT .\figure7.png
-INPUT .\figure7.png
-INPUT .\figure7.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\libertine\lbtn_7grukw.enc
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure4.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure5.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure6.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\figure7.png
+INPUT .\final_v1.bbl
+INPUT .\final_v1.bbl
+INPUT final_v1.bbl
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1.tfm
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
 INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
 INPUT final_v1.aux
 INPUT .\final_v1.out
 INPUT .\final_v1.out

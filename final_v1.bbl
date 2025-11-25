@@ -1,0 +1,68 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{2}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Mathivanan et~al\mbox{.}(2024)]%
+        {mathivanan2024employing}
+\bibfield{author}{\bibinfo{person}{S.~K. Mathivanan}, \bibinfo{person}{S.
+  Sonaimuthu}, \bibinfo{person}{S. Murugesan}, \bibinfo{person}{H. Rajadurai},
+  \bibinfo{person}{B.~D. Shivahare}, {and} \bibinfo{person}{M.~A. Shah}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Employing Deep Learning and Transfer Learning for
+  Accurate Brain Tumor Detection}.
+\newblock \bibinfo{journal}{\emph{Sci. Rep.}} \bibinfo{volume}{14},
+  \bibinfo{number}{1}, Article \bibinfo{articleno}{57970}
+  (\bibinfo{year}{2024}), \bibinfo{numpages}{12}~pages.
+\newblock
+\href{https://doi.org/10.1038/s41598-024-57970-7}{doi:\nolinkurl{10.1038/s41598-024-57970-7}}
+
+
+\bibitem[R.~V. et~al\mbox{.}(2025)]%
+        {r2025brain}
+\bibfield{author}{\bibinfo{person}{M. R.~V.}, \bibinfo{person}{Y.~G. N.},
+  \bibinfo{person}{M. H.~M.}, \bibinfo{person}{B. K.~N.}, {and}
+  \bibinfo{person}{M. R.}} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Brain Tumor Classification on MRI Images Using
+  Fine-Tuned Deep Learning Models}.
+\newblock \bibinfo{journal}{\emph{Mach. Learn. Comput. Sci. Eng.}}
+  \bibinfo{volume}{1}, \bibinfo{number}{1}, Article \bibinfo{articleno}{24}
+  (\bibinfo{year}{2025}), \bibinfo{numpages}{18}~pages.
+\newblock
+\href{https://doi.org/10.1007/s44379-025-00024-0}{doi:\nolinkurl{10.1007/s44379-025-00024-0}}
+
+
+\end{thebibliography}

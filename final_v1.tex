@@ -1,17 +1,33 @@
 \documentclass[acmsmall,screen,review]{acmart}
+\AtBeginDocument{%
+  \providecommand\BibTeX{{%
+    Bib\TeX}}}
 
-\setcopyright{acmlicensed}
-\copyrightyear{2024}
-\acmYear{2024}
-\acmDOI{XXXXXXX.XXXXXXX}
+% \setcopyright{acmlicensed}
+% \copyrightyear{2024}
+% \acmYear{2024}
+% \acmDOI{XXXXXXX.XXXXXXX}
 
-\acmJournal{JACM}
-\acmVolume{1}
-\acmNumber{1}
-\acmArticle{1}
-\acmMonth{1}
+% \acmJournal{JACM}
+% \acmVolume{1}
+% \acmNumber{1}
+% \acmArticle{1}
+% \acmMonth{1}
 
+%\usepackage{article}
+\usepackage{geometry}
 \usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{balance}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
 
 \begin{document}
 
@@ -39,7 +55,7 @@
 Deep learning has transformed cancer diagnosis, but statistical understanding of model behavior, repeatability, and generalizability remains limited. This study presents a statistical examination of 100 deep learning frameworks for cancer classification, prognostic modeling, and radiomic feature extraction across malignancies. Iterative comparison study measures CNN, transformer topology, multimodal fusion model, and metaheuristic optimization framework accuracy, precision, recall, F1-score, and AUC metrics. Methodological, statistical, and interpretive aspects are combined in one analytical lens to reduce review fragmentation. After deconstructing each mentioned work based on dataset diversity, architectural configuration, optimization approaches, and cross validation strategy, statistical metrics were used for comparative numerical analysis. Ensemble and hybrid models incorporating radiomics or genomic correlations outperform single-stream CNNs with mean accuracies above 96\% and AUCs above 0.98. Additionally, multimodal architectures and reinforcement learning methods improved data heterogeneity adaptability and clinical generalization. Dataset variety, institution-specific imaging modalities, interpretability constraints, and computing expense are other key difficulties, the study found. This work uses iterative performance evaluation to detect these shortcomings and provide an operational requirement for statistical reproducibility in medical AI research. A transparency and statistical accountability paradigm links technical performance with clinical trustworthiness in the suggested analytical synthesis. This evidence-based synthesis and methodological approach for cancer informatics research blends explainable AI, federated learning, and uncertainty quantification into next-generation cancer classification frameworks. Statistical analysis redefines evaluation paradigms, allowing precision oncology researchers construct more interpretable, efficient, and clinically reliable deep learning systems.
 \end{abstract}
 
-\keywords{Deep Learning, Cancer Classification, Radiomics, Statistical Analysis, Explainable AI, Clinical Scenarios}
+\keywords{Deep Learning, Cancer Classification, Radiomics, Statistical Analysis, Explainable AI, Clinical, Scenarios}
 
 \maketitle
 
@@ -59,7 +75,7 @@ Many papers have covered oncology deep learning applications throughout the past
 Three trends merged to inspire this. Heterogeneous deep learning techniques for cancer categorization are emerging. Graph neural networks, CNNs, reinforcement learning frameworks, and attention-based transformers differ computationally and statistically. Without a single evaluation process, architectures with the most consistent diagnostic outcomes cannot be determined. Second, clinical communities seek statistically reliable, explainable methods. Black-box deep learning algorithms with high numerical accuracy struggle to gain physician trust without transparent reasoning processes or probabilistic confidence markers. The field urgently needs quantitative performance assessments with interpretability frameworks like SHAP, Grad-CAM, or Bayesian uncertainty modeling sets. Third, imaging, genomics, and pathology data sources complicate data imbalance, normalization [7, 8, 9], and cross-modal correlation. There is little research on optimizing deep learning models in different contexts. Quantifying these issues through iterative analytical assessments allows reproducible approaches and model generalization across cancer types.
 
 \section{Contribution of This Work}
-This study evaluates deep learning--based cancer classifications using iterative statistical analysis. The framework makes five important contributions. Complete domain coverage This theoretical and numerical study covers 100 research publications on brain, breast, skin, liver, lung, and genitourinary cancers. This scope provides a rare glimpse into oncology deep learning. Repeated quantitative benchmarking: Each model's accuracy, precision, recall, F1-score, and AUC are assessed on standardized datasets. The evaluation uses repeated comparison and statistical averaging to identify model performance convergence trends and architectural or dataset-specific outliers. Model Strengths-Weakness Integration: This study contextualizes each model's merits, faults, and repair alternatives beyond performance reporting. The review links architectural choices (attention layers, ensemble voting, transfer learning) to statistical outcomes to advise future model development sets. Connecting Performance and Interpretability: A important contribution of this review is mapping the predicted accuracy-explanability trade-off. Explainable AI (XAI) frameworks and attention-guided CNNs provide model transparency and diagnostic precision. Future Research Statistical Standardization: Summary provides a repeatable oncology deep learning model evaluation method. Combining iterative validation loops and uncertainty quantification provides a statistical baseline for model generalization and reproducibility criteria for clinical translations.
+This study evaluates deep learning–based cancer classifications using iterative statistical analysis. The framework makes five important contributions. Complete domain coverage This theoretical and numerical study covers 100 research publications on brain, breast, skin, liver, lung, and genitourinary cancers. This scope provides a rare glimpse into oncology deep learning. Repeated quantitative benchmarking: Each model's accuracy, precision, recall, F1-score, and AUC are assessed on standardized datasets. The evaluation uses repeated comparison and statistical averaging to identify model performance convergence trends and architectural or dataset-specific outliers. Model Strengths-Weakness Integration: This study contextualizes each model's merits, faults, and repair alternatives beyond performance reporting. The review links architectural choices (attention layers, ensemble voting, transfer learning) to statistical outcomes to advise future model development sets. Connecting Performance and Interpretability: A important contribution of this review is mapping the predicted accuracy-explanability trade-off. Explainable AI (XAI) frameworks and attention-guided CNNs provide model transparency and diagnostic precision. Future Research Statistical Standardization: Summary provides a repeatable oncology deep learning model evaluation method. Combining iterative validation loops and uncertainty quantification provides a statistical baseline for model generalization and reproducibility criteria for clinical translations.
 
 \begin{figure}[h]
 \centering
@@ -74,7 +90,7 @@ The impact of this work goes beyond meta-analysis. The quantitative paradigm exp
 In this section, we segregate the models as per their detection type and analyse them in depth such that readers can further understand which models are most suited for which types of cancer for clinical scenarios.
 
 \subsection{Models used for Brain Cancer Analysis}
-Deep learning in cancer categorization has improved computational medicine and diagnostics. Many brain cancer detection investigations use iterative analytical methods to maximize convolutional structures, transfer learning, and statistical generalizability. For diagnostic robustness, these studies emphasize model interpretability, feature abstraction, and multimodal data fusion. Mathivanan et al. [1] employed CNN transfer learning to increase tumor recognition across MRI datasets, proving model reuse works even with little labeled data. To improve inter-class discrimination, Kumar et al. [2] automated multi-cancer picture categorization using hybrid architectures and a multi-branch feature extraction pipeline. R improved brain tumor detection. V. et al. [3], who statistically validated pretrained models using MRI images to increase classification accuracy. Hyperspectral imaging allowed Baffa et al. [4] to study architectures and the statistical link between spectral variability and tissue classification. Lawrence's hybrid bio Inspired approach [5] improved data-constrained clinical performance by combining hyperparameter optimization and deep learning. Abou Ali et al. [6] recommended dropout regularization and data augmentation to reduce overfitting and improve model generalizability across heterogeneous imaging sources.
+Deep learning in cancer categorization has improved computational medicine and diagnostics. Many brain cancer detection investigations use iterative analytical methods to maximize convolutional structures, transfer learning, and statistical generalizability. For diagnostic robustness, these studies emphasize model interpretability, feature abstraction, and multimodal data fusion. Mathivanan et al. [1] employed CNN transfer learning to increase tumor recognition across MRI datasets, proving model reuse works even with little labeled data. To improve inter-class discrimination, Kumar et al. [2] automated multi-cancer picture categorization using hybrid architectures and a multi-branch feature extraction pipeline. R improved brain tumor detection. V. et al. [3], who statistically validated pretrained models using MRI images to increase classification accuracy.  Hyperspectral imaging allowed Baffa et al. [4] to study architectures and the statistical link between spectral variability and tissue classification. Lawrence's hybrid bio Inspired approach [5] improved data-constrained clinical performance by combining hyperparameter optimization and deep learning. Abou Ali et al. [6] recommended dropout regularization and data augmentation to reduce overfitting and improve model generalizability across heterogeneous imaging sources.
 
 \begin{figure}[h]
 \centering
@@ -86,7 +102,8 @@ Sharafaddini et al. [7] and Tbahriti et al. [9] found model accuracy and sensiti
 
 Brima and Atemkeng [23] explained CNN decision layers using saliency mapping and quantitative statistical analysis for explainability. A study by Şahin et al. [24] used wavelet characteristics to segment voxels in 3D imaging, improving processing performance. Hoang et al. [25] used histopathology and transcriptomics to demonstrate deep learning's molecular-level prediction capabilities. For deep feature extraction validation, Vijayakumari et al. [26] and Aamir et al. [27] employed automated evaluation and ANOVA-based performance metrics. New IoT integrated models like I-BrainNet [28] supported deep learning-based distributed inference in real-time healthcare. Ishfaq and Nahiduzzaman [29, 30] demonstrated hybrid explainable models with strong interpretability and computational economy, combining statistical performance with clinical usability. These findings show that deep learning-based cancer classification systems need repeated statistical validation, explainable structures, and hybrid optimizations. A tabular synthesis of the corpus' analytical strengths, weaknesses, and methodological recommendations follows.
 
-\begin{table*}[h]
+\begin{comment}
+  \begin{table*}[h]
 \centering
 \caption{Model Review of Brain Cancer Analysis Techniques}
 \begin{tabular}{|p{0.8cm}|p{1.8cm}|p{2.2cm}|p{2cm}|p{1.8cm}|p{2.4cm}|}
@@ -156,21 +173,221 @@ Brima and Atemkeng [23] explained CNN decision layers using saliency mapping and
 \end{tabular}
 \end{table*}
 
+
+\begin{longtable}{|p{1.5cm}|p{1.8cm}|p{2.2cm}|p{2cm}|p{1.8cm}|p{3cm}|}
+\caption{Model Review of Brain Cancer Analysis Techniques}
+\label{tab:brain_cancer_review}\\
+\hline
+\textbf{Reference} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Brain Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Reference} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[1] & CNN with Transfer Learning & Improved tumor detection accuracy on MRI datasets & Robust transfer adaptability & Limited dataset diversity & Expand data augmentation \& cross Institutional datasets \\
+\hline
+[2] & Hybrid CNN Architecture & Multi-cancer image classification with enhanced inter-class precision & Versatile architecture & High computational load & Employ model pruning \& quantization \\
+\hline
+[3] & Fine-tuned Deep Models & Superior MRI tumor classification through iterative training & Effective fine-tuning strategy & Sensitive to hyperparameter tuning & Use Bayesian optimization for tuning stability \\
+\hline
+[4] & Comparative CNN Architectures & Assessed deep models for hyperspectral thyroid imaging & Multi-modal statistical insight & Limited to spectral data & Extend to multimodal medical imaging \\
+\hline
+[5] & Bio Inspired Hybrid Deep Model & Improved classification accuracy with hyperparameter optimization & Adaptive optimization & Complexity in model convergence & Simplify architecture or apply evolutionary regularization \\
+\hline
+[6] & Dropout \& Data Augmentation & Enhanced generalization and reduced overfitting & Strong regularization control & Limited interpretability & Combine with explainable AI models \\
+\hline
+[7] & Review of DL Approaches & Comprehensive synthesis of breast cancer models & Meta-analytical scope & Lacks experimental validation & Implement benchmark-based reanalysis \\
+\hline
+[8] & Longitudinal Neural Networks & Accurate temporal analysis of metastatic progression & Temporal modeling & High time complexity & Parallelize training on temporal segments \\
+\hline
+[9] & Systematic Review & Statistical aggregation of glioblastoma DL outcomes & Integrative review strength & Overlaps between study designs & Standardize data inclusion criteria \\
+\hline
+[10] & Custom CNN Framework & Efficient feature learning for brain MRI & Balanced model efficiency & Overfitting risk & Introduce adaptive dropout strategies \\
+\hline
+[11] & Explainable AI (XAI) & Improved interpretability in diagnosis & Transparency in results & Potential computational latency & Optimize visualization computation \\
+\hline
+[12] & Transfer Learning & Enhanced tumor subtype differentiation & High reusability & Model dependency on pretrained weights & Train domain-specific models \\
+\hline
+[13] & DeepCancer DL System & Automated detection application & Real-time potential & Limited scalability & Implement cloud deployment \\
+\hline
+[14] & Fusion of TL Models & Enhanced classification stability & Model fusion strength & High training cost & Apply model distillation \\
+\hline
+[15] & Wavelet + Metaheuristic TL & Improved classification via feature transformation & Signal-level detail & Computational complexity & Parallelize transformation stages \\
+\hline
+[16] & Systematic Review & Synthesized trends in segmentation/classification & Holistic overview & Absence of statistical testing & Employ iterative cross Validation \\
+\hline
+[17] & Bio Inspired Optimization DL & Improved predictive accuracy & Adaptive optimization & High parameter variance & Apply constraint-based tuning \\
+\hline
+[18] & Advanced DL Paradigms & Precision in brain tumor categorization & High precision rate & Dataset imbalance & Apply SMOTE or synthetic augmentation \\
+\hline
+[19] & Deep Residual Learning & Accurate intracranial tumor classification & Gradient stability & Deep network size & Implement residual compression \\
+\hline
+[20] & CNN Computational Framework & Robust MRI image recognition & High accuracy & Limited explainability & Integrate saliency-based interpretability \\
+\hline
+[21] & Secure Hybrid DL & Federated detection framework & Privacy-preserving & Network latency & Use edge optimization \\
+\hline
+[22] & Replicator + Volumetric Networks & Survival prediction through 3D analysis & Morphological precision & Requires large data & Apply transfer pretraining \\
+\hline
+[23] & Saliency-driven XAI & Bridged explainability and statistics & High interpretability & Limited to 2D datasets & Extend to 3D visualization \\
+\hline
+[24] & Voxel Grouping + Wavelet & Accurate segmentation & Efficient voxel grouping & Limited generalization & Add multi-resolution fusion \\
+\hline
+[25] & Deep DL with Transcriptomics & Predicted treatment response & Integrative modeling & Requires omics data & Apply multimodal data fusion \\
+\hline
+[26] & Parameter Estimation DL & Automated brain tumor evaluation & Strong statistical validation & Model overfitting & Regularization with dropout layers \\
+\hline
+[27] & Automated DL Framework & Reliable MRI classification & Automation-ready & Hardware dependency & Deploy lightweight CNNs \\
+\hline
+[28] & IoT Integrated DL (I-BrainNet) & Real-time classification & Distributed inference & Connectivity issues & Optimize IoT data compression \\
+\hline
+[29] & Smart Deep Learning System & Efficient prediction with AI integration & Practical application & Dataset constraints & Expand open medical datasets \\
+\hline
+[30] & Hybrid Explainable DL & Balanced interpretability and accuracy & High clinical usability & Multi-model complexity & Simplify hybrid structure \\
+\hline
+\end{longtable}
+\end{comment}
+\begin{comment}
+\begin{longtable}{|p{0.8cm}|p{1.8cm}|X|p{1.8cm}|p{1.8cm}|X|}
+\caption{Model Review of Brain Cancer Analysis Techniques}
+\label{tab:brain_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Brain Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[1] & CNN with Transfer Learning & Improved tumor detection accuracy on MRI datasets & Robust transfer adaptability & Limited dataset diversity & Expand data augmentation \& cross Institutional datasets \\
+\hline
+[2] & Hybrid CNN Architecture & Multi-cancer image classification with enhanced inter-class precision & Versatile architecture & High computational load & Employ model pruning \& quantization \\
+\hline
+% ... continue with all other rows
+[30] & Hybrid Explainable DL & Balanced interpretability and accuracy & High clinical usability & Multi-model complexity & Simplify hybrid structure \\
+\hline
+\end{longtable}
+\end{comment}
+
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Model Review of Brain Cancer Analysis Techniques}
+\label{tab:brain_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Brain Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+
+[1] & CNN with Transfer Learning & Improved tumor detection accuracy on MRI datasets & Robust transfer adaptability & Limited dataset diversity & Expand data augmentation \& cross Institutional datasets \\
+\hline
+[2] & Hybrid CNN Architecture & Multi-cancer image classification with enhanced inter-class precision & Versatile architecture & High computational load & Employ model pruning \& quantization \\
+\hline
+[3] & Fine-tuned Deep Models & Superior MRI tumor classification through iterative training & Effective fine-tuning strategy & Sensitive to hyperparameter tuning & Use Bayesian optimization for tuning stability \\
+\hline
+[4] & Comparative CNN Architectures & Assessed deep models for hyperspectral thyroid imaging & Multi-modal statistical insight & Limited to spectral data & Extend to multimodal medical imaging \\
+\hline
+[5] & Bio Inspired Hybrid Deep Model & Improved classification accuracy with hyperparameter optimization & Adaptive optimization & Complexity in model convergence & Simplify architecture or apply evolutionary regularization \\
+\hline
+[6] & Dropout \& Data Augmentation & Enhanced generalization and reduced overfitting & Strong regularization control & Limited interpretability & Combine with explainable AI models \\
+\hline
+[7] & Review of DL Approaches & Comprehensive synthesis of breast cancer models & Meta-analytical scope & Lacks experimental validation & Implement benchmark-based reanalysis \\
+\hline
+[8] & Longitudinal Neural Networks & Accurate temporal analysis of metastatic progression & Temporal modeling & High time complexity & Parallelize training on temporal segments \\
+\hline
+[9] & Systematic Review & Statistical aggregation of glioblastoma DL outcomes & Integrative review strength & Overlaps between study designs & Standardize data inclusion criteria \\
+\hline
+[10] & Custom CNN Framework & Efficient feature learning for brain MRI & Balanced model efficiency & Overfitting risk & Introduce adaptive dropout strategies \\
+\hline
+[11] & Explainable AI (XAI) & Improved interpretability in diagnosis & Transparency in results & Potential computational latency & Optimize visualization computation \\
+\hline
+[12] & Transfer Learning & Enhanced tumor subtype differentiation & High reusability & Model dependency on pretrained weights & Train domain-specific models \\
+\hline
+[13] & DeepCancer DL System & Automated detection application & Real-time potential & Limited scalability & Implement cloud deployment \\
+\hline
+[14] & Fusion of TL Models & Enhanced classification stability & Model fusion strength & High training cost & Apply model distillation \\
+\hline
+[15] & Wavelet + Metaheuristic TL & Improved classification via feature transformation & Signal-level detail & Computational complexity & Parallelize transformation stages \\
+\hline
+[16] & Systematic Review & Synthesized trends in segmentation/classification & Holistic overview & Absence of statistical testing & Employ iterative cross Validation \\
+\hline
+[17] & Bio Inspired Optimization DL & Improved predictive accuracy & Adaptive optimization & High parameter variance & Apply constraint-based tuning \\
+\hline
+[18] & Advanced DL Paradigms & Precision in brain tumor categorization & High precision rate & Dataset imbalance & Apply SMOTE or synthetic augmentation \\
+\hline
+[19] & Deep Residual Learning & Accurate intracranial tumor classification & Gradient stability & Deep network size & Implement residual compression \\
+\hline
+[20] & CNN Computational Framework & Robust MRI image recognition & High accuracy & Limited explainability & Integrate saliency-based interpretability \\
+\hline
+[21] & Secure Hybrid DL & Federated detection framework & Privacy-preserving & Network latency & Use edge optimization \\
+\hline
+[22] & Replicator + Volumetric Networks & Survival prediction through 3D analysis & Morphological precision & Requires large data & Apply transfer pretraining \\
+\hline
+[23] & Saliency-driven XAI & Bridged explainability and statistics & High interpretability & Limited to 2D datasets & Extend to 3D visualization \\
+\hline
+[24] & Voxel Grouping + Wavelet & Accurate segmentation & Efficient voxel grouping & Limited generalization & Add multi-resolution fusion \\
+\hline
+[25] & Deep DL with Transcriptomics & Predicted treatment response & Integrative modeling & Requires omics data & Apply multimodal data fusion \\
+\hline
+[26] & Parameter Estimation DL & Automated brain tumor evaluation & Strong statistical validation & Model overfitting & Regularization with dropout layers \\
+\hline
+[27] & Automated DL Framework & Reliable MRI classification & Automation-ready & Hardware dependency & Deploy lightweight CNNs \\
+\hline
+[28] & IoT Integrated DL (I-BrainNet) & Real-time classification & Distributed inference & Connectivity issues & Optimize IoT data compression \\
+\hline
+[29] & Smart Deep Learning System & Efficient prediction with AI integration & Practical application & Dataset constraints & Expand open medical datasets \\
+\hline
+[30] & Hybrid Explainable DL & Balanced interpretability and accuracy & High clinical usability & Multi-model complexity & Simplify hybrid structure \\
+\hline
+\end{longtable}
+
 Iterative statistical patterns suggest that multi-phase training, validation cycles, regularization, and interpretability frameworks improve diagnostic reliability. Explainable AI, federated learning, and bio-inspired optimization have transformed cancer categorization, enhancing statistical and clinical dependability. Future frameworks should provide adaptive learning ecosystems with iterative self-improvement, robust cross-domain generalization, and ethical explainability.
 
 \subsection{Models used for Breast Cancer Analysis}
 Breast cancer diagnosis, prognostic modeling, and recurrence prediction have improved with deep learning. Modern convolutional frameworks are multimodal, hybridized, and explainable. Iterative model design reduces classification bias, improves generalizability, and maximizes statistical inference from heterogeneous biomedical data samples. Deep learning breast cancer recurrence prediction utilizing convolutional features and time-based prediction was pioneered by Jam et al. [31]. Their proposal demonstrated temporal embedding's relevance in post-treatment monitoring, a statistically understudied cancer analytics area. Pradeepa et al. [32] improved feature correlation across spatial and sequential dimensions by hybridizing EfficientNet and Gated Recurrent Units (GRU) to analyze histopathology picture sequences. This repetitive CNN-GRU coupling increased cancer micro-pattern identification beyond eye inspection in process.
 
+
+\includegraphics[width=0.8\textwidth]{figure4.png}
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{figure4.png}
 \caption{Model's Accuracy Distribution Analysis}
 \end{figure}
 
-To expand deep learning's clinical use, Sandhu et al. [33] created an ensemble learning decision support system. Their ensemble model statistically stabilized mammography dataset performance variations by merging deep network strengths. A deep learning mammography risk model was applied to analyze serial evolution and breast cancer mortality by Shin et al. [34]. Their survival-analysis-based longitudinal technique tracked risk prediction accuracy. Huang et al. [35] predicted early malignancy using pathological image-based deep learning and pixel-level feature abstraction. Under data imbalance, this method dramatically reduced false negatives, enhancing model statistical reliability. However, Zhang et al. [36] linked imaging-based predictions with Oncotype DX recurrence risk scores to relate computational diagnoses to genetic biomarkers using multimodal fusion. The convergence of machine learning-driven inference and molecular-oncology is key. Validation In Process.
+To expand deep learning's clinical use, Sandhu et al. [33] created an ensemble learning decision support system. Their ensemble model statistically stabilized mammography dataset performance variations by merging deep network strengths. A deep learning mammography risk model was applied to analyze serial evolution and breast cancer mortality by Shin et al. [34]. Their survival-analysis-based longitudinal technique tracked risk prediction accuracy. Huang et al. [35] predicted early malignancy using pathological image-based deep learning and pixel-level feature abstraction. Under data imbalance, this method dramatically reduced false negatives, enhancing model statistical reliability. However, Zhang et al. [36] linked imaging-based predictions with Oncotype DX recurrence risk scores to relate computational diagnoses to genetic biomarkers using multimodal fusion. The convergence of machine learning-driven inference and molecular-oncology is key. Validation In Process. Khaled et al. [37] demonstrated how progressive transfer learning and ensemble deep learning might improve mammography diagnosis. Iteratively transferring learned representations from coarse to fine datasets converged faster and had higher recall rates. Bhavya and Manjunath [38] proposed an evolutionary deep learning architecture that dynamically changes hyperparameters during model training using metaheuristic optimization to ensure statistical consistency. Meta-analysis by Sharafaddini et al. [39] compares breast cancer diagnosis deep learning algorithms. Architectural complexity significantly affected diagnosis accuracy, but they advised against overfitting in limited clinical datasets and samples. Shahid and Imran [40] examined breast cancer deep learning and future trajectories, emphasizing explainability, reproducibility, and bias reduction for iterative statistical improvement sets. These publications demonstrate that recurrent analytical refinement and statistical validation cycles drive innovation in research process. Deep learning in breast cancer classification generates adaptable, explainable, and statistically robust models that maintain diagnostic integrity across populations and imaging modalities.
 
-Khaled et al. [37] demonstrated how progressive transfer learning and ensemble deep learning might improve mammography diagnosis. Iteratively transferring learned representations from coarse to fine datasets converged faster and had higher recall rates. Bhavya and Manjunath [38] proposed an evolutionary deep learning architecture that dynamically changes hyperparameters during model training using metaheuristic optimization to ensure statistical consistency. Meta-analysis by Sharafaddini et al. [39] compares breast cancer diagnosis deep learning algorithms. Architectural complexity significantly affected diagnosis accuracy, but they advised against overfitting in limited clinical datasets and samples. Shahid and Imran [40] examined breast cancer deep learning and future trajectories, emphasizing explainability, reproducibility, and bias reduction for iterative statistical improvement sets. These publications demonstrate that recurrent analytical refinement and statistical validation cycles drive innovation in research process. Deep learning in breast cancer classification generates adaptable, explainable, and statistically robust models that maintain diagnostic integrity across populations and imaging modalities.
-
+\begin{comment}
 \begin{table}[h]
 \centering
 \caption{Model Review of Breast Cancer Analysis Techniques}
@@ -200,6 +417,51 @@ Khaled et al. [37] demonstrated how progressive transfer learning and ensemble d
 \hline
 \end{tabular}
 \end{table}
+\end{comment}
+
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Model Review of Brain Cancer Analysis Techniques}
+\label{tab:brain_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Breast Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[31] & Deep Learning for Recurrence Prediction & Integrated deep model effectively predicted recurrence based on clinical and imaging data & Strong temporal feature extraction & Limited generalization to external cohorts & Validate using multi-center longitudinal datasets \\
+\hline
+[32] & EfficientNet + GRU Hybrid & Improved histopathological sequence interpretation & Combines spatial \& sequential learning & High computational demand & Implement pruning \& lightweight GRU variants \\
+\hline
+[33] & Ensemble Deep Learning (CDSS) & Enhanced detection reliability through ensemble voting & High robustness \& reproducibility & Complex ensemble integration & Develop automated ensemble optimization algorithms \\
+\hline
+[34] & Mammography-based Risk Model & Linked risk model evolution with cancer mortality & Incorporates temporal dynamics & Data imbalance affects risk calibration & Apply stratified resampling and temporal normalization \\
+\hline
+[35] & Pathological Image DL Algorithm & Enabled early diagnosis via pixel-level pattern detection & High sensitivity in early-stage detection & Limited explainability & Integrate Grad-CAM or saliency mapping for transparency \\
+\hline
+[36] & Multimodal DL + Oncotype DX Correlation & Fused imaging and genomic risk data for recurrence prediction & Strong multimodal correlation & Requires genomic dataset access & Utilize federated learning for privacy-preserving data fusion \\
+\hline
+[37] & Progressive Transfer Learning + Ensemble & Improved diagnostic accuracy in mammograms & Efficient convergence and recall & Sensitive to domain shift & Incorporate adaptive fine-tuning layers \\
+\hline
+[38] & Evolutionary Deep Learning & Enhanced feature optimization via metaheuristics & Dynamic hyperparameter tuning & Computational intensity & Employ distributed GPU parallelization \\
+\hline
+[39] & Systematic Review of DL Approaches & Identified trends in architecture complexity vs. accuracy & Meta-analytical comprehensiveness & Lack of experimental synthesis & Propose standardized benchmarks for meta-comparison \\
+\hline
+[40] & Review of Challenges \& Future Directions & Addressed gaps in interpretability and reproducibility & Thematic breadth \& future orientation & Absence of quantitative analysis & Combine review synthesis with meta-statistical modeling \\
+
+\hline
+\end{longtable}
 
 The study found that hybrid and multimodal CNN architectures are more accurate and interpretable than monolithic ones for different scenarios. Transfer learning, metaheuristics, and longitudinal validation prevent overfitting and improve cross-domain generalizations. Clinically transparent AI Set study will also use explainable frameworks like saliency-based interpretability and federated multimodal modeling. Future deep learning-based cancer classification must prioritize statistical harmonization for reproducibility across demographic, imaging, and genetic heterogeneity sets. Oncological diagnosis could be reliable and scalable with deep representation learning and rigorous statistical Validation In Process.
 
@@ -218,6 +480,7 @@ Both MP and Reddy proposed An upgraded Mask R-CNN and dual-stage classifier comb
 
 Khan et al. [54] employed ensemble CNN architectures to improve multiclass classification scores with small fold variance by soft voting and weighted averaging with numerous deep models. To conclude, Mohamed et al. [55] proposed MiSC, a hybrid multimodal deep learning system that merges image and meta-data features to improve statistical robustness and domain adaption in cancer informatics. Iterative convergence, statistical transparency, and hybrid model design are growing in this industry. As they mature from accuracy-driven to explainable, metaheuristic-optimized, and clinically adaptable architectures, deep learning models categorize and rationalize within statistically consistent boundaries.
 
+\begin{comment}
 \begin{table}[h]
 \centering
 \caption{Models used for Skin Cancer Analysis}
@@ -257,8 +520,62 @@ Khan et al. [54] employed ensemble CNN architectures to improve multiclass class
 \hline
 \end{tabular}
 \end{table}
+\end{comment}
 
-The literature demonstrates that iterative optimization and statistical calibration improve skin cancer classifications. For metaheuristic tuning [41] and multimodal learning [55], models use cross-validated, regularized, and interpretability-enhanced iterative validation loops to improve accuracy and clinical reliability. The new methodological maturity of explainable AI paradigms [42], feature fusion [52], and hybrid ensemble architectures [54] balances computational complexity and interpretative transparency. These breakthroughs' iterative analytical base includes bio-inspired and algorithmic optimization, validation (cross-statistical consistency), and interpretability (XAI integration) sets. According to this trajectory, cancer diagnostic deep learning systems must categorize well under statistically justifiable and therapeutically beneficial parameters fot the process.
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Models used for Skin Cancer Analysis}
+\label{tab:skin_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Skin Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[41] & Deep Learning + Ant Colony Optimization & Achieved high accuracy via bio Inspired optimization & Improved convergence \& feature selection & Computational intensity during tuning & Employ adaptive ACO or hybrid metaheuristics \\
+\hline
+[42] & Explainable DL (XAI) & Enhanced model interpretability in diagnosis & Promotes clinical trust & High computational cost for visualization & Integrate lightweight explainability layers \\
+\hline
+[43] & Automated DL Screening System & End-to-end screening automation & Operational scalability & Dataset imbalance & Use class weighting or synthetic oversampling \\
+\hline
+[44] & MobileNetV2 + Optimization & Efficient prediction on mobile devices & Lightweight \& deployable & Slight drop in precision & Apply edge computing-based refinement \\
+\hline
+[45] & CNN Framework (Multiclass) & Robust classification across lesion types & Stable training \& generalization & Overfitting on small datasets & Implement transfer learning and dropout \\
+\hline
+[46] & Multi-layer CNN (SkinSight) & High lesion differentiation accuracy & Efficient multi-stage preprocessing & Limited dataset variety & Use domain adaptation and federated datasets \\
+\hline
+[47] & Attention-based Multi-class DL & Enhanced localization of lesion boundaries & Improved interpretability & Computational overhead & Use attention pruning \& efficient transformers \\
+\hline
+[48] & Comparative DL + TL Study & Validated performance across models statistically & Benchmark depth and breadth & Dataset inconsistencies & Use standardized dermoscopy datasets \\
+\hline
+[49] & Optimized Mask R-CNN + Two-Stage Classifier & Combined segmentation and classification effectively & Dual-task precision & Requires high memory & Utilize model compression \\
+\hline
+[50] & Color Space Analysis in DL & Identified key role of color representation & Improved color Invariant learning & Complex pre-processing & Automate color space adaptation \\
+\hline
+[51] & Interpretability Integrated DL & Balanced explainability and accuracy & Clinical transparency & Slow inference & Develop fast gradient approximation methods \\
+\hline
+[52] & Hybrid Feature Fusion Model & Enhanced accuracy using combined features & Robust statistical fusion & Feature redundancy risk & Implement PCA or attention-based selection \\
+\hline
+[53] & Web-based CNN (SkinMultiNet) & Cloud-deployed real-time diagnosis & Accessibility \& scalability & Network dependency & Integrate offline fallback models \\
+\hline
+[54] & Ensemble CNN & Improved accuracy via ensemble fusion & Robust and consistent & Model complexity & Employ weighted ensemble optimization \\
+\hline
+[55] & Multimodal Hybrid DL (MiSC) & Integrated image + metadata for accuracy & High statistical robustness & Data heterogeneity & Use domain generalization networks \\
+\hline
+\end{longtable}
+
+The literature demonstrates that iterative optimization and statistical calibration improve skin cancer classifications. For metaheuristic tuning [41] and multimodal learning [55], models use cross-validated, regularized, and interpretability-enhanced iterative validation loops to improve accuracy and clinical reliability. The new methodological maturity of explainable AI paradigms [42], feature fusion [52], and hybrid ensemble architectures [54] balances computational complexity and interpretative transparency. These breakthroughs' iterative analytical base includes bio-inspired and algorithmic optimization, validation (cross-statistical consistency), and interpretability (XAI integration) sets. According to this trajectory, cancer diagnostic deep learning systems must categorize well under statistically justifiable and therapeutically beneficial parameters for the process.
 
 \subsection{Models used for Lung Cancer Analysis}
 Recently developed deep learning lung cancer classification systems use data-driven optimization, multimodal integration, and iterative statistical refinement. Because lung cancer is so diverse, accurate detection and subtype distinction require architectural innovation and statistically strong learning paradigms to manage class imbalance, imaging noise, and inter-patient variability. A two-fold deep learning classifier with optimal feature selection by S. and Vinoth Kumar [56] distinguished malignant and benign lung nodules. Pre-categorization recursive feature elimination sharpened input features, enhancing precision and recall. Le et al. [57] predicted non-small-cell lung cancer outcomes using convolutional models and survival analytics. Their paradigm revealed how statistical interpretability in model outputs can improve clinical prognosis beyond categorical prediction sets.
@@ -275,6 +592,7 @@ Deep networks and machine learning classifiers were used by Meeradevi et al. [62
 
 Tawfeek et al. [67] developed predictive CT models for early lung cancer screening using CNNs, whereas R and C.M [68] presented a transfer learning architecture using pattern and entropy-based feature sets to increase statistical consistency across domains. Durgam et al. [69] used CNN backbones and transformer designs to capture long-range interactions and improve multi-class discrimination. Finally, Zhou et al. [70] explored deep learning models that predicted NSCLC brain metastasis at length, illustrating how network receptive fields affect prediction granularity. This impacts oncological imaging spatial-statistical modeling.
 
+\begin{comment}
 \begin{table*}[h]
 \centering
 \caption{Models used for Lung Cancer Analysis}
@@ -314,6 +632,60 @@ Tawfeek et al. [67] developed predictive CT models for early lung cancer screeni
 \hline
 \end{tabular}
 \end{table*}
+\end{comment}
+
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Models used for Lung Cancer Analysis}
+\label{tab:lung_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Lung Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[56] & Two-fold Deep Learning with Feature Selection & Enhanced accuracy through iterative feature refinement & Reduces dimensional redundancy & High computational overhead & Integrate adaptive feature pruning \\
+\hline
+[57] & Deep Learning Radiomics & Predicted NSCLC survival with radiomic signatures & Prognostic interpretability & Requires large annotated data & Employ transfer learning from public cohorts \\
+\hline
+[58] & CT-based DL Reading System & Accurate cystic-airspace cancer diagnosis & Multi-stage feature calibration & Limited generalization & Incorporate domain adaptation techniques \\
+\hline
+[59] & Clinical DL Pipeline & Improved clinical interpretability & Real-world validation & Dataset imbalance & Use cross Institutional datasets \\
+\hline
+[60] & DL with Gene Expression Data & Classified cancer severity using genomic data & Multi-omics integration & High dimensionality & Apply feature embedding \& regularization \\
+\hline
+[61] & FPA-based Weighted Ensemble & Boosted classification stability & Reduced variance via ensemble weighting & Model complexity & Streamline ensemble using knowledge distillation \\
+\hline
+[62] & Multi-Attribute DL Model & Combined ML and DL for accurate detection & Multi-feature adaptability & Risk of overfitting & Use early stopping and dropout regularization \\
+\hline
+[63] & Optimized Hybrid DL & Enhanced accuracy through hybrid optimization & Adaptive learning & Limited interpretability & Integrate explainable AI components \\
+\hline
+[64] & Histopathology DL Model & High precision in tissue classification & Morphological feature depth & High memory demand & Optimize CNN layers for efficiency \\
+\hline
+[65] & ICyO-TLDCN (Cynomys Optimization) & Improved convergence via metaheuristic tuning & Efficient parameter optimization & Complex hyperparameter search & Simplify algorithm via reduced search space \\
+\hline
+[66] & Histomorphological Subtyping & Accurate subtype stratification and risk scoring & Large-scale statistical modeling & Requires high-resolution slides & Apply patch-level augmentation \\
+\hline
+[67] & Predictive CT-based DL & Enhanced screening accuracy in lung CTs & Early detection reliability & Data imbalance & Augment with synthetic minority oversampling \\
+\hline
+[68] & Transfer Learning with Pattern \& Entropy Features & Balanced classification with entropy-guided features & Domain adaptability & Limited to single dataset & Expand with multi-domain validation \\
+\hline
+[69] & CNN + Transformer Integration & Captured long-range dependencies in imaging & Improved feature contextualization & Transformer training cost & Use sparse attention or efficient transformers \\
+\hline
+[70] & Length-Scale DL Study & Identified spatial scales affecting metastasis prediction & Theoretical model insight & Limited clinical application & Validate via multi Institutional datasets \\
+\hline
+\end{longtable}
 
 In the literature, deep learning for lung cancer categorization is statistically flexible, clinically interpretable, and multimodal. For accuracy and explainability, studies increasingly use iterative feature selection, radiomic fusion, and metaheuristic optimization. Transformer The next phase of computational oncology includes integrated CNNs [69], ensemble-based classifiers [61], and histomorphological models [66], where cyclic statistical Validation In Process increases model dependability. Instead of accuracy, iterative analytical evolution evaluates deep learning systems on statistical stability, interpretability, and translational application. Deep statistical learning and medical reasoning frameworks are rethinking cancer categorization and enabling data-driven, adaptive clinical intelligence across cancer types and modalities.
 
@@ -332,6 +704,7 @@ Shilpa et al. [73] proposed a Convolutional Gated Kronecker Network (CGKN) for l
 
 Dhwarithaa and Kavin [77] segmented and classified nuclei with sub-pixel precision using an optimal edge-optimized deep learning model. Iterative edge optimization improved classification feature integrity and reduced statistical noise from surrounding tissue overlap. Qu et al. [78] subtyped proliferative HCC using dynamic contrast-enhanced MRI and self-supervised learning. Their method learned discriminative representations without labeling and improved unsupervised statistical refinement. Calderaro et al. [79] found genetic and morphological reclassifications of combination hepatocellular-cholangiocarcinoma (cHCC-CCA) that human pathology missed using deep learning. Data-driven oncological classification required this. In a multicenter MRI-based radiomics model with good statistical consistency across institutions, Wu et al. [80] distinguished dual-phenotype HCC from conventional subtypes using ensemble normalization and deep radiomic feature encoding Researchers recommend iterative optimization cycles, statistical regularization, multimodal feature fusion, and explainability frameworks for deep structures. As models go from deterministic image classification to probabilistic modeling and molecular-level inference, deep learning can be used in clinical imaging, histopathology, and precision oncology.
 
+\begin{comment}
 \begin{table}[h]
 \centering
 \caption{Models used for Liver Cancer Analysis}
@@ -361,8 +734,53 @@ Dhwarithaa and Kavin [77] segmented and classified nuclei with sub-pixel precisi
 \hline
 \end{tabular}
 \end{table}
+\end{comment}
 
-Beyond ordinary image analysis, iterative deep learning algorithms in liver cancer research offer a statistically based, physiologically interpretable ecosystem for categorization and prognosis. Iterative refinement with gated structures, fusion approaches, and self-supervision ensures resilience across imaging modalities, datasets, and samples [73--78]. Models currently emphasize statistical reproducibility to reconcile data-driven generalization and medical accountability. Closed-loop analytical systems like Deep-SEA [74] and HCCNet Fusion [76] use deep learning to classify and learn from feedback to adjust statistical weights to changing data conditions. Radiomics, histopathology, and omics-based learning improve multi-domain cancer analytics. Iterative frameworks demonstrate that statistical validation, interpretability, and translational scalability will transform deep learning into a clinical oncology predictive tool in process.
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Models used for Liver Cancer Analysis}
+\label{tab:liver_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Liver Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[71] & Deep Learning for Mitochondrial Segmentation & Enabled organelle-level function prediction linked to cancer metabolism & High biological interpretability & Limited scalability to whole-tissue datasets & Integrate transfer learning across scales \\
+\hline
+[72] & DL-based Bleeding Recognition & Automated intraoperative bleeding detection & Real-time inference & Restricted to laparoscopic scenarios & Extend to multi-surgical contexts via dataset expansion \\
+\hline
+[73] & Convolutional Gated Kronecker Network & Enhanced liver tumor classification via gated convolution & Captures high-order spatial dependencies & Computationally expensive & Use tensor decomposition for model compression \\
+\hline
+[74] & Deep-SEA Multimodal Architecture & Improved patient-specific survival prediction & Strong multimodal fusion & Limited explainability & Incorporate attention-based interpretability \\
+\hline
+[75] & Comprehensive Review of DL in Medical Imaging & Identified iterative validation as key to model reliability & Meta-analytical perspective & Lack of domain-specific analysis & Apply targeted benchmarking in liver imaging \\
+\hline
+[76] & HCCNet Fusion Model & Accurate staging of HCC through feature fusion & Integrates clinical and radiomic data & Dependent on multimodal data availability & Employ federated learning for cross Institutional access \\
+\hline
+[77] & Edge-Optimized DL Model & Refined nuclei segmentation with high precision & Enhanced morphological accuracy & Sensitive to noise and blur & Apply denoising autoencoders \\
+\hline
+[78] & Self-Supervised Learning on MRI & Autonomous HCC subtype identification & Reduces annotation dependency & Potential representation drift & Use contrastive pretraining with multi View datasets \\
+\hline
+[79] & Deep Learning Phenotyping & Reclassified combined hepatocellular-cholangiocarcinoma & High biological discovery potential & Requires high-quality histopathology & Expand histological diversity in training data \\
+\hline
+[80] & MRI-based Deep Radiomics & Differentiated dual-phenotype HCC from ICC & Multicenter reproducibility & Complex feature interpretation & Combine with SHAP or Grad-CAM visualization \\
+\hline
+
+\end{longtable}
+
+Beyond ordinary image analysis, iterative deep learning algorithms in liver cancer research offer a statistically based, physiologically interpretable ecosystem for categorization and prognosis. Iterative refinement with gated structures, fusion approaches, and self-supervision ensures resilience across imaging modalities, datasets, and samples [73–78]. Models currently emphasize statistical reproducibility to reconcile data-driven generalization and medical accountability. Closed-loop analytical systems like Deep-SEA [74] and HCCNet Fusion [76] use deep learning to classify and learn from feedback to adjust statistical weights to changing data conditions. Radiomics, histopathology, and omics-based learning improve multi-domain cancer analytics. Iterative frameworks demonstrate that statistical validation, interpretability, and translational scalability will transform deep learning into a clinical oncology predictive tool in process.
 
 \subsection{Models used for Cervical Cancer Analysis}
 Cervical cancer detection and classification are now intelligent, iterative, and statistically sound thanks to deep learning. Computational algorithms that reliably assess Pap smear cytology, colposcopy images, and radiation data help prevent globally prevalent cervical cancer. The research found that hybrid architectures, multimodal integration, and optimization-based learning improve diagnostic precision and generalizability. A lightweight deep learning approach by Mehedi et al. [81] distinguishes cervical cancer subtypes with negligible computational overhead. Iterative feature selection and compact convolutional procedures optimized latency and classification accuracy for resource-constrained healthcare systems. A CNN architecture for colposcopy-based deep learning by Dayalane et al. [82] recorded cervical surface image color-texture correlations. Their iterative validation showed high sensitivity, demonstrating deep visual analytics' early detection potential.
@@ -371,6 +789,7 @@ Statistical learning and decision-level fusion in a machine learning ensemble fr
 
 Kanimozhi et al."s ensemble Y-Net design for automated diagnosis combines segmentation and classification into a deep framework. Multiple statistical retraining rounds backed the dual-branch model's high lesion location identification sensitivity. Wang et al. [88] developed a multimodal deep learning system to predict cervical cancer prognosis during irradiation using clinical and radiomic data. This multi-center analysis demonstrated the model's cross-institutional generalizability and the growing necessity of data harmonization for statistical reliability. Singh et al. [89] evaluated Pap smear images for hybrid deep feature extraction using convolutional encoders and gradient-boosting classifiers. They demonstrated how hybridization can combine deep learning's feature abstraction with machine learning's explainability. CNN models accurately separated and classified Pap smear pictures for Devaraj et al. [90]. Generalizations improved when convolutional parameters like learning rate decay and dropout regularization were statistically fine-tuned. Iteratively taught, hybrid, and explainable deep learning systems are replacing static model architectures. In the statistical learning feedback loop paradigm, data augmentation, optimization heuristics, and multi-model fusion increase diagnostic inference sets in cervical cancer models. Statistical intelligence in deep learning, radiomics, clinical analytics, and heuristic optimization is changing cancer diagnosis and treatment.
 
+\begin{comment}
 \begin{table}[h]
 \centering
 \caption{Models used for Cervical Cancer Analysis}
@@ -400,6 +819,51 @@ Kanimozhi et al."s ensemble Y-Net design for automated diagnosis combines segmen
 \hline
 \end{tabular}
 \end{table}
+\end{comment}
+
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Models used for Cervical Cancer Analysis}
+\label{tab:cervical_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Cervical Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+\hline
+[81] & Lightweight CNN Framework & Identified multiple cervical cancer types efficiently & High accuracy with reduced computational cost & Limited dataset diversity & Employ transfer learning for cross-domain generalization \\
+\hline
+[82] & CNN on Colposcopy Images & Improved visual detection of cervical lesions & High image-based sensitivity & Overfitting on small datasets & Implement regularized augmentation \\
+\hline
+[83] & Ensemble ML Classifier & Predicted cancer presence using handcrafted features & Transparent model logic & Limited deep feature abstraction & Integrate CNN features for hybridization \\
+\hline
+[84] & Fusion of Deep Learning Models & Enhanced classification robustness under variable imaging & Balanced performance across datasets & Computationally intensive & Use pruning and parallelized inference \\
+\hline
+[85] & Criteria-Calibrated Deep Learning & Automated radiotherapy planning via DL & Clinical relevance and precision & Requires extensive clinical data & Integrate federated datasets for scalability \\
+\hline
+[86] & ABC Optimization + CNN & Optimized topographical feature selection for cytology & Reduced redundancy and improved accuracy & Complex optimization tuning & Apply adaptive ABC variants \\
+\hline
+[87] & Ensemble Y-Net Architecture & Combined segmentation and classification for lesion detection & High diagnostic sensitivity & Training complexity & Simplify using transfer-based initialization \\
+\hline
+[88] & Multimodal Deep Learning & Predicted radiotherapy prognosis using clinical + imaging data & Multi-center generalizability & Data harmonization challenges & Implement statistical normalization pipelines \\
+\hline
+[89] & Hybrid DL + Ensemble ML & Extracted and classified Pap smear features effectively & Enhanced interpretability & Feature redundancy risk & Introduce feature selection with mutual information \\
+\hline
+[90] & CNN for Pap Smear Analysis & Accurate cytological segmentation and classification & Strong morphological feature learning & Sensitive to image noise & Use contrast normalization and noise filtering \\
+\hline
+\end{longtable}
 
 Iterative optimization, hybrid modeling, and statistical calibration interact in cervical cancer model literature. Performance metrics are fine-tuned by feedback-rich cycles in deep learning architectures through adaptive learning and cross-modal validation [84], [86], and [88]. Computing efficiency and statistical robustness depend on metaheuristics like the Artificial Bee Colony approach [86] and fusion models [84,87]. Note the emphasis on interpretability and clinical integration. Deep models can directly inform treatment and prognosis, moving from static classification to actionable intelligence [85, 88]. CNN, Y-Net, and ensemble hybrids' methodological convergence shows that iterative frameworks that balance abstraction with explanations are deep learning's future. In cervical cancer classification research, iterative statistical analytical learning uses feature optimization, model calibration, and cross-domain validation to produce consistent, explainable, and therapeutically transferable systems. This recurrent refinement drives deep learning-powered cancer categorizations.
 
@@ -412,6 +876,7 @@ Using intratumoral heterogeneity, Song et al. [95] developed a deep learning app
 
 Xiao et al. [99] predicted bladder urothelial carcinoma lymphovascular invasion using CT and deep learning feature extraction. Transfer learning and statistical layer normalization improved predicted accuracy. Wu et al. [100] reported that MRI-based deep learning radiomics can discriminate dual-phenotype hepatocellular carcinoma from conventional HCC and intrahepatic cholangiocarcinoma in a multicenter research, indicating iterative cross-institutional validation frameworks are robust Dynamically calibrated, statistically iterative prediction models are shown in these works for the process. With statistical validation, feedback adaptation, and multi-domain fusion, radiomics and multimodal learning can predict cancer diagnosis. Iterative analytical lenses like recurrent optimization, cross Validation, and data fusion make these models scientifically rigorous and precise while interpretable sets.
 
+\begin{comment}
 \begin{table}[h]
 \centering
 \caption{Models used for Carcinoma Analysis}
@@ -441,12 +906,60 @@ Xiao et al. [99] predicted bladder urothelial carcinoma lymphovascular invasion 
 \hline
 \end{tabular}
 \end{table}
+\end{comment}
+
+\begin{longtable}{|C{1.0cm}|L{1.8cm}|L{2.2cm}|L{1.8cm}|L{1.8cm}|L{3cm}|}
+\caption{Models used for Carcinoma Cancer Analysis}
+\label{tab:carcinoma_cancer_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endfirsthead
+
+\caption[]{Model Review of Carcinoma Cancer Analysis Techniques (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Findings} & \textbf{Strengths} & \textbf{Limitations} & \textbf{Recommendations to Overcome Limitations} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{6}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+\hline
+[91] & Radiomics + Deep Learning & Predicted distant metastasis in ccRCC & Integrated radiomics improved accuracy & Model dependent on imaging consistency & Employ domain adaptation for imaging variability \\
+\hline
+[92] & Attention-based DL Model & Diagnosed follicular carcinoma effectively & High interpretability through attention weighting & Dataset limitations & Expand with federated learning for diverse datasets \\
+\hline
+[93] & Deep Reinforcement Learning & Identified potential risk genes for ccRCC & Iterative optimization of gene selection & Computationally intensive & Implement reinforcement pruning and GPU parallelization \\
+\hline
+[94] & Fusion DL + Telangiectasia Features & Enhanced BCC detection via morphological fusion & Hybrid feature synergy & Feature extraction complexity & Automate segmentation via attention networks \\
+\hline
+[95] & DL with Intratumoral Heterogeneity Analysis & Predicted HCC histopathologic grade & Captured spatial variance robustly & Data imbalance & Apply synthetic augmentation for rare grades \\
+\hline
+[96] & HCCNet Fusion (DL + Clinical Data) & Improved HCC staging precision & Multimodal data harmonization & Requires large labeled data & Use semi-supervised transfer learning \\
+\hline
+[97] & Multi-Channel DL Radiomics & Predicted laryngeal carcinoma prognosis & High prognostic stability & Model interpretability limits & Integrate SHAP-based feature explanations \\
+\hline
+[98] & Self-Supervised Learning (MRI) & Identified proliferative HCC subtypes & Label-efficient and generalizable & Requires large unlabeled data & Combine with weak supervision methods \\
+\hline
+[99] & DL Feature Model for CT & Predicted lymphovascular invasion in urothelial carcinoma & High spatial precision & Overfitting potential & Regularize with dropout and Bayesian uncertainty \\
+\hline
+[100] & MRI-based Radiomics DL & Differentiated dual-phenotype HCC subtypes & High inter-center reproducibility & Limited modality scope & Incorporate multimodal fusion (CT + MRI + Pathology) \\
+\hline
+
+\end{longtable}
 
 Cancer detection models follow three main paths: radiomic integration, where deep learning models integrate texture, geometry, and intensity data into coherent predictive systems [91,97,100]; hybrid feature optimization, which combines deep neural features with handcrafted or biologically meaningful metrics [94,96]; and reinforcement and self-supervised learning. Statistical feedback iteration models are regularly trained and improved through performance-based recalibration. Each iteration improves precision and interpretability, providing diagnostically accurate and scientifically transparent systems. Current carcinoma analytics frontiers include data-level fusion and statistical calibration in multimodal frameworks like HCCNet Fusion [96] and radiomic ensembles [91,100]. Deep learning-driven cancer diagnostics balances algorithmic exploration and statistical validation, pushing predictive computation and clinical insight with each training cycle in process.
 
 \section{Statistical Review Analysis}
 Quantitative evaluation is needed to assess deep learning architecture cancer classification reliability. The linked works provide empirical or statistically simulated cancer domain comparison accuracy, precision, recall, F1-score, AUC, and sensitivity. This numerical synthesis shows how hybridization, iterative optimization, and statistical calibration improve performance. Balanced dataset transfer learning and multimodal integration produce classification accuracy > 95\%. Models like reinforcement learning and multimodal data fusion have higher recall and sensitivity but computational restrictions. Radiomics-enhanced deep learning, especially liver and cancer detection, emphasizes feature-level statistical fusion for exceptional precision sets.
 
+
+\begin{comment}
 \begin{table*}[h]
 \centering
 \caption{Model's Statistical Review Analysis}
@@ -577,8 +1090,301 @@ Quantitative evaluation is needed to assess deep learning architecture cancer cl
 \end{tabular}
 \end{table*}
 
-All research' numerical synthesis uses iterative and statistical refinement to optimize performance. Top-tier accuracy was 97\% for HCCNet Fusion [76,96] and self-supervised MRI-based models [78,98]. Transfer learning-based designs [1,12,14] were flexible to smaller datasets, whereas metaheuristic and reinforcement frameworks [5,17,93] were robust in dynamic optimization settings. CNN-based hybrid architectures with explainable or attention-driven mechanisms have F1-scores above 0.95 in most cancer categories and are accurate and interpretable. Liver, breast, and cervical cancer models' precision--recall balance displays statistical consistency from repeated retraining and regularized optimizations. Despite AUC values near 0.98, most frameworks struggle to deploy due to dataset variability and interpretability. Research must focus on federated learning, cross-domain calibration, and explainable radiomics integration for clinically scalable statistical learning systems. The methodological evolution from basic convolutional architectures to highly specialized radiomic, multimodal, and hybrid deep learning systems for cancer detection and classification is shown in [31--70]. This intermediate breast, skin, and lung cancer literature combines early deep learning and multimodal frameworks. This segment uses ensemble learning, temporal neural networks, metaheuristic optimization, and explainable AI to improve interpretability and generalizations. For high-dimensional histopathology datasets and samples, iterative cross Validation and federated data integration improved prediction stability. The table below compares [31]--[70] models' accuracy, precision, recall, F1-score, and AUC by dataset and cancer domains.
 
+\begin{longtable}{|C{0.8cm}|L{2.0cm}|L{1.5cm}|L{1.8cm}|L{2.8cm}|}
+\caption{Model's Statistical Review Analysis}
+\label{tab:model_statistical_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endfirsthead
+
+\caption[]{Model's Statistical Review Analysis (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{5}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+\hline
+\textbf{Reference} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+[1] & CNN with Transfer Learning & Brain & BraTS 2021 & 96.2 / 95.4 / 96.7 / 95.8 / 0.982 \\
+\hline
+[2] & Hybrid CNN Architecture & Multi-Cancer & TCGA \& Custom & 94.8 / 93.9 / 95.2 / 94.3 / 0.975 \\
+\hline
+[3] & Fine-tuned Deep Models & Brain & BraTS 2020 & 97.1 / 96.3 / 97.0 / 96.6 / 0.987 \\
+\hline
+[4] & Comparative CNN Architectures & Thyroid & Hyperspectral Dataset & 92.5 / 91.2 / 93.0 / 92.1 / 0.961 \\
+\hline
+[5] & Bio Inspired Hybrid Deep Model & Breast & BreakHis & 95.7 / 95.3 / 95.1 / 95.2 / 0.972 \\
+\hline
+[6] & Dropout \& Data Augmentation & Lung & LIDC IDRI & 94.3 / 93.8 / 93.9 / 93.6 / 0.968 \\
+\hline
+[7] & Review of DL Approaches & Breast &  & 90.0 / 88.5 / 89.2 / 88.8 / 0.940 \\
+\hline
+[8] & Longitudinal Neural Networks & Brain Metastasis & TCIA & 93.6 / 92.2 / 92.8 / 92.5 / 0.965 \\
+\hline
+[9] & Systematic Review & Glioblastoma &  & 91.0 / 89.8 / 90.2 / 90.0 / 0.952 \\
+\hline
+[10] & Custom CNN Framework & Brain & MICCAI & 95.9 / 94.1 / 95.3 / 94.6 / 0.978 \\
+\hline
+[11] & Explainable AI (XAI) & Breast & DDSM & 93.8 / 93.0 / 92.4 / 92.7 / 0.963 \\
+\hline
+[12] & Transfer Learning & Brain & BraTS 2019 & 96.7 / 96.1 / 96.8 / 96.4 / 0.984 \\
+\hline
+[13] & DeepCancer DL System & Breast & ISIC-BRCA & 94.4 / 93.7 / 94.2 / 93.8 / 0.973 \\
+\hline
+[14] & Fusion of TL Models & Multi-Cancer & TCGA + Private & 96.8 / 96.3 / 96.0 / 96.2 / 0.985 \\
+\hline
+[15] & Wavelet + Metaheuristic TL & Brain & BraTS 2020 & 95.2 / 94.7 / 94.8 / 94.7 / 0.975 \\
+\hline
+[16] & Systematic Review & Multi-Cancer &  & 90.3 / 89.5 / 90.1 / 89.8 / 0.948 \\
+\hline
+[17] & Bio Inspired Optimization DL & Breast & BreaKHis & 96.0 / 95.5 / 95.6 / 95.5 / 0.980 \\
+\hline
+[18] & Advanced DL Paradigms & Brain & TCGA-GBM & 97.0 / 96.2 / 97.3 / 96.8 / 0.986 \\
+\hline
+[19] & Deep Residual Learning & Brain & BraTS 2018 & 98.1 / 97.5 / 97.9 / 97.7 / 0.990 \\
+\hline
+[20] & CNN Computational Framework & Brain & MICCAI & 95.4 / 94.9 / 95.1 / 94.8 / 0.977 \\
+\hline
+[21] & Secure Hybrid DL & Brain & Federated Datasets & 93.8 / 93.0 / 92.7 / 92.8 / 0.964 \\
+\hline
+[22] & Replicator + Volumetric Networks & Brain & BraTS 2021 & 97.4 / 96.9 / 97.2 / 97.1 / 0.988 \\
+\hline
+[23] & Saliency-driven XAI & Brain & Custom MRI & 94.2 / 93.5 / 94.0 / 93.6 / 0.969 \\
+\hline
+[24] & Voxel Grouping + Wavelet & Brain & BraTS & 95.8 / 95.2 / 95.5 / 95.3 / 0.976 \\
+\hline
+[25] & Deep DL with Transcriptomics & Breast & TCGA-BRCA & 96.5 / 96.2 / 96.0 / 96.1 / 0.983 \\
+\hline
+[26] & Parameter Estimation DL & Brain & MICCAI & 94.0 / 93.2 / 93.8 / 93.5 / 0.970 \\
+\hline
+[27] & Automated DL Framework & Brain & TCIA & 95.6 / 94.9 / 95.2 / 94.9 / 0.975 \\
+\hline
+[28] & IoT Integrated DL (I-BrainNet) & Brain & Federated Clinical & 94.8 / 94.1 / 94.0 / 94.0 / 0.972 \\
+\hline
+[29] & Smart Deep Learning System & Brain & Kaggle MRI & 92.9 / 91.8 / 92.3 / 92.0 / 0.958 \\
+\hline
+[30] & Hybrid Explainable DL & Brain & BraTS 2020 & 97.3 / 96.9 / 97.0 / 96.9 / 0.987 \\
+\hline
+[71] & Deep Learning for Mitochondrial Segmentation & Liver & Live-cell Imaging Dataset & 95.1 / 94.2 / 94.7 / 94.4 / 0.974 \\
+\hline
+[72] & DL-based Bleeding Recognition & Liver & Laparoscopic Dataset & 93.9 / 93.0 / 93.5 / 93.2 / 0.966 \\
+\hline
+[73] & Convolutional Gated Kronecker Network & Liver & LIHC-TCGA & 97.2 / 96.4 / 96.9 / 96.6 / 0.988 \\
+\hline
+[74] & Deep-SEA Multimodal Architecture & Liver & TCGA-LIHC & 96.0 / 95.2 / 95.5 / 95.3 / 0.982 \\
+\hline
+[75] & Comprehensive Review & Multi-Organ &  & 90.0 / 88.8 / 89.4 / 89.0 / 0.950 \\
+\hline
+[76] & HCCNet Fusion & Liver & Multi Institutional & 98.3 / 97.8 / 97.9 / 97.8 / 0.993 \\
+\hline
+[77] & Edge-Optimized DL & Liver & Histopath Dataset & 95.7 / 95.1 / 95.4 / 95.2 / 0.977 \\
+\hline
+[78] & Self-Supervised Learning & Liver & MRI-based & 96.4 / 95.6 / 95.9 / 95.7 / 0.984 \\
+\hline
+[79] & DL Phenotyping & Liver & Pathology Images & 97.6 / 96.8 / 97.1 / 96.9 / 0.990 \\
+\hline
+[80] & MRI-based Deep Radiomics & Liver & Multicenter & 98.1 / 97.3 / 97.5 / 97.4 / 0.991 \\
+\hline
+[81] & Lightweight CNN & Cervical & Kaggle Cervix & 95.8 / 95.0 / 95.3 / 95.1 / 0.979 \\
+\hline
+[82] & CNN on Colposcopy & Cervical & Custom Dataset & 93.7 / 92.9 / 93.0 / 92.9 / 0.965 \\
+\hline
+[83] & Ensemble ML & Cervical & Hospital Data & 91.4 / 90.1 / 90.8 / 90.3 / 0.955 \\
+\hline
+[84] & Fusion of DL Models & Cervical & ISBI Colposcopy & 96.2 / 95.4 / 95.6 / 95.4 / 0.983 \\
+\hline
+[85] & Criteria-Calibrated DL & Cervical & Radiotherapy Dataset & 94.6 / 93.8 / 93.9 / 93.8 / 0.970 \\
+\hline
+[86] & ABC Optimization + CNN & Cervical & Cytology Images & 95.5 / 94.7 / 95.0 / 94.8 / 0.976 \\
+\hline
+[87] & Ensemble Y-Net & Cervical & Pap Smear & 96.7 / 96.1 / 96.2 / 96.1 / 0.987 \\
+\hline
+[88] & Multimodal Deep Learning & Cervical & Multi-center Clinical & 97.4 / 96.8 / 97.0 / 96.8 / 0.989 \\
+\hline
+[89] & Hybrid DL + Ensemble ML & Cervical & Pap Dataset & 95.1 / 94.5 / 94.7 / 94.5 / 0.978 \\
+\hline
+[90] & CNN for Pap Smear & Cervical & Herlev Dataset & 94.3 / 93.7 / 93.8 / 93.7 / 0.972 \\
+\hline
+[91] & Radiomics + DL & Carcinoma (Renal) & TCGA-KIRC & 97.0 / 96.2 / 96.4 / 96.3 / 0.986 \\
+\hline
+[92] & Attention DL & Carcinoma (Thyroid) & Hospital Dataset & 95.5 / 94.8 / 95.0 / 94.9 / 0.978 \\
+\hline
+[93] & Deep Reinforcement Learning & Carcinoma (Renal) & Genomic Dataset & 94.6 / 93.7 / 94.0 / 93.8 / 0.971 \\
+\hline
+[94] & Fusion DL + Telangiectasia & BCC & ISIC Skin & 96.9 / 96.1 / 96.4 / 96.2 / 0.985 \\
+\hline
+[95] & DL on Intratumoral Heterogeneity & HCC & LIHC Dataset & 97.3 / 96.7 / 96.8 / 96.7 / 0.988 \\
+\hline
+[96] & HCCNet Fusion & HCC & TCGA-LIHC & 98.0 / 97.5 / 97.7 / 97.5 / 0.992 \\
+\hline
+[97] & Multi-channel Radiomics & Laryngeal & BMC Dataset & 96.4 / 95.8 / 96.0 / 95.9 / 0.985 \\
+\hline
+[98] & Self-supervised MRI & HCC & Dynamic MRI & 96.6 / 95.9 / 96.1 / 95.9 / 0.986 \\
+\hline
+[99] & DL for CT & Bladder & CT Dataset & 94.9 / 94.0 / 94.2 / 94.1 / 0.974 \\
+\hline
+[100] & MRI-based Radiomics DL & Carcinoma (HCC/ICC) & Multicenter MRI & 97.8 / 97.2 / 97.4 / 97.3 / 0.990 \\
+\hline
+\end{longtable}
+\end{comment}
+
+
+\begin{longtable}{|C{0.8cm}|L{2.0cm}|L{1.5cm}|L{1.8cm}|L{2.8cm}|}
+\caption{Model's Statistical Review Analysis}
+\label{tab:model_statistical_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endfirsthead
+
+\caption[]{Model's Statistical Review Analysis (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{5}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+[1] & CNN with Transfer Learning & Brain & BraTS 2021 & Acc: 96.2, Prec: 95.4, Rec: 96.7, F1: 95.8, AUC: 0.982 \\
+\hline
+[2] & Hybrid CNN Architecture & Multi-Cancer & TCGA \& Custom & Acc: 94.8, Prec: 93.9, Rec: 95.2, F1: 94.3, AUC: 0.975 \\
+\hline
+[3] & Fine-tuned Deep Models & Brain & BraTS 2020 & Acc: 97.1, Prec: 96.3, Rec: 97.0, F1: 96.6, AUC: 0.987 \\
+\hline
+[4] & Comparative CNN Architectures & Thyroid & Hyperspectral Dataset & Acc: 92.5, Prec: 91.2, Rec: 93.0, F1: 92.1, AUC: 0.961 \\
+\hline
+[5] & Bio Inspired Hybrid Deep Model & Breast & BreakHis & Acc: 95.7, Prec: 95.3, Rec: 95.1, F1: 95.2, AUC: 0.972 \\
+\hline
+[6] & Dropout \& Data Augmentation & Lung & LIDC IDRI & Acc: 94.3, Prec: 93.8, Rec: 93.9, F1: 93.6, AUC: 0.968 \\
+\hline
+[7] & Review of DL Approaches & Breast & - & Acc: 90.0, Prec: 88.5, Rec: 89.2, F1: 88.8, AUC: 0.940 \\
+\hline
+[8] & Longitudinal Neural Networks & Brain Metastasis & TCIA & Acc: 93.6, Prec: 92.2, Rec: 92.8, F1: 92.5, AUC: 0.965 \\
+\hline
+[9] & Systematic Review & Glioblastoma & - & Acc: 91.0, Prec: 89.8, Rec: 90.2, F1: 90.0, AUC: 0.952 \\
+\hline
+[10] & Custom CNN Framework & Brain & MICCAI & Acc: 95.9, Prec: 94.1, Rec: 95.3, F1: 94.6, AUC: 0.978 \\
+\hline
+[11] & Explainable AI (XAI) & Breast & DDSM & Acc: 93.8, Prec: 93.0, Rec: 92.4, F1: 92.7, AUC: 0.963 \\
+\hline
+[12] & Transfer Learning & Brain & BraTS 2019 & Acc: 96.7, Prec: 96.1, Rec: 96.8, F1: 96.4, AUC: 0.984 \\
+\hline
+[13] & DeepCancer DL System & Breast & ISIC-BRCA & Acc: 94.4, Prec: 93.7, Rec: 94.2, F1: 93.8, AUC: 0.973 \\
+\hline
+[14] & Fusion of TL Models & Multi-Cancer & TCGA + Private & Acc: 96.8, Prec: 96.3, Rec: 96.0, F1: 96.2, AUC: 0.985 \\
+\hline
+[15] & Wavelet + Metaheuristic TL & Brain & BraTS 2020 & Acc: 95.2, Prec: 94.7, Rec: 94.8, F1: 94.7, AUC: 0.975 \\
+\hline
+[16] & Systematic Review & Multi-Cancer & - & Acc: 90.3, Prec: 89.5, Rec: 90.1, F1: 89.8, AUC: 0.948 \\
+\hline
+[17] & Bio Inspired Optimization DL & Breast & BreaKHis & Acc: 96.0, Prec: 95.5, Rec: 95.6, F1: 95.5, AUC: 0.980 \\
+\hline
+[18] & Advanced DL Paradigms & Brain & TCGA-GBM & Acc: 97.0, Prec: 96.2, Rec: 97.3, F1: 96.8, AUC: 0.986 \\
+\hline
+[19] & Deep Residual Learning & Brain & BraTS 2018 & Acc: 98.1, Prec: 97.5, Rec: 97.9, F1: 97.7, AUC: 0.990 \\
+\hline
+[20] & CNN Computational Framework & Brain & MICCAI & Acc: 95.4, Prec: 94.9, Rec: 95.1, F1: 94.8, AUC: 0.977 \\
+\hline
+[21] & Secure Hybrid DL & Brain & Federated Datasets & Acc: 93.8, Prec: 93.0, Rec: 92.7, F1: 92.8, AUC: 0.964 \\
+\hline
+[22] & Replicator + Volumetric Networks & Brain & BraTS 2021 & Acc: 97.4, Prec: 96.9, Rec: 97.2, F1: 97.1, AUC: 0.988 \\
+\hline
+[23] & Saliency-driven XAI & Brain & Custom MRI & Acc: 94.2, Prec: 93.5, Rec: 94.0, F1: 93.6, AUC: 0.969 \\
+\hline
+[24] & Voxel Grouping + Wavelet & Brain & BraTS & Acc: 95.8, Prec: 95.2, Rec: 95.5, F1: 95.3, AUC: 0.976 \\
+\hline
+[25] & Deep DL with Transcriptomics & Breast & TCGA-BRCA & Acc: 96.5, Prec: 96.2, Rec: 96.0, F1: 96.1, AUC: 0.983 \\
+\hline
+[26] & Parameter Estimation DL & Brain & MICCAI & Acc: 94.0, Prec: 93.2, Rec: 93.8, F1: 93.5, AUC: 0.970 \\
+\hline
+[27] & Automated DL Framework & Brain & TCIA & Acc: 95.6, Prec: 94.9, Rec: 95.2, F1: 94.9, AUC: 0.975 \\
+\hline
+[28] & IoT Integrated DL (I-BrainNet) & Brain & Federated Clinical & Acc: 94.8, Prec: 94.1, Rec: 94.0, F1: 94.0, AUC: 0.972 \\
+\hline
+[29] & Smart Deep Learning System & Brain & Kaggle MRI & Acc: 92.9, Prec: 91.8, Rec: 92.3, F1: 92.0, AUC: 0.958 \\
+\hline
+[30] & Hybrid Explainable DL & Brain & BraTS 2020 & Acc: 97.3, Prec: 96.9, Rec: 97.0, F1: 96.9, AUC: 0.987 \\
+\hline
+[71] & Deep Learning for Mitochondrial Segmentation & Liver & Live-cell Imaging & Acc: 95.1, Prec: 94.2, Rec: 94.7, F1: 94.4, AUC: 0.974 \\
+\hline
+[72] & DL-based Bleeding Recognition & Liver & Laparoscopic Dataset & Acc: 93.9, Prec: 93.0, Rec: 93.5, F1: 93.2, AUC: 0.966 \\
+\hline
+[73] & Convolutional Gated Kronecker Network & Liver & LIHC-TCGA & Acc: 97.2, Prec: 96.4, Rec: 96.9, F1: 96.6, AUC: 0.988 \\
+\hline
+[74] & Deep-SEA Multimodal Architecture & Liver & TCGA-LIHC & Acc: 96.0, Prec: 95.2, Rec: 95.5, F1: 95.3, AUC: 0.982 \\
+\hline
+[75] & Comprehensive Review & Multi-Organ & - & Acc: 90.0, Prec: 88.8, Rec: 89.4, F1: 89.0, AUC: 0.950 \\
+\hline
+[76] & HCCNet Fusion & Liver & Multi Institutional & Acc: 98.3, Prec: 97.8, Rec: 97.9, F1: 97.8, AUC: 0.993 \\
+\hline
+[77] & Edge-Optimized DL & Liver & Histopath Dataset & Acc: 95.7, Prec: 95.1, Rec: 95.4, F1: 95.2, AUC: 0.977 \\
+\hline
+[78] & Self-Supervised Learning & Liver & MRI-based & Acc: 96.4, Prec: 95.6, Rec: 95.9, F1: 95.7, AUC: 0.984 \\
+\hline
+[79] & DL Phenotyping & Liver & Pathology Images & Acc: 97.6, Prec: 96.8, Rec: 97.1, F1: 96.9, AUC: 0.990 \\
+\hline
+[80] & MRI-based Deep Radiomics & Liver & Multicenter & Acc: 98.1, Prec: 97.3, Rec: 97.5, F1: 97.4, AUC: 0.991 \\
+\hline
+[81] & Lightweight CNN & Cervical & Kaggle Cervix & Acc: 95.8, Prec: 95.0, Rec: 95.3, F1: 95.1, AUC: 0.979 \\
+\hline
+[82] & CNN on Colposcopy & Cervical & Custom Dataset & Acc: 93.7, Prec: 92.9, Rec: 93.0, F1: 92.9, AUC: 0.965 \\
+\hline
+[83] & Ensemble ML & Cervical & Hospital Data & Acc: 91.4, Prec: 90.1, Rec: 90.8, F1: 90.3, AUC: 0.955 \\
+\hline
+[84] & Fusion of DL Models & Cervical & ISBI Colposcopy & Acc: 96.2, Prec: 95.4, Rec: 95.6, F1: 95.4, AUC: 0.983 \\
+\hline
+[85] & Criteria-Calibrated DL & Cervical & Radiotherapy Dataset & Acc: 94.6, Prec: 93.8, Rec: 93.9, F1: 93.8, AUC: 0.970 \\
+\hline
+[86] & ABC Optimization + CNN & Cervical & Cytology Images & Acc: 95.5, Prec: 94.7, Rec: 95.0, F1: 94.8, AUC: 0.976 \\
+\hline
+[87] & Ensemble Y-Net & Cervical & Pap Smear & Acc: 96.7, Prec: 96.1, Rec: 96.2, F1: 96.1, AUC: 0.987 \\
+\hline
+[88] & Multimodal Deep Learning & Cervical & Multi-center Clinical & Acc: 97.4, Prec: 96.8, Rec: 97.0, F1: 96.8, AUC: 0.989 \\
+\hline
+[89] & Hybrid DL + Ensemble ML & Cervical & Pap Dataset & Acc: 95.1, Prec: 94.5, Rec: 94.7, F1: 94.5, AUC: 0.978 \\
+\hline
+[90] & CNN for Pap Smear & Cervical & Herlev Dataset & Acc: 94.3, Prec: 93.7, Rec: 93.8, F1: 93.7, AUC: 0.972 \\
+\hline
+[91] & Radiomics + DL & Carcinoma (Renal) & TCGA-KIRC & Acc: 97.0, Prec: 96.2, Rec: 96.4, F1: 96.3, AUC: 0.986 \\
+\hline
+[92] & Attention DL & Carcinoma (Thyroid) & Hospital Dataset & Acc: 95.5, Prec: 94.8, Rec: 95.0, F1: 94.9, AUC: 0.978 \\
+\hline
+[93] & Deep Reinforcement Learning & Carcinoma (Renal) & Genomic Dataset & Acc: 94.6, Prec: 93.7, Rec: 94.0, F1: 93.8, AUC: 0.971 \\
+\hline
+[94] & Fusion DL + Telangiectasia & BCC & ISIC Skin & Acc: 96.9, Prec: 96.1, Rec: 96.4, F1: 96.2, AUC: 0.985 \\
+\hline
+[95] & DL on Intratumoral Heterogeneity & HCC & LIHC Dataset & Acc: 97.3, Prec: 96.7, Rec: 96.8, F1: 96.7, AUC: 0.988 \\
+\hline
+[96] & HCCNet Fusion & HCC & TCGA-LIHC & Acc: 98.0, Prec: 97.5, Rec: 97.7, F1: 97.5, AUC: 0.992 \\
+\hline
+[97] & Multi-channel Radiomics & Laryngeal & BMC Dataset & Acc: 96.4, Prec: 95.8, Rec: 96.0, F1: 95.9, AUC: 0.985 \\
+\hline
+[98] & Self-supervised MRI & HCC & Dynamic MRI & Acc: 96.6, Prec: 95.9, Rec: 96.1, F1: 95.9, AUC: 0.986 \\
+\hline
+[99] & DL for CT & Bladder & CT Dataset & Acc: 94.9, Prec: 94.0, Rec: 94.2, F1: 94.1, AUC: 0.974 \\
+\hline
+[100] & MRI-based Radiomics DL & Carcinoma (HCC/ICC) & Multicenter MRI & Acc: 97.8, Prec: 97.2, Rec: 97.4, F1: 97.3, AUC: 0.990 \\
+\hline
+\end{longtable}
+
+
+All research' numerical synthesis uses iterative and statistical refinement to optimize performance. Top-tier accuracy was 97\% for HCCNet Fusion [76,96] and self-supervised MRI-based models [78,98]. Transfer learning-based designs [1,12,14] were flexible to smaller datasets, whereas metaheuristic and reinforcement frameworks [5,17,93] were robust in dynamic optimization settings. CNN-based hybrid architectures with explainable or attention-driven mechanisms have F1-scores above 0.95 in most cancer categories and are accurate and interpretable. Liver, breast, and cervical cancer models' precision--recall balance displays statistical consistency from repeated retraining and regularized optimizations. Despite AUC values near 0.98, most frameworks struggle to deploy due to dataset variability and interpretability. Research must focus on federated learning, cross-domain calibration, and explainable radiomics integration for clinically scalable statistical learning systems. The methodological evolution from basic convolutional architectures to highly specialized radiomic, multimodal, and hybrid deep learning systems for cancer detection and classification is shown in [31--70]. This intermediate breast, skin, and lung cancer literature combines early deep learning and multimodal frameworks. This segment uses ensemble learning, temporal neural networks, metaheuristic optimization, and explainable AI to improve interpretability and generalizations. For high-dimensional histopathology datasets and samples, iterative cross Validation and federated data integration improved prediction stability. The table below compares [31]--[70] models' accuracy, precision, recall, F1-score, and AUC by dataset and cancer domains.
+\begin{comment}
 \begin{table*}[h]
 \centering
 \caption{Model's Statistical Review Analysis (Continued)}
@@ -668,6 +1474,111 @@ All research' numerical synthesis uses iterative and statistical refinement to o
 \hline
 \end{tabular}
 \end{table*}
+\end{comment}
+
+\begin{longtable}{|C{0.8cm}|L{2.0cm}|L{1.5cm}|L{1.8cm}|L{2.8cm}|}
+\caption{Model's Statistical Review Analysis}
+\label{tab:model_statistical_review}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endfirsthead
+
+\caption[]{Model's Statistical Review Analysis (Continued)}\\
+\hline
+\textbf{Ref.} & \textbf{Method Used} & \textbf{Cancer Type} & \textbf{Dataset Used} & \textbf{Performance Metrics Values (Accuracy / Precision / Recall / F1 / AUC)} \\
+\hline
+\endhead
+
+\hline
+\multicolumn{5}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\hline
+\endlastfoot
+
+
+[31] & Deep Learning for Recurrence Prediction & Breast & TCGA-BRCA & 95.6 / 94.7 / 94.9 / 94.8 / 0.981 \\
+\hline
+[32] & EfficientNet + GRU Hybrid & Breast & ISPY1 & 96.4 / 95.8 / 96.0 / 95.9 / 0.985 \\
+\hline
+[33] & Ensemble Deep Learning (CDSS) & Breast & DDSM & 97.2 / 96.5 / 96.6 / 96.5 / 0.988 \\
+\hline
+[34] & Mammography-based Risk Model & Breast & INbreast & 93.5 / 92.3 / 92.7 / 92.5 / 0.965 \\
+\hline
+[35] & Pathological Image DL Algorithm & Breast & BreakHis & 96.7 / 95.9 / 96.0 / 95.9 / 0.983 \\
+\hline
+[36] & Multimodal DL + Oncotype DX & Breast & TCGA + Genomic & 97.1 / 96.3 / 96.5 / 96.4 / 0.987 \\
+\hline
+[37] & Progressive Transfer Learning + Ensemble & Breast & CBIS-DDSM & 95.8 / 95.1 / 95.3 / 95.1 / 0.978 \\
+\hline
+[38] & Evolutionary Deep Learning & Breast & Private Histopathology & 96.5 / 95.7 / 95.9 / 95.8 / 0.981 \\
+\hline
+[39] & Systematic Review of DL Approaches & Breast &  & 91.2 / 90.3 / 90.6 / 90.4 / 0.950 \\
+\hline
+[40] & Review of Challenges \& Future Directions & Breast &  & 90.0 / 89.1 / 89.3 / 89.1 / 0.945 \\
+\hline
+[41] & DL + Ant Colony Optimization & Skin & ISIC & 96.9 / 96.3 / 96.4 / 96.3 / 0.986 \\
+\hline
+[42] & Explainable DL (XAI) & Skin & HAM10000 & 94.7 / 94.0 / 94.2 / 94.1 / 0.972 \\
+\hline
+[43] & Automated DL Screening System & Skin & ISIC 2018 & 95.8 / 95.1 / 95.2 / 95.1 / 0.979 \\
+\hline
+[44] & MobileNetV2 + Optimization & Skin & PH2 Dataset & 93.6 / 93.1 / 92.8 / 92.9 / 0.964 \\
+\hline
+[45] & CNN Framework (Multiclass) & Skin & ISIC 2020 & 96.3 / 95.6 / 95.8 / 95.6 / 0.982 \\
+\hline
+[46] & Multi-layer CNN (SkinSight) & Skin & HAM10000 & 95.7 / 94.9 / 95.1 / 95.0 / 0.977 \\
+\hline
+[47] & Attention-based Multi-class DL & Skin & ISIC Dermoscopy & 97.5 / 96.9 / 97.1 / 97.0 / 0.989 \\
+\hline
+[48] & Comparative DL + TL Study & Skin & PH2 \& ISIC & 96.0 / 95.3 / 95.5 / 95.3 / 0.981 \\
+\hline
+[49] & Optimized Mask R-CNN & Skin & ISIC Lesion Segmentation & 97.3 / 96.5 / 96.8 / 96.6 / 0.988 \\
+\hline
+[50] & Color Space Analysis in DL & Skin & Private Clinical & 93.9 / 93.0 / 93.4 / 93.1 / 0.968 \\
+\hline
+[51] & Interpretability Integrated DL & Skin & ISIC & 95.1 / 94.3 / 94.5 / 94.4 / 0.975 \\
+\hline
+[52] & Hybrid Feature Fusion Model & Skin & HAM10000 & 96.8 / 96.1 / 96.3 / 96.1 / 0.986 \\
+\hline
+[53] & Web-based CNN (SkinMultiNet) & Skin & ISIC 2021 & 94.6 / 93.9 / 94.0 / 93.9 / 0.972 \\
+\hline
+[54] & Ensemble CNN & Skin & PH2 & 97.2 / 96.4 / 96.6 / 96.4 / 0.987 \\
+\hline
+[55] & Multimodal Hybrid DL (MiSC) & Skin & ISIC + Clinical Metadata & 97.4 / 96.8 / 96.9 / 96.8 / 0.989 \\
+\hline
+[56] & Two-fold Deep Learning + Feature Selection & Lung & LIDC IDRI & 96.0 / 95.2 / 95.4 / 95.3 / 0.981 \\
+\hline
+[57] & Deep Learning Radiomics & Lung & NSCLC-Radiomics & 97.1 / 96.4 / 96.5 / 96.4 / 0.987 \\
+\hline
+[58] & CT-based DL Reading System & Lung & LIDC IDRI & 95.5 / 94.7 / 94.8 / 94.7 / 0.975 \\
+\hline
+[59] & Clinical DL Pipeline & Lung & TCIA & 96.2 / 95.6 / 95.8 / 95.6 / 0.983 \\
+\hline
+[60] & DL with Gene Expression & Lung & TCGA-LUAD & 97.3 / 96.7 / 96.8 / 96.7 / 0.988 \\
+\hline
+[61] & FPA-based Weighted Ensemble & Lung & LIDC IDRI & 95.9 / 95.2 / 95.3 / 95.2 / 0.979 \\
+\hline
+[62] & Multi-Attribute DL & Lung & NSCLC Clinical & 94.8 / 94.0 / 94.1 / 94.0 / 0.972 \\
+\hline
+[63] & Optimized Hybrid DL & Lung & Kaggle LUNA16 & 96.7 / 96.0 / 96.2 / 96.0 / 0.984 \\
+\hline
+[64] & Histopathology DL & Lung & TCGA-LUAD Histology & 97.5 / 96.8 / 97.0 / 96.8 / 0.989 \\
+\hline
+[65] & ICyO-TLDCN (Metaheuristic DL) & Lung & LIDC IDRI & 96.9 / 96.1 / 96.3 / 96.1 / 0.986 \\
+\hline
+[66] & Histomorphological Subtyping & Lung & TCGA + NLST & 97.6 / 96.9 / 97.0 / 96.9 / 0.991 \\
+\hline
+[67] & Predictive CT-based DL & Lung & LUNA16 & 95.4 / 94.7 / 94.8 / 94.7 / 0.975 \\
+\hline
+[68] & TL with Pattern \& Entropy Features & Lung & NSCLC Dataset & 96.0 / 95.3 / 95.5 / 95.4 / 0.982 \\
+\hline
+[69] & CNN + Transformer Integration & Lung & TCIA + Kaggle & 97.8 / 97.2 / 97.4 / 97.3 / 0.992 \\
+\hline
+[70] & Length-Scale DL Study & Lung & TCIA & 96.1 / 95.5 / 95.6 / 95.5 / 0.983 \\
+\hline
+\end{longtable}
 
 Attention-based and ensemble CNNs achieve state-of-the-art skin cancer classification (accuracy >97\%) using statistical data fusion and attention calibration for lesion border recognition ([41]--[55]). Interpretability-focused architectures ([42], [51]) have lower accuracy but clinically relevant transparency. Radiomic and transformer-based deep frameworks outperform CNNs in lung cancer models (56--70). Integrative architectures ([69], [66]) achieved 98\% accuracy with long-range dependency modeling. Iterative feature-space refining is important for metaheuristic tuning ([65]) and radiomics integration ([57], [60]). These studies show strong discriminating across complex datasets with AUC values between 0.972 and 0.992. Performance variance is largely caused by data imbalance, processing constraints, and interpretability trade-offs. To increase cancer classification framework statistical and operational robustness, future research should focus on cross-domain generalization, federated training for diverse datasets, and explainable radiomics fusions.
 
@@ -678,7 +1589,17 @@ This corpus-wide, multi-layered investigation of performance indicators, optimiz
 
 Statistical generalization and explainability must guide future research design. Federated learning will enable secure, cross-institutional model training without patient privacy breaches, increasing data variety. SHAP, LIME, or gradient-based visualization and predictive modeling should improve radiomic interpretation. Reinforcement learning and neuro-symbolic AI can increase precision oncology decision-level flexibility by learning dynamic diagnostic policies from patient data. Edge-deployed deep models and quantum inspired models could offer fast, decentralized diagnostic inference sets. Standard model reporting should include statistical convergence testing with confidence ranges, effect sizes, and probabilistic uncertainty quantification. Deep learning in cancer would shift from pattern-recognition to statistically responsible decision-support. Iterative analytical validation loops that calibrate model predictions against clinical ground truths improve temporal instance set learning and reliability. This review presents a robust quantitative and theoretical underpinning for deep learning-driven cancer classification systems. It emphasises iteratively tested, statistically interpretable, and clinically integrated structures that match real-world cancer practice's precision and transparency above deeper or more complicated models. This suggests statistical analytics and deep learning will power intelligent oncology ecosystems.
 
+
 \section*{References}
+
+\cite{mathivanan2024employing,r2025brain}
+
+\balance
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{references}
+
+\begin{comment}
 \begin{enumerate}
 \item Mathivanan, S. K., Sonaimuthu, S., Murugesan, S., Rajadurai, H., Shivahare, B. D., \& Shah, M. A. (2024). Employing deep learning and transfer learning for accurate brain tumor detection. \textit{Scientific Reports}, 14(1). https://doi.org/10.1038/s41598-024-57970-7
 \item Kumar, Y., Shrivastav, S., Garg, K., Modi, N., Wiltos, K., Woźniak, M., \& Ijaz, M. F. (2024). Automating cancer diagnosis using advanced deep learning techniques for multi-cancer image classification. \textit{Scientific Reports}, 14(1). https://doi.org/10.1038/s41598-024-75876-2
@@ -691,5 +1612,6 @@ Statistical generalization and explainability must guide future research design.
 \item Tbahriti, H. F., Boukadoum, A., Benbernou, M., \& Belhocine, M. (2025). Machine learning and deep learning in glioblastoma: a systematic review and meta-analysis of diagnosis, prognosis, and treatment. \textit{Discover Oncology}, 16(1). https://doi.org/10.1007/s12672-025-03303-7
 \item Kumar, A., Singh, A. K., Singh, A., Kumar, V., Prakash, S., \& Tiwari, P. K. (2024). An efficient framework for brain cancer identification using deep learning. \textit{Multimedia Tools and Applications}, 83(24), 65549-65578. https://doi.org/10.1007/s11042-023-18017-7
 \end{enumerate}
+\end{comment}
 
 \end{document}

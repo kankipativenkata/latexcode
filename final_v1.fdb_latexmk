@@ -1,5 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1763950138.93856 "d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex" "final_v1.pdf" "final_v1" 1763950228.33086 0
+["bibtex final_v1"] 1764073233.37026 "final_v1.aux" "final_v1.bbl" "final_v1" 1764073236.02829 0
+  "./ACM-Reference-Format.bst" 1763915226 96784 12e0ced1522ea2bfa9b2fb12855c7e9e ""
+  "./references.bib" 1764072963 5095 a079af35f6a7677675f8b33ef9e9925b ""
+  "final_v1.aux" 1764073235 7771 c4d2beeab4f8b982f5bf010199d59fec "pdflatex"
+  (generated)
+  "final_v1.bbl"
+  "final_v1.blg"
+  (rewritten before read)
+["pdflatex"] 1764073233.6631 "d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex" "final_v1.pdf" "final_v1" 1764073236.02884 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1497089888 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1497089888 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1497089888 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -87,6 +95,7 @@
   "C:/Program Files/MiKTeX/tex/latex/caption/caption-ams-smf.sto" 1696169587 2176 c0bb71a9780b6b41388cfa629b1a32f7 ""
   "C:/Program Files/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "C:/Program Files/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "C:/Program Files/MiKTeX/tex/latex/caption/ltcaption.sty" 1696169587 7418 021d7c4eb11bde94592761855a3d046e ""
   "C:/Program Files/MiKTeX/tex/latex/cmap/cmap.sty" 1612609498 3574 ddc11a0ae1c579d351ed20d2319ad422 ""
   "C:/Program Files/MiKTeX/tex/latex/cmap/ot1.cmap" 1612609498 1207 4e0d96772f0d338847cbfb4eca683c81 ""
   "C:/Program Files/MiKTeX/tex/latex/cmap/t1.cmap" 1612609498 1938 beaa4a8467aa0074076e0e19f2992e29 ""
@@ -148,8 +157,13 @@
   "C:/Program Files/MiKTeX/tex/latex/newtx/untxsym.fd" 1736607166 568 9df6be53c1b3ec79740d714ff4ae0937 ""
   "C:/Program Files/MiKTeX/tex/latex/oberdiek/centernot.sty" 1722085538 1640 c9cca60f81c5839b9a3e794d72c0b0a7 ""
   "C:/Program Files/MiKTeX/tex/latex/oberdiek/ifdraft.sty" 1722085539 1922 5bdcc31b0573e5e7f31c36f1b88b6a7d ""
+  "C:/Program Files/MiKTeX/tex/latex/preprint/balance.sty" 1369148871 3453 d938ad2440edc1ea1c9042843580ec42 ""
   "C:/Program Files/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Program Files/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
+  "C:/Program Files/MiKTeX/tex/latex/tabulary/tabulary.sty" 1718270305 14749 2802e3d502c668c888432d1e167723d4 ""
+  "C:/Program Files/MiKTeX/tex/latex/tools/array.sty" 1761901070 15651 9d7c62df82cb29a555c00550babfe364 ""
+  "C:/Program Files/MiKTeX/tex/latex/tools/longtable.sty" 1761901070 16014 dfa4b4d4e04a78a3f05a90c19711737a ""
+  "C:/Program Files/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Program Files/MiKTeX/tex/latex/totpages/totpages.sty" 1127575646 7911 b07e668265cf485332abe582e7ed306e ""
   "C:/Program Files/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Program Files/MiKTeX/tex/latex/upquote/upquote.sty" 1335534756 1088 517e01cde97c1c0baf72e69d43aa5a2e ""
@@ -161,7 +175,7 @@
   "C:/Users/venka/AppData/Roaming/MiKTeX/tex/generic/xstring/xstring.tex" 1693735632 49397 a8071cbd06dd0bb15ae8acf876c73f20 ""
   "C:/Users/venka/AppData/Roaming/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "acmart.cls" 1763915226 126055 54cc4edcc7b9cb1bf0a23c528626957c ""
-  "d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex" 1763950043 85527 e4a1362befff9e2d591812403d0de882 ""
+  "d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex" 1764073227 138652 9b44016b3c95811df9067e831a33e619 ""
   "figure1.png" 1763780962 142290 dac38ae9080a077b99fbcf6d0041cd7e ""
   "figure2.png" 1763780981 88386 0a321da18590dd50a12007e8430b6aaf ""
   "figure3.png" 1763780995 113059 8341f7f04c54b813b4d7e249b195af81 ""
@@ -169,9 +183,10 @@
   "figure5.png" 1763781040 158994 df36fcd6f389d228a68d2a888ec902d4 ""
   "figure6.png" 1763781059 105735 8a8d7d303ae8472d314f7c2c6dedbef0 ""
   "figure7.png" 1763781080 129984 136c8d27f85e58dace0d9f7eaad30f05 ""
-  "final_v1.aux" 1763950200 4972 10c5dae11d3c2908f987f776b98d116c "pdflatex"
-  "final_v1.out" 1763950200 3647 feebb6fc81adf2206e2300971c944e70 "pdflatex"
-  "final_v1.tex" 1763950043 85527 e4a1362befff9e2d591812403d0de882 ""
+  "final_v1.aux" 1764073235 7771 c4d2beeab4f8b982f5bf010199d59fec "pdflatex"
+  "final_v1.bbl" 1764073233 3191 f28210829e921656fe9ac4e50024655c "bibtex final_v1"
+  "final_v1.out" 1764073235 3743 76ed7f2525bf440ca6d4b174f627eafd "pdflatex"
+  "final_v1.tex" 1764073227 138652 9b44016b3c95811df9067e831a33e619 ""
   (generated)
   "final_v1.aux"
   "final_v1.log"
