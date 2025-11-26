@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.23)  25 NOV 2025 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.23)  26 NOV 2025 17:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -636,8 +636,8 @@ Package: tabulary 2024/06/04 v0.11 tabulary package (DPC)
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen269
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 32.
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 32.
+Package hyperref Info: Option `colorlinks' set `true' on input line 31.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 31.
 \c@theorem=\count342
  Include comment 'screenonly' Excluding comment 'printonly' Include comment 'anonsuppress' (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
@@ -652,129 +652,129 @@ LaTeX Warning: Label `tab:model_statistical_review' multiply defined.
 )
 \openout1 = `final_v1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 32.
-LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 32.
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 31.
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 32.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 32.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 32.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 32.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
-LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/libertine\ot1linuxlibertinet-tlf.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 <<oml.cmap>>
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 5.5pt on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 32.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 5.5pt on input line 32.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 31.
  (C:\Program Files\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 6.0pt on input line 31.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 5.5pt on input line 32.
-LaTeX Info: Command `\dddot' is already robust on input line 32.
-LaTeX Info: Command `\ddddot' is already robust on input line 32.
-LaTeX Info: Redefining \microtypecontext on input line 32.
-Package microtype Info: Applying patch `item' on input line 32.
-Package microtype Info: Applying patch `toc' on input line 32.
-Package microtype Info: Applying patch `eqnum' on input line 32.
-Package microtype Info: Applying patch `footnote' on input line 32.
-Package microtype Info: Applying patch `verbatim' on input line 32.
-LaTeX Info: Redefining \microtypesetup on input line 32.
+(Font)              scaled to size 5.5pt on input line 31.
+LaTeX Info: Command `\dddot' is already robust on input line 31.
+LaTeX Info: Command `\ddddot' is already robust on input line 31.
+LaTeX Info: Redefining \microtypecontext on input line 31.
+Package microtype Info: Applying patch `item' on input line 31.
+Package microtype Info: Applying patch `toc' on input line 31.
+Package microtype Info: Applying patch `eqnum' on input line 31.
+Package microtype Info: Applying patch `footnote' on input line 31.
+Package microtype Info: Applying patch `verbatim' on input line 31.
+LaTeX Info: Redefining \microtypesetup on input line 31.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -789,7 +789,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring ON on input line 32.
+Package hyperref Info: Link coloring ON on input line 31.
  (final_v1.out) (final_v1.out)
 \@outlinefile=\write4
 \openout4 = `final_v1.out'.
@@ -860,109 +860,109 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 60.
+(Font)              scaled to size 14.4pt on input line 59.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 59.
  (C:\Program Files\MiKTeX\tex/latex/libertine\t1linuxbiolinumt-tlf.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
+(Font)              scaled to size 14.4pt on input line 59.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
+(Font)              scaled to size 14.4pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 60.
+(Font)              scaled to size 10.95pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 60.
+(Font)              scaled to size 10.95pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
-LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 59.
  (C:\Program Files\MiKTeX\tex/latex/libertine\ts1linuxlibertinet-tlf.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 60.
+(Font)              scaled to size 8.0pt on input line 59.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
  (C:\Program Files\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (C:\Program Files\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 9.0pt on input line 60.
+(Font)              scaled to size 9.0pt on input line 59.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 60.
+(Font)              scaled to size 6.6pt on input line 59.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 62.
+(Font)              scaled to size 10.0pt on input line 61.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 62.
+(Font)              scaled to size 10.0pt on input line 61.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 64.
+(Font)              scaled to size 7.0pt on input line 63.
  [1.1{C:/Users/venka/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
 <figure1.png, id=89, 453.0015pt x 249.66pt>
 File: figure1.png Graphic file (type png)
 <use figure1.png>
-Package pdftex.def Info: figure1.png  used on input line 70.
+Package pdftex.def Info: figure1.png  used on input line 69.
 (pdftex.def)             Requested size: 316.6592pt x 174.517pt.
 
 
-Class acmart Warning: A possible image without description on input line 72.
+Class acmart Warning: A possible image without description on input line 71.
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 76.
+(Font)              scaled to size 8.0pt on input line 75.
 [2.2 <./figure1.png>]
 <figure2.png, id=95, 453.0015pt x 262.8pt>
 File: figure2.png Graphic file (type png)
 <use figure2.png>
-Package pdftex.def Info: figure2.png  used on input line 82.
+Package pdftex.def Info: figure2.png  used on input line 81.
 (pdftex.def)             Requested size: 316.6592pt x 183.70209pt.
 
 
-Class acmart Warning: A possible image without description on input line 84.
+Class acmart Warning: A possible image without description on input line 83.
 
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
@@ -972,14 +972,14 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [3.3 <./figure2.png>]
-<figure3.png, id=101, 453.1329pt x 224.39835pt>
+<figure3.png, id=107, 453.1329pt x 224.39835pt>
 File: figure3.png Graphic file (type png)
 <use figure3.png>
-Package pdftex.def Info: figure3.png  used on input line 97.
+Package pdftex.def Info: figure3.png  used on input line 96.
 (pdftex.def)             Requested size: 316.6592pt x 156.8141pt.
 
 
-Class acmart Warning: A possible image without description on input line 99.
+Class acmart Warning: A possible image without description on input line 98.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -987,32 +987,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1377) has occurred while \output is active []
 
- [4.4] Excluding 'comment' comment. Excluding 'comment' comment.
+ [4.4]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 296.
+(Font)              scaled to size 10.0pt on input line 108.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 307.
+(Font)              scaled to size 10.0pt on input line 119.
 
-Overfull \hbox (3.49724pt too wide) in paragraph at lines 334--334
+Overfull \hbox (3.49724pt too wide) in paragraph at lines 146--146
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Transparency 
  []
 
 
-Overfull \hbox (8.73146pt too wide) in paragraph at lines 342--342
+Overfull \hbox (8.73146pt too wide) in paragraph at lines 154--154
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational 
  []
 
 
-Overfull \hbox (8.29712pt too wide) in paragraph at lines 344--344
+Overfull \hbox (8.29712pt too wide) in paragraph at lines 156--156
 \T1/LinuxLibertineT-TLF/m/n/10 (-20) tion/classification|  
  []
 
 
-Overfull \hbox (7.23206pt too wide) in paragraph at lines 356--356
+Overfull \hbox (7.23206pt too wide) in paragraph at lines 168--168
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Morphological 
  []
 
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:374: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:186: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1021,8 +1021,8 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [5.5{C:/Program Files/MiKTeX/fonts/enc/dvips/libertine/lbtn_7grukw.enc} <./figure3.png>]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:374: ignored error: Infinite glue shrinkage found in box being split [6.6]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:374: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:186: ignored error: Infinite glue shrinkage found in box being split [6.6]
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:186: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1031,22 +1031,22 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [7.7] [8.8]
-<figure4.png, id=126, 453.1329pt x 280.76895pt>
+<figure4.png, id=212, 453.1329pt x 280.76895pt>
 File: figure4.png Graphic file (type png)
 <use figure4.png>
-Package pdftex.def Info: figure4.png  used on input line 382.
+Package pdftex.def Info: figure4.png  used on input line 194.
 (pdftex.def)             Requested size: 316.6592pt x 196.20703pt.
 
 
-Class acmart Warning: A possible image without description on input line 386.
+Class acmart Warning: A possible image without description on input line 198.
 
-Excluding 'comment' comment.
-Overfull \hbox (11.96103pt too wide) in paragraph at lines 449--449
+
+Overfull \hbox (11.96103pt too wide) in paragraph at lines 229--229
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Mammography- 
  []
 
 
-Overfull \hbox (8.73146pt too wide) in paragraph at lines 457--457
+Overfull \hbox (8.73146pt too wide) in paragraph at lines 237--237
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational 
  []
 
@@ -1058,18 +1058,18 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [9.9 <./figure4.png>]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:464: ignored error: Infinite glue shrinkage found in box being split [10.10]
-Overfull \hbox (2.60435pt too wide) in paragraph at lines 469--470
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:244: ignored error: Infinite glue shrinkage found in box being split [10.10]
+Overfull \hbox (2.60435pt too wide) in paragraph at lines 249--250
 \T1/LinuxLibertineT-TLF/m/n/10 (-20) bil-ity, fair-ness, and ex-plain-abil-ity across imag-ing modal-i-ties and pa-tient de-mo-graph-ics. Metaheuristic-
  []
 
-<figure5.png, id=137, 453.0015pt x 270.684pt>
+<figure5.png, id=253, 453.0015pt x 270.684pt>
 File: figure5.png Graphic file (type png)
 <use figure5.png>
-Package pdftex.def Info: figure5.png  used on input line 473.
+Package pdftex.def Info: figure5.png  used on input line 253.
 (pdftex.def)             Requested size: 316.6592pt x 189.21317pt.
 
-Class acmart Warning: A possible image without description on input line 475.
+Class acmart Warning: A possible image without description on input line 255.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1081,28 +1081,28 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
-[11.11] Excluding 'comment' comment.
-Overfull \hbox (8.73146pt too wide) in paragraph at lines 546--546
+[11.11]
+Overfull \hbox (8.73146pt too wide) in paragraph at lines 284--284
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational 
  []
 
 
-Overfull \hbox (1.67546pt too wide) in paragraph at lines 552--552
+Overfull \hbox (1.67546pt too wide) in paragraph at lines 290--290
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) MobileNetV2 
  []
 
 
-Overfull \hbox (8.73146pt too wide) in paragraph at lines 558--558
+Overfull \hbox (8.73146pt too wide) in paragraph at lines 296--296
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computational 
  []
 
 
-Overfull \hbox (9.35178pt too wide) in paragraph at lines 566--566
+Overfull \hbox (9.35178pt too wide) in paragraph at lines 304--304
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Interpretability 
  []
 
 [12.12 <./figure5.png>]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:576: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:314: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1111,30 +1111,30 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [13.13]
-<figure6.png, id=153, 453.1329pt x 224.7597pt>
+<figure6.png, id=318, 453.1329pt x 224.7597pt>
 File: figure6.png Graphic file (type png)
 <use figure6.png>
-Package pdftex.def Info: figure6.png  used on input line 585.
+Package pdftex.def Info: figure6.png  used on input line 323.
 (pdftex.def)             Requested size: 316.6592pt x 157.06664pt.
 
 
-Class acmart Warning: A possible image without description on input line 587.
+Class acmart Warning: A possible image without description on input line 325.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14.14] Excluding 'comment' comment.
-Overfull \hbox (10.53925pt too wide) in paragraph at lines 674--674
+[14.14]
+Overfull \hbox (10.53925pt too wide) in paragraph at lines 370--370
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histopathology 
  []
 
 
-Overfull \hbox (7.23206pt too wide) in paragraph at lines 674--674
+Overfull \hbox (7.23206pt too wide) in paragraph at lines 370--370
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Morphological 
  []
 
 
-Overfull \hbox (28.41962pt too wide) in paragraph at lines 678--678
+Overfull \hbox (28.41962pt too wide) in paragraph at lines 374--374
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histomorphological 
  []
 
@@ -1146,7 +1146,7 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [15.15 <./figure6.png>]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:688: ignored error: Infinite glue shrinkage found in box being split [16.16]
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:384: ignored error: Infinite glue shrinkage found in box being split [16.16]
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1155,36 +1155,36 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [17.17]
-<figure7.png, id=172, 453.1329pt x 269.92845pt>
+<figure7.png, id=385, 453.1329pt x 269.92845pt>
 File: figure7.png Graphic file (type png)
 <use figure7.png>
-Package pdftex.def Info: figure7.png  used on input line 699.
+Package pdftex.def Info: figure7.png  used on input line 395.
 (pdftex.def)             Requested size: 316.6592pt x 188.63147pt.
 
 
-Class acmart Warning: A possible image without description on input line 701.
+Class acmart Warning: A possible image without description on input line 397.
 
-[18.18 <./figure7.png>] Excluding 'comment' comment.
-Overfull \hbox (5.95648pt too wide) in paragraph at lines 764--764
+[18.18 <./figure7.png>]
+Overfull \hbox (5.95648pt too wide) in paragraph at lines 428--428
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Convolutional 
  []
 
 
-Overfull \hbox (16.10567pt too wide) in paragraph at lines 764--764
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 428--428
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally 
  []
 
 
-Overfull \hbox (11.44278pt too wide) in paragraph at lines 768--768
+Overfull \hbox (11.44278pt too wide) in paragraph at lines 432--432
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Comprehensive 
  []
 
 
-Overfull \hbox (18.3125pt too wide) in paragraph at lines 776--776
+Overfull \hbox (18.3125pt too wide) in paragraph at lines 440--440
 \T1/LinuxLibertineT-TLF/m/n/10 (-20) cholangiocarcinoma|  
  []
 
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:781: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:445: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1192,12 +1192,12 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
-[19.19] [20.20] Excluding 'comment' comment.
-Overfull \hbox (16.10567pt too wide) in paragraph at lines 852--852
+[19.19] [20.20]
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 484--484
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally 
  []
 
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:866: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:498: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1205,8 +1205,8 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
-[21.21] [22.22] Excluding 'comment' comment.
-Overfull \hbox (16.10567pt too wide) in paragraph at lines 937--937
+[21.21] [22.22]
+Overfull \hbox (16.10567pt too wide) in paragraph at lines 537--537
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Computationally 
  []
 
@@ -1222,57 +1222,57 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [23.23]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:954: ignored error: Infinite glue shrinkage found in box being split [24.24] Excluding 'comment' comment.
-Overfull \hbox (5.5996pt too wide) in paragraph at lines 1269--1269
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:554: ignored error: Infinite glue shrinkage found in box being split [24.24]
+Overfull \hbox (5.5996pt too wide) in paragraph at lines 588--588
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Hyperspectral 
  []
 
 
-Overfull \hbox (10.1918pt too wide) in paragraph at lines 1279--1279
+Overfull \hbox (10.1918pt too wide) in paragraph at lines 598--598
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Glioblastoma|  
  []
 
 
-Overfull \hbox (1.39943pt too wide) in paragraph at lines 1325--1325
+Overfull \hbox (1.39943pt too wide) in paragraph at lines 644--644
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Laparoscopic 
  []
 
 
-Overfull \hbox (5.75232pt too wide) in paragraph at lines 1331--1331
+Overfull \hbox (5.75232pt too wide) in paragraph at lines 650--650
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Comprehensive 
  []
 
 
-Overfull \hbox (2.24702pt too wide) in paragraph at lines 1351--1351
+Overfull \hbox (2.24702pt too wide) in paragraph at lines 670--670
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Radiotherapy 
  []
 
 
-Overfull \hbox (1.0174pt too wide) in paragraph at lines 1363--1363
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 682--682
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma 
  []
 
 
-Overfull \hbox (1.0174pt too wide) in paragraph at lines 1365--1365
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 684--684
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma 
  []
 
 
-Overfull \hbox (1.0174pt too wide) in paragraph at lines 1367--1367
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 686--686
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma 
  []
 
 
-Overfull \hbox (1.0174pt too wide) in paragraph at lines 1381--1381
+Overfull \hbox (1.0174pt too wide) in paragraph at lines 700--700
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Carcinoma 
  []
 
 
-Overfull \hbox (1.41481pt too wide) in paragraph at lines 1381--1381
+Overfull \hbox (1.41481pt too wide) in paragraph at lines 700--700
 \T1/LinuxLibertineT-TLF/m/n/10 (-20) (HCC/ICC)|  
  []
 
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1383: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:702: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1281,8 +1281,8 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [25.25]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1383: ignored error: Infinite glue shrinkage found in box being split [26.26]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1383: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:702: ignored error: Infinite glue shrinkage found in box being split [26.26]
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:702: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1291,8 +1291,8 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [27.27]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1383: ignored error: Infinite glue shrinkage found in box being split [28.28]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1383: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:702: ignored error: Infinite glue shrinkage found in box being split [28.28]
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:702: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1300,28 +1300,28 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
-[29.29] Excluding 'comment' comment.
-Overfull \hbox (6.27057pt too wide) in paragraph at lines 1507--1507
+[29.29]
+Overfull \hbox (6.27057pt too wide) in paragraph at lines 735--735
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Mammography- 
  []
 
 
-Overfull \hbox (3.66132pt too wide) in paragraph at lines 1541--1541
+Overfull \hbox (3.66132pt too wide) in paragraph at lines 769--769
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Interpretability 
  []
 
 
-Overfull \hbox (4.84879pt too wide) in paragraph at lines 1567--1567
+Overfull \hbox (4.84879pt too wide) in paragraph at lines 795--795
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histopathology 
  []
 
 
-Overfull \hbox (22.72916pt too wide) in paragraph at lines 1571--1571
+Overfull \hbox (22.72916pt too wide) in paragraph at lines 799--799
 []|\T1/LinuxLibertineT-TLF/m/n/10 (-20) Histomorphological 
  []
 
 [30.30]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1581: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:809: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1330,8 +1330,8 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
 [31.31]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1581: ignored error: Infinite glue shrinkage found in box being split [32.32]
-d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:1581: ignored error: Infinite glue shrinkage found in box being split
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:809: ignored error: Infinite glue shrinkage found in box being split [32.32]
+d:/VIT/cancer/review docs/final word docs/latexcode/final_v1.tex:809: ignored error: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
 (fancyhdr)                Make it at least 18.48402pt, for example:
@@ -1342,14 +1342,9 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 [33.33] [34.34] (final_v1.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 47.
-) Excluding 'comment' comment.
 
-Class acmart Warning: Some images may lack descriptions.
-(acmart)              ACM is committed to complying with the upcoming US ADA https://accessiblyapp.com/accessibility-compliance/ada/ and European Accessibility Act (EAA) https://accessiblyapp.com/accessibility-compliance/eaa/ regulations by actively working to ensure our publications and application services are accessible to individuals with disabilities, adhering to the WCAG guidelines to provide a seamless experience for all users, and regularly reviewing our accessibility practices to maintain compliance with evolving standards. 
-(acmart)              To this end, we strongly encourage our authors to provide alternative text and captions for images and multimedia content. It is also important to optimize color contrast for the visually impaired. Taking these important steps when creating your papers will ensure that the widest possible audience can ingest your work..
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
-
-Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
 
 Package fancyhdr Warning: \headheight is too small (13.0pt): 
@@ -1358,11 +1353,48 @@ Package fancyhdr Warning: \headheight is too small (13.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
 
+[35.35]
+Underfull \vbox (badness 6396) has occurred while \output is active []
+
+ [36.36]
+Underfull \vbox (badness 6396) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[37.37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38.38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (13.0pt): 
+(fancyhdr)                Make it at least 18.48402pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.48402pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-5.48402pt}.
+
+[39.39])
+
+Class acmart Warning: Some images may lack descriptions.
+(acmart)              ACM is committed to complying with the upcoming US ADA https://accessiblyapp.com/accessibility-compliance/ada/ and European Accessibility Act (EAA) https://accessiblyapp.com/accessibility-compliance/eaa/ regulations by actively working to ensure our publications and application services are accessible to individuals with disabilities, adhering to the WCAG guidelines to provide a seamless experience for all users, and regularly reviewing our accessibility practices to maintain compliance with evolving standards. 
+(acmart)              To this end, we strongly encourage our authors to provide alternative text and captions for images and multimedia content. It is also important to optimize color contrast for the visually impaired. Taking these important steps when creating your papers will ensure that the widest possible audience can ingest your work..
+
+
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
+
 (C:\Program Files\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (C:\Program Files\MiKTeX\tex/generic/stringenc\se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [35.35] (final_v1.aux)
+) [40.40] (final_v1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
@@ -1372,20 +1404,20 @@ L3 programming layer <2025-10-24>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `final_v1.out' has not changed.
-(rerunfilecheck)             Checksum: 76ED7F2525BF440CA6D4B174F627EAFD;3743.
+(rerunfilecheck)             Checksum: 6264DCDE13D81D9C8453B299A10B0273;3743.
  ) 
 Here is how much of TeX's memory you used:
- 21523 strings out of 467871
- 344729 string characters out of 5428442
- 934639 words of memory out of 5000000
- 49470 multiletter control sequences out of 15000+600000
- 772996 words of font info for 312 fonts, out of 8000000 for 9000
+ 22078 strings out of 467871
+ 358424 string characters out of 5428442
+ 943530 words of memory out of 5000000
+ 49760 multiletter control sequences out of 15000+600000
+ 790351 words of font info for 421 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,17n,131p,2300b,681s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,17n,131p,2469b,887s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Program Files/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on final_v1.pdf (35 pages, 1331275 bytes).
+Output written on final_v1.pdf (40 pages, 1467844 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
+ 878 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  78012 words of extra memory for PDF output out of 89155 (max. 10000000)
 

@@ -1,0 +1,1108 @@
+@article{mathivanan2024employing,
+  author = {Mathivanan, Suresh Kumar and Sonaimuthu, S. and Murugesan, S. and Rajadurai, H. and Shivahare, B. D. and Shah, Mumtaz A.},
+  title = {Employing deep learning and transfer learning for accurate brain tumor detection},
+  journal = {Scientific Reports},
+  year = {2024},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41598-024-57970-7},
+  url = {https://doi.org/10.1038/s41598-024-57970-7}
+}
+
+@article{kumar2024automating,
+  author = {Kumar, Yogesh and Shrivastav, Shikha and Garg, Kanika and Modi, Naman and Wiltos, Kinga and Woźniak, Marcin and Ijaz, Muhammad Fazal},
+  title = {Automating cancer diagnosis using advanced deep learning techniques for multi-cancer image classification},
+  journal = {Scientific Reports},
+  year = {2024},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41598-024-75876-2},
+  url = {https://doi.org/10.1038/s41598-024-75876-2}
+}
+
+@article{r2025brain,
+  author = {R. V., M. and N., Y. G. and H. M., M. and K. N., B. and R., M.},
+  title = {Brain tumor classification on MRI images using fine-tuned deep learning models},
+  journal = {Machine Learning for Computational Science and Engineering},
+  year = {2025},
+  volume = {1},
+  number = {1},
+  doi = {10.1007/s44379-025-00024-0},
+  url = {https://doi.org/10.1007/s44379-025-00024-0}
+}
+
+@article{baffa2025comparative,
+  author = {Baffa, Matheus de Oliveira and Zezell, Denise Maria and Bachmann, Luciano and Pereira, Tiago Mineo and Felipe, Joaquim Cezar},
+  title = {A comparative analysis of deep learning architectures for thyroid tissue classification with hyperspectral imaging},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-16060-y},
+  url = {https://doi.org/10.1038/s41598-025-16060-y}
+}
+
+@article{lawrence2025hybrid,
+  author = {Lawrence, Michael O.},
+  title = {A hybrid bio Inspired augmented with hyper-parameter deep learning model for brain tumor classification},
+  journal = {Journal of Electrical Systems and Information Technology},
+  year = {2025},
+  volume = {12},
+  number = {1},
+  doi = {10.1186/s43067-025-00207-y},
+  url = {https://doi.org/10.1186/s43067-025-00207-y}
+}
+
+@article{abouali2025enhancing,
+  author = {Abou Ali, M. and Charafeddine, J. and Dornaika, F. and Arganda-Carreras, I.},
+  title = {Enhancing Generalization and Mitigating Overfitting in Deep Learning for Brain Cancer Diagnosis from MRI},
+  journal = {Applied Magnetic Resonance},
+  year = {2025},
+  volume = {56},
+  number = {3},
+  pages = {359--394},
+  doi = {10.1007/s00723-024-01743-y},
+  url = {https://doi.org/10.1007/s00723-024-01743-y}
+}
+
+@article{sharafaddini2024deep,
+  author = {Sharafaddini, Amir Mohammad and Esfahani, Kamyab Kiani and Mansouri, Nader},
+  title = {Deep learning approaches to detect breast cancer: a comprehensive review},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {21},
+  pages = {24079--24190},
+  doi = {10.1007/s11042-024-20011-6},
+  url = {https://doi.org/10.1007/s11042-024-20011-6}
+}
+
+@article{link2024longitudinal,
+  author = {Link, Katharina E. and Schnurman, Zachary and Liu, Charles and Kwon, Young J. and Jiang, Lily Y. and Nasir-Moin, Mustafa and Neifert, Sean and Alzate, Juan D. and Bernstein, Kyle and Qu, Tony and Chen, Vincent and Yang, Eric and Golfinos, John G. and Orringer, Daniel and Kondziolka, Douglas and Oermann, Eric K.},
+  title = {Longitudinal deep neural networks for assessing metastatic brain cancer on a large open benchmark},
+  journal = {Nature Communications},
+  year = {2024},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41467-024-52414-2},
+  url = {https://doi.org/10.1038/s41467-024-52414-2}
+}
+
+@article{tbahriti2025machine,
+  author = {Tbahriti, H. F. and Boukadoum, A. and Benbernou, M. and Belhocine, M.},
+  title = {Machine learning and deep learning in glioblastoma: a systematic review and meta-analysis of diagnosis, prognosis, and treatment},
+  journal = {Discover Oncology},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1007/s12672-025-03303-7},
+  url = {https://doi.org/10.1007/s12672-025-03303-7}
+}
+
+@article{kumar2024efficient,
+  author = {Kumar, Amit and Singh, Abhishek Kumar and Singh, Akhilesh and Kumar, Vijay and Prakash, Satya and Tiwari, Pramod Kumar},
+  title = {An efficient framework for brain cancer identification using deep learning},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {83},
+  number = {24},
+  pages = {65549--65578},
+  doi = {10.1007/s11042-023-18017-7},
+  url = {https://doi.org/10.1007/s11042-023-18017-7}
+}
+
+@article{adnan2025deep,
+  author = {Adnan, Khalid Mehmood and Ghazal, Taher M. and Saleem, Muhammad and Farooq, Muhammad Shoaib and Yeun, Chan Yeob and Ahmad, Munir and Lee, Sungwon},
+  title = {Deep learning driven interpretable and informed decision making model for brain tumour prediction using explainable AI},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-03358-0},
+  url = {https://doi.org/10.1038/s41598-025-03358-0}
+}
+
+@article{mavaddati2024brain,
+  author = {Mavaddati, S.},
+  title = {Brain tumors classification using deep models and transfer learning},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {22},
+  pages = {25677--25708},
+  doi = {10.1007/s11042-024-20141-x},
+  url = {https://doi.org/10.1007/s11042-024-20141-x}
+}
+
+@article{alshowarah2025deepcancer,
+  author = {AlShowarah, Suleiman A.},
+  title = {DeepCancer: deep learning for brain tumor detection-based application system},
+  journal = {Neural Computing and Applications},
+  year = {2025},
+  volume = {37},
+  number = {7},
+  pages = {5577--5596},
+  doi = {10.1007/s00521-024-10926-4},
+  url = {https://doi.org/10.1007/s00521-024-10926-4}
+}
+
+@article{narayan2025comparison,
+  author = {Narayan, Y. and Pasupulla, Abhishek P. and Kumar, Dinesh and Chandra, K. R. and Singh, R. M. and Charan, P. and Singh, D. P.},
+  title = {Comparison based on transfer learning and fusion of deep learning models for brain cancer classification},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  volume = {84},
+  number = {35},
+  pages = {44317--44337},
+  doi = {10.1007/s11042-025-20884-1},
+  url = {https://doi.org/10.1007/s11042-025-20884-1}
+}
+
+@article{pandey2025wavelet,
+  author = {Pandey, A. and Pandey, V. K.},
+  title = {Wavelet Based Classification Using Meta-Heuristic Algorithm with Deep Transfer Learning Technique},
+  journal = {SN Computer Science},
+  year = {2025},
+  volume = {6},
+  number = {3},
+  doi = {10.1007/s42979-025-03683-1},
+  url = {https://doi.org/10.1007/s42979-025-03683-1}
+}
+
+@article{abid2025systematic,
+  author = {Abid, Muhammad Ali and Munir, Kashif},
+  title = {A systematic review on deep learning implementation in brain tumor segmentation, classification and prediction},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  volume = {84},
+  number = {31},
+  pages = {38203--38242},
+  doi = {10.1007/s11042-025-20706-4},
+  url = {https://doi.org/10.1007/s11042-025-20706-4}
+}
+
+@article{vikhe2025white,
+  author = {Vikhe, Nilesh B. and Shrivastava, Megha},
+  title = {White Headed Timber Optimization based Deep Learning model for Brain Tumor Prediction},
+  journal = {Biomedical Materials \& Devices},
+  year = {2025},
+  doi = {10.1007/s44174-025-00293-6},
+  url = {https://doi.org/10.1007/s44174-025-00293-6}
+}
+
+@article{imbaquingo2024exploring,
+  author = {Imbaquingo-Esparza, Diego E. and Botto-Tobar, Marcos and Jacome-Leon, Jorge G. and Zambrano Vizuete, Marcelo},
+  title = {Exploring Advanced Deep Learning Paradigms for Precise Brain Tumor Categorization},
+  journal = {SN Computer Science},
+  year = {2024},
+  volume = {5},
+  number = {7},
+  doi = {10.1007/s42979-024-03228-y},
+  url = {https://doi.org/10.1007/s42979-024-03228-y}
+}
+
+@article{sagar2023image,
+  author = {Sagar, G. V. and Kumar, M. R. and Ahammad, S. H. and Santhosh, C.},
+  title = {Image classification of intracranial tumor using deep residual learning technique},
+  journal = {Multimedia Tools and Applications},
+  year = {2023},
+  volume = {83},
+  number = {19},
+  pages = {57409--57427},
+  doi = {10.1007/s11042-023-17712-9},
+  url = {https://doi.org/10.1007/s11042-023-17712-9}
+}
+
+@article{kumar2023deep,
+  author = {Kumar, Ajay and Shukla, Sunil Kumar and Prakash, Neeraj and Yadav, Rajesh Kumar},
+  title = {A Deep Learning and Powerful Computational Framework for Brain Cancer MRI Image Recognition},
+  journal = {Journal of The Institution of Engineers (India): Series B},
+  year = {2023},
+  volume = {105},
+  number = {1},
+  pages = {1--18},
+  doi = {10.1007/s40031-023-00926-8},
+  url = {https://doi.org/10.1007/s40031-023-00926-8}
+}
+
+@article{mathivanan2025secure,
+  author = {Mathivanan, Suresh Kumar and Srinivasan, S. and Koti, M. S. and Kushwah, V. S. and Joseph, R. B. and Shah, Mumtaz A.},
+  title = {A secure hybrid deep learning framework for brain tumor detection and classification},
+  journal = {Journal of Big Data},
+  year = {2025},
+  volume = {12},
+  number = {1},
+  doi = {10.1186/s40537-025-01117-6},
+  url = {https://doi.org/10.1186/s40537-025-01117-6}
+}
+
+@article{rastogi2025deep,
+  author = {Rastogi, Divya and Johri, P. and Donelli, M. and Kadry, S. and Khan, A. A. and Espa, G. and Feraco, P. and Kim, J.},
+  title = {Deep learning Integrated MRI brain tumor analysis: feature extraction, segmentation, and Survival Prediction using Replicator and volumetric networks},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-024-84386-0},
+  url = {https://doi.org/10.1038/s41598-024-84386-0}
+}
+
+@article{brima2024saliency,
+  author = {Brima, Y. and Atemkeng, M.},
+  title = {Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis},
+  journal = {BioData Mining},
+  year = {2024},
+  volume = {17},
+  number = {1},
+  doi = {10.1186/s13040-024-00370-4},
+  url = {https://doi.org/10.1186/s13040-024-00370-4}
+}
+
+@article{sahin2025unified,
+  author = {Şahin, M. F. and Yeganli, S. F. and Uludağ, G. and Yeganli, F. and Anka, F.},
+  title = {Unified Deep Learning Method for Accurate Brain Tumor Segmentation Using Vertical Voxel Grouping and Wavelet Features},
+  journal = {Signal, Image and Video Processing},
+  year = {2025},
+  volume = {19},
+  number = {11},
+  doi = {10.1007/s11760-025-04557-y},
+  url = {https://doi.org/10.1007/s11760-025-04557-y}
+}
+
+@article{hoang2024deep,
+  author = {Hoang, D. and Dinstag, G. and Shulman, E. D. and Hermida, L. C. and Ben-Zvi, D. S. and Elis, E. and Caley, K. and Sammut, S. and Sinha, S. and Sinha, N. and Dampier, C. H. and Stossel, C. and Patil, T. and Rajan, A. and Lassoued, W. and Strauss, J. and Bailey, S. and Allen, C. and Redman, J. and Beker, T. and Jiang, P. and Golan, T. and Wilkinson, S. and Sowalsky, A. G. and Pine, S. R. and Caldas, C. and Gulley, J. L. and Aldape, K. and Aharonov, R. and Stone, E. A. and Ruppin, E.},
+  title = {A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics},
+  journal = {Nature Cancer},
+  year = {2024},
+  volume = {5},
+  number = {9},
+  pages = {1305--1317},
+  doi = {10.1038/s43018-024-00793-2},
+  url = {https://doi.org/10.1038/s43018-024-00793-2}
+}
+
+@article{vijayakumari2024automated,
+  author = {Vijayakumari, B. and Kiruthiga, N. and Bushkala, C. P.},
+  title = {Automated evaluation and parameter estimation of brain tumor using deep learning techniques},
+  journal = {Neural Computing and Applications},
+  year = {2024},
+  volume = {36},
+  number = {33},
+  pages = {20751--20767},
+  doi = {10.1007/s00521-024-10255-6},
+  url = {https://doi.org/10.1007/s00521-024-10255-6}
+}
+
+@article{aamir2025automated,
+  author = {Aamir, M. and Rahman, Z. and Bhatti, Uzair Aslam and Abro, Waqas Ahmed and Bhutto, Javed Ahmed and He, Z.},
+  title = {An automated deep learning framework for brain tumor classification using MRI imagery},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-02209-2},
+  url = {https://doi.org/10.1038/s41598-025-02209-2}
+}
+
+@article{ibrahim2025ibrainnet,
+  author = {Ibrahim, Abdullahi Umar and Engo, G. M. and Ame, I. and Nwekwo, C. W. and Al-Turjman, F.},
+  title = {I-BrainNet: Deep Learning and Internet of Things (DL/IoT)--Based Framework for the Classification of Brain Tumor},
+  journal = {Journal of Imaging Informatics in Medicine},
+  year = {2025},
+  doi = {10.1007/s10278-025-01470-1},
+  url = {https://doi.org/10.1007/s10278-025-01470-1}
+}
+
+@article{ishfaq2025automatic,
+  author = {Ishfaq, Q. U. A. and Bibi, R. and Ali, A. and Jamil, F. and Saeed, Y. and Alnashwan, R. O. and Chelloug, S. A. and Muthanna, M. S. A.},
+  title = {Automatic smart brain tumor classification and prediction system using deep learning},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-95803-3},
+  url = {https://doi.org/10.1038/s41598-025-95803-3}
+}
+
+@article{nahiduzzaman2025hybrid,
+  author = {Nahiduzzaman, Md. and Abdulrazak, Lway Faisal and Kibria, H. B. and Khandakar, Amith and Ayari, Mohamed Amine and Ahamed, M. F. and Ahsan, M. and Haider, J. and Moni, M. A. and Kowalski, M.},
+  title = {A hybrid explainable model based on advanced machine learning and deep learning models for classifying brain tumors using MRI images},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-85874-7},
+  url = {https://doi.org/10.1038/s41598-025-85874-7}
+}
+
+@article{jam2024deep,
+  author = {Jam, Zahra and Albadvi, Akbar and Atashi, Azim},
+  title = {Deep learning application in diagnosing breast cancer recurrence},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {13},
+  pages = {12265--12297},
+  doi = {10.1007/s11042-024-19423-1},
+  url = {https://doi.org/10.1007/s11042-024-19423-1}
+}
+
+@article{pradeepa2025hybrid,
+  author = {Pradeepa, M. and Sharmila, B. and Nirmala, M.},
+  title = {A hybrid deep learning model EfficientNet with GRU for breast cancer detection from histopathology images},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-00930-6},
+  url = {https://doi.org/10.1038/s41598-025-00930-6}
+}
+
+@article{sandhu2025development,
+  author = {Sandhu, J. K. and Sharma, C. and Kaur, A. and Pandey, S. K. and Sinha, A. and Shreyas, J.},
+  title = {Development of a clinical decision support system for breast cancer detection using ensemble deep learning},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-06784-2},
+  url = {https://doi.org/10.1038/s41598-025-06784-2}
+}
+
+@article{shin2025deep,
+  author = {Shin, S. and Chang, Y. and Ryu, S.},
+  title = {Deep learning mammography-based breast cancer risk model, its serial change, and breast cancer mortality},
+  journal = {Breast Cancer},
+  year = {2025},
+  volume = {32},
+  number = {6},
+  pages = {1462--1471},
+  doi = {10.1007/s12282-025-01772-w},
+  url = {https://doi.org/10.1007/s12282-025-01772-w}
+}
+
+@article{huang2025deep,
+  author = {Huang, T. and Huang, X. and Yin, H.},
+  title = {Deep Learning-based Pathological Image Analysis Algorithm for Early Diagnosis of Breast Cancer},
+  journal = {Neural Processing Letters},
+  year = {2025},
+  volume = {57},
+  number = {6},
+  doi = {10.1007/s11063-025-11753-x},
+  url = {https://doi.org/10.1007/s11063-025-11753-x}
+}
+
+@article{zhang2025multimodal,
+  author = {Zhang, R. and Wang, K. and Wang, S. and Wang, C. and Cao, T. and Ci, C. and Xu, M. and Ge, M.},
+  title = {Multimodal deep learning model for prediction of breast cancer recurrence risk and correlation with oncotype DX},
+  journal = {Breast Cancer Research},
+  year = {2025},
+  volume = {27},
+  number = {1},
+  doi = {10.1186/s13058-025-02129-z},
+  url = {https://doi.org/10.1186/s13058-025-02129-z}
+}
+
+@article{khaled2024improving,
+  author = {Khaled, M. and Touazi, F. and Gaceb, D.},
+  title = {Improving Breast Cancer Diagnosis in Mammograms with Progressive Transfer Learning and Ensemble Deep Learning},
+  journal = {Arabian Journal for Science and Engineering},
+  year = {2024},
+  volume = {50},
+  number = {10},
+  pages = {7697--7720},
+  doi = {10.1007/s13369-024-09428-1},
+  url = {https://doi.org/10.1007/s13369-024-09428-1}
+}
+
+@article{bhavya2025enhancing,
+  author = {Bhavya, G. and Manjunath, T. N.},
+  title = {Enhancing breast cancer detection: Integrating deep learning with evolutionary algorithms},
+  journal = {International Journal of System Assurance Engineering and Management},
+  year = {2025},
+  doi = {10.1007/s13198-025-02981-4},
+  url = {https://doi.org/10.1007/s13198-025-02981-4}
+}
+
+@article{sharafaddini2024deepb,
+  author = {Sharafaddini, Amir Mohammad and Esfahani, Kamyab Kiani and Mansouri, Nader},
+  title = {Deep learning approaches to detect breast cancer: a comprehensive review},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {21},
+  pages = {24079--24190},
+  doi = {10.1007/s11042-024-20011-6},
+  url = {https://doi.org/10.1007/s11042-024-20011-6}
+}
+
+@article{shahid2025breast,
+  author = {Shahid, Muhammad S. and Imran, Ali},
+  title = {Breast cancer detection using deep learning techniques: challenges and future directions},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  volume = {84},
+  number = {6},
+  pages = {3257--3304},
+  doi = {10.1007/s11042-025-20606-7},
+  url = {https://doi.org/10.1007/s11042-025-20606-7}
+}
+
+@article{sarhan2025achieving,
+  author = {Sarhan, Ahmed M. and Ali, H. A. and Yasser, S. and Gobara, M. and Kandil, A. A. and Sherif, G. and Moustafa, E.},
+  title = {Achieving high-accuracy skin cancer classification with deep learning optimized by ant colony algorithm},
+  journal = {Journal of Electrical Systems and Information Technology},
+  year = {2025},
+  volume = {12},
+  number = {1},
+  doi = {10.1186/s43067-025-00243-8},
+  url = {https://doi.org/10.1186/s43067-025-00243-8}
+}
+
+@article{alrabai2025explainable,
+  author = {Alrabai, A. and Echtioui, A. and Kallel, F.},
+  title = {Explainable deep learning approaches for skin cancer diagnosis},
+  journal = {Network Modeling Analysis in Health Informatics and Bioinformatics},
+  year = {2025},
+  volume = {14},
+  number = {1},
+  doi = {10.1007/s13721-025-00554-w},
+  url = {https://doi.org/10.1007/s13721-025-00554-w}
+}
+
+@article{rashad2025automating,
+  author = {Rashad, N. M. and Abdelnapi, N. M. and Seddik, A. F. and Sayedelahl, M. A.},
+  title = {Automating skin cancer screening: a deep learning},
+  journal = {Journal of Engineering and Applied Science},
+  year = {2025},
+  volume = {72},
+  number = {1},
+  doi = {10.1186/s44147-024-00573-w},
+  url = {https://doi.org/10.1186/s44147-024-00573-w}
+}
+
+@article{oznacar2025advanced,
+  author = {Öznacar, T. and Varol Kayapunar, N.},
+  title = {Advanced skin cancer prediction with medical image data using MobileNetV2 deep learning and optimized techniques},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-14963-4},
+  url = {https://doi.org/10.1038/s41598-025-14963-4}
+}
+
+@article{ozdemir2025robust,
+  author = {Ozdemir, B. and Pacal, I.},
+  title = {A robust deep learning framework for multiclass skin cancer classification},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-89230-7},
+  url = {https://doi.org/10.1038/s41598-025-89230-7}
+}
+
+@article{ashfaq2025skinsight,
+  author = {Ashfaq, N. and Suhail, Z. and Khalid, A. and Sarwar, N. and Irshad, A. and Yaman, O. and Alubaidi, A. and Ahmed, F. M. and Almalki, F. A.},
+  title = {SkinSight: advancing deep learning for skin cancer diagnosis and classification},
+  journal = {Discover Computing},
+  year = {2025},
+  volume = {28},
+  number = {1},
+  doi = {10.1007/s10791-025-09541-1},
+  url = {https://doi.org/10.1007/s10791-025-09541-1}
+}
+
+@article{mushtaq2024deep,
+  author = {Mushtaq, S. and Singh, O.},
+  title = {A deep learning based architecture for multi-class skin cancer classification},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {83},
+  number = {39},
+  pages = {87105--87127},
+  doi = {10.1007/s11042-024-19817-1},
+  url = {https://doi.org/10.1007/s11042-024-19817-1}
+}
+
+@article{shakya2025comprehensive,
+  author = {Shakya, M. and Patel, R. and Joshi, S.},
+  title = {A comprehensive analysis of deep learning and transfer learning techniques for skin cancer classification},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-024-82241-w},
+  url = {https://doi.org/10.1038/s41598-024-82241-w}
+}
+
+@article{reddy2025skin,
+  author = {Reddy, A. S. and M.P, G.},
+  title = {Skin cancer detection using optimized mask R-CNN and two-fold-deep-learning-classifier framework},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  volume = {84},
+  number = {30},
+  pages = {36871--36898},
+  doi = {10.1007/s11042-024-20377-7},
+  url = {https://doi.org/10.1007/s11042-024-20377-7}
+}
+
+@article{paul2024deep,
+  author = {Paul, A. and Ali, A. and Chaudhuri, S. S.},
+  title = {Deep Learning Models for Skin Cancer Classification Across Diverse Color Spaces: Comprehensive Analysis},
+  journal = {Archives of Computational Methods in Engineering},
+  year = {2024},
+  volume = {31},
+  number = {8},
+  pages = {4455--4483},
+  doi = {10.1007/s11831-024-10160-0},
+  url = {https://doi.org/10.1007/s11831-024-10160-0}
+}
+
+@article{s2025comprehensive,
+  author = {S, A. and R, S. and Nambiar, S. K. and K Cherian, A.},
+  title = {A comprehensive deep learning approach for skin cancer diagnosis: integrating interpretability and advanced techniques},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  volume = {84},
+  number = {35},
+  pages = {43643--43663},
+  doi = {10.1007/s11042-025-20854-7},
+  url = {https://doi.org/10.1007/s11042-025-20854-7}
+}
+
+@article{akter2025integrated,
+  author = {Akter, M. and Khatun, R. and Talukder, M. A. and Islam, M. M. and Uddin, M. A. and Ahamed, M. K. U. and Khraisat, A.},
+  title = {An Integrated Deep Learning Model for Skin Cancer Detection Using Hybrid Feature Fusion Technique},
+  journal = {Biomedical Materials \& Devices},
+  year = {2025},
+  volume = {3},
+  number = {2},
+  pages = {1433--1447},
+  doi = {10.1007/s44174-024-00264-3},
+  url = {https://doi.org/10.1007/s44174-024-00264-3}
+}
+
+@article{likhon2024skinmultinet,
+  author = {Likhon, M. N. H. and Rana, S. U. and Akter, S. and Ahmed, M. S. and Tanha, K. A. and Rahman, M. M. and Nayeem, M. E. H.},
+  title = {SkinMultiNet: Advancements in Skin Cancer Prediction Using Deep Learning with Web Interface},
+  journal = {Biomedical Materials \& Devices},
+  year = {2024},
+  volume = {3},
+  number = {1},
+  pages = {621--637},
+  doi = {10.1007/s44174-024-00205-0},
+  url = {https://doi.org/10.1007/s44174-024-00205-0}
+}
+
+@article{khan2025enhanced,
+  author = {Khan, M. A. and Alam, S. and Ahmed, W.},
+  title = {Enhanced Skin Cancer Diagnosis via Deep Convolutional Neural Networks with Ensemble Learning},
+  journal = {SN Computer Science},
+  year = {2025},
+  volume = {6},
+  number = {2},
+  doi = {10.1007/s42979-024-03581-y},
+  url = {https://doi.org/10.1007/s42979-024-03581-y}
+}
+
+@article{mohamed2025misc,
+  author = {Mohamed, E. H. and Abdu, N. and Khalil, M. and Kamal, H. and Rashed, E. A.},
+  title = {MiSC: A hybrid multi-modal deep learning approach for accurate skin cancer detection},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  doi = {10.1007/s11042-025-20951-7},
+  url = {https://doi.org/10.1007/s11042-025-20951-7}
+}
+
+@article{s2025lung,
+  author = {S., B. K. and Vinoth Kumar, M.},
+  title = {Lung cancer detection and classification with optimal feature selection and two-fold-deep-learning-classifiers},
+  journal = {Multimedia Tools and Applications},
+  year = {2025},
+  doi = {10.1007/s11042-025-20947-3},
+  url = {https://doi.org/10.1007/s11042-025-20947-3}
+}
+
+@article{le2025deep,
+  author = {Le, Van Hieu and Minh, Thi Ngoc Thao and Kha, Quang Hieu and Le, Nguyen Quoc Khanh},
+  title = {Deep Learning Radiomics for Survival Prediction in Non-Small-Cell Lung Cancer Patients from CT Images},
+  journal = {Journal of Medical Systems},
+  year = {2025},
+  volume = {49},
+  number = {1},
+  doi = {10.1007/s10916-025-02156-5},
+  url = {https://doi.org/10.1007/s10916-025-02156-5}
+}
+
+@article{hu2025deep,
+  author = {Hu, Z. and Zhang, X. and Yang, J. and Zhang, B. and Chen, H. and Shen, W. and Li, H. and Zhou, Y. and Zhang, J. and Qiu, K. and Xie, Z. and Xu, G. and Tan, J. and Pang, C.},
+  title = {A deep learning-based computed tomography reading system for the diagnosis of lung cancer associated with cystic airspaces},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-05986-y},
+  url = {https://doi.org/10.1038/s41598-025-05986-y}
+}
+
+@article{shastri2025enhancing,
+  author = {Shastri, A. and Prajapati, Y. and Katariya, H. and Paliwal, M. and Sabale, K.},
+  title = {Enhancing Clinical Outcomes Using Deep Learning Solution for Accurate Lung Cancer Classification},
+  journal = {Sensing and Imaging},
+  year = {2025},
+  volume = {26},
+  number = {1},
+  doi = {10.1007/s11220-025-00548-y},
+  url = {https://doi.org/10.1007/s11220-025-00548-y}
+}
+
+@article{nassif2025classification,
+  author = {Nassif, Ali Bou and Abujabal, Nour A. and Omar, Asma A.},
+  title = {Classification of lung cancer severity using gene expression data based on deep learning},
+  journal = {BMC Medical Informatics and Decision Making},
+  year = {2025},
+  volume = {25},
+  number = {1},
+  doi = {10.1186/s12911-025-03011-w},
+  url = {https://doi.org/10.1186/s12911-025-03011-w}
+}
+
+@article{zhou2025fpabased,
+  author = {Zhou, L. and Jain, A. and Dubey, A. K. and Singh, S. K. and Gupta, N. and Panwar, A. and Kumar, S. and Althaqafi, T. A. and Arya, V. and Alhalabi, W. and Gupta, B. B.},
+  title = {FPA-based weighted average ensemble of deep learning models for classification of lung cancer using CT scan images},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-02015-w},
+  url = {https://doi.org/10.1038/s41598-025-02015-w}
+}
+
+@article{meeradevi2025lung,
+  author = {Meeradevi, T. and Sasikala, S. and Murali, L. and Manikandan, N. and Ramaswamy, K.},
+  title = {Lung cancer detection with machine learning classifiers with multi-attribute decision-making system and deep learning model},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-88188-w},
+  url = {https://doi.org/10.1038/s41598-025-88188-w}
+}
+
+@article{naveenraj2025enriched,
+  author = {Naveenraj, M. and Vijayakumar, P.},
+  title = {Enriched lung cancer classification approach using an optimized hybrid deep learning approach},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-07322-w},
+  url = {https://doi.org/10.1038/s41598-025-07322-w}
+}
+
+@article{kashyap2025deep,
+  author = {Kashyap, S. and Shukla, A. K. and Naim, I. and Pal, S.},
+  title = {Deep Learning-Based Lung Cancer Histopathology Classification: Emphasizing Accuracy and Customisation},
+  journal = {Biomedical Materials \& Devices},
+  year = {2025},
+  doi = {10.1007/s44174-025-00335-z},
+  url = {https://doi.org/10.1007/s44174-025-00335-z}
+}
+
+@article{kaulgud2025icoyotldcn,
+  author = {Kaulgud, R. V. and Mahadik, S. R.},
+  title = {ICyO-TLDCN: Improved Cynomys Optimization Enabled Deep Learning Model for Lung Cancer Detection},
+  journal = {Biomedical Materials \& Devices},
+  year = {2025},
+  doi = {10.1007/s44174-025-00522-y},
+  url = {https://doi.org/10.1007/s44174-025-00522-y}
+}
+
+@article{zhang2025deep,
+  author = {Zhang, Y. and Liu, S. and Chen, J. and Chen, R. and Yang, Z. and Sheng, R. and Li, X. and Wang, T. and Liu, H. and Yang, F. and Ying, J. and Yang, L. and Sun, J. and Zhou, M.},
+  title = {Deep learning-based histomorphological subtyping and risk stratification of small cell lung cancer from hematoxylin and eosin-stained whole slide images},
+  journal = {Genome Medicine},
+  year = {2025},
+  volume = {17},
+  number = {1},
+  doi = {10.1186/s13073-025-01526-5},
+  url = {https://doi.org/10.1186/s13073-025-01526-5}
+}
+
+@article{tawfeek2025enhancing,
+  author = {Tawfeek, M. A. and Alrashdi, I. and Alruwaili, M. and Shaban, W. M. and Talaat, F. M.},
+  title = {Enhancing the efficiency of lung cancer screening: predictive models utilizing deep learning from CT scans},
+  journal = {Neural Computing and Applications},
+  year = {2025},
+  volume = {37},
+  number = {17},
+  pages = {11459--11477},
+  doi = {10.1007/s00521-025-11084-x},
+  url = {https://doi.org/10.1007/s00521-025-11084-x}
+}
+
+@article{r2025transfer,
+  author = {R, N. and C.M, V.},
+  title = {Transfer learning based deep architecture for lung cancer classification using CT image with pattern and entropy based feature set},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-13755-0},
+  url = {https://doi.org/10.1038/s41598-025-13755-0}
+}
+
+@article{durgam2025enhancing,
+  author = {Durgam, R. and Panduri, B. and Balaji, V. and Khadidos, A. O. and Khadidos, A. O. and Selvarajan, S.},
+  title = {Enhancing lung cancer detection through integrated deep learning and transformer models},
+  journal = {Scientific Reports},
+  year = {2025},
+  volume = {15},
+  number = {1},
+  doi = {10.1038/s41598-025-00516-2},
+  url = {https://doi.org/10.1038/s41598-025-00516-2}
+}
+
+@article{zhou2024length,
+  author = {Zhou, H. and Lin, S. and Watson, M. and Bernadt, C. T. and Zhang, O. and Liao, L. and Govindan, R. and Cote, R. J. and Yang, C.},
+  title = {Length-scale study in deep learning prediction for non-small cell lung cancer brain metastasis},
+  journal = {Scientific Reports},
+  year = {2024},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41598-024-73428-2},
+  url = {https://doi.org/10.1038/s41598-024-73428-2}
+}
+
+@article{ding2025mitochondrial,
+  author = {Ding, Y. and Li, J. and Zhang, J. and Li, P. and Bai, H. and Fang, B. and Fang, H. and Huang, K. and Wang, G. and Nowell, C. J. and Voelcker, N. H. and Peng, B. and Li, L. and Huang, W.},
+  title = {Mitochondrial segmentation and function prediction in live-cell images with deep learning},
+  journal = {Nature Communications},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1038/s41467-025-55825-x},
+  url = {https://doi.org/10.1038/s41467-025-55825-x}
+}
+
+@article{sunakawa2024deep,
+  author = {Sunakawa, T. and Kitaguchi, D. and Kobayashi, S. and Aoki, K. and Kujiraoka, M. and Sasaki, K. and Azuma, L. and Yamada, A. and Kudo, M. and Sugimoto, M. and Hasegawa, H. and Takeshita, N. and Gotohda, N. and Ito, M.},
+  title = {Deep learning-based automatic bleeding recognition during liver resection in laparoscopic hepatectomy},
+  journal = {Surgical Endoscopy},
+  year = {2024},
+  volume = {38},
+  number = {12},
+  pages = {7656--7662},
+  doi = {10.1007/s00464-024-11331-7},
+  url = {https://doi.org/10.1007/s00464-024-11331-7}
+}
+
+@article{shilpa2025deep,
+  author = {Shilpa, B. and Devadhas, G. G. and Satheesha, T. Y.},
+  title = {A Deep Learning Framework for Enhanced Liver Tumor Classification Using Convolutional Gated Kronecker Network},
+  journal = {SN Computer Science},
+  year = {2025},
+  volume = {6},
+  number = {5},
+  doi = {10.1007/s42979-025-04080-4},
+  url = {https://doi.org/10.1007/s42979-025-04080-4}
+}
+
+@article{ahmad2024deepsea,
+  author = {Ahmad, I. and Riaz, S.},
+  title = {Deep-SEA: a deep learning based patient specific multi-modality post-cancer survival estimation architecture},
+  journal = {Applied Intelligence},
+  year = {2024},
+  volume = {54},
+  number = {21},
+  pages = {10640--10652},
+  doi = {10.1007/s10489-024-05794-3},
+  url = {https://doi.org/10.1007/s10489-024-05794-3}
+}
+
+@article{kumar2025advances,
+  author = {Kumar, R. R. and Shankar, S. V. and Jaiswal, R. and Ray, M. and Budhlakoti, N. and Singh, K. N.},
+  title = {Advances in Deep Learning for Medical Image Analysis: A Comprehensive Investigation},
+  journal = {Journal of Statistical Theory and Practice},
+  year = {2025},
+  volume = {19},
+  number = {1},
+  doi = {10.1007/s42519-024-00422-2},
+  url = {https://doi.org/10.1007/s42519-024-00422-2}
+}
+
+@article{rajeev2024hccnet,
+  author = {Rajeev, D. and Remya, S. and Nayyar, A.},
+  title = {HCCNet Fusion: a synergistic approach for accurate hepatocellular carcinoma staging using deep learning paradigm},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {14},
+  pages = {13315--13348},
+  doi = {10.1007/s11042-024-19446-8},
+  url = {https://doi.org/10.1007/s11042-024-19446-8}
+}
+
+@article{dhwarithaa2025optimal,
+  author = {Dhwarithaa, R. and kavin, B. P.},
+  title = {Optimal edge optimization and deep learning model for liver tumour nuclei segmentation and classification},
+  journal = {Discover Computing},
+  year = {2025},
+  volume = {28},
+  number = {1},
+  doi = {10.1007/s10791-025-09591-5},
+  url = {https://doi.org/10.1007/s10791-025-09591-5}
+}
+
+@article{qu2025deep,
+  author = {Qu, H. and Zhang, S. and Li, X. and Miao, Y. and Han, Y. and Ju, R. and Cui, X. and Li, Y.},
+  title = {A deep learning model based on self-supervised learning for identifying subtypes of proliferative hepatocellular carcinoma from dynamic contrast-enhanced MRI},
+  journal = {Insights into Imaging},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1186/s13244-025-01968-w},
+  url = {https://doi.org/10.1186/s13244-025-01968-w}
+}
+
+@article{calderaro2023deep,
+  author = {Calderaro, J. and Ghaffari Laleh, N. and {et. al.}},
+  title = {Deep learning-based phenotyping reclassifies combined hepatocellular-cholangiocarcinoma},
+  journal = {Nature Communications},
+  year = {2023},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41467-023-43749-3},
+  url = {https://doi.org/10.1038/s41467-023-43749-3}
+}
+
+@article{wu2025mribased,
+  author = {Wu, Q. and Zhang, T. and Xu, F. and Cao, L. and Gu, W. and Zhu, W. and Fan, Y. and Wang, X. and Hu, C. and Yu, Y.},
+  title = {MRI-based deep learning radiomics to differentiate dual-phenotype hepatocellular carcinoma from HCC and intrahepatic cholangiocarcinoma: a multicenter study},
+  journal = {Insights into Imaging},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1186/s13244-025-01904-y},
+  url = {https://doi.org/10.1186/s13244-025-01904-y}
+}
+
+@article{mehedi2024lightweight,
+  author = {Mehedi, Md. Hasan Khaled and Khandaker, M. and Ara, S. and Alam, M. A. and Mridha, M. F. and Aung, Z.},
+  title = {A lightweight deep learning method to identify different types of cervical cancer},
+  journal = {Scientific Reports},
+  year = {2024},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41598-024-79840-y},
+  url = {https://doi.org/10.1038/s41598-024-79840-y}
+}
+
+@article{dayalane2025cervical,
+  author = {Dayalane, S. and Murugesan, S. and Mathivanan, Suresh Kumar and Rajadurai, H. and Panneer Selvam, K. and Shah, Mumtaz A.},
+  title = {Cervical Cancer Classification Using Deep Learning Approach Using Colposcopy Images},
+  journal = {Neural Processing Letters},
+  year = {2025},
+  volume = {57},
+  number = {4},
+  doi = {10.1007/s11063-025-11770-w},
+  url = {https://doi.org/10.1007/s11063-025-11770-w}
+}
+
+@article{pandey2025prediction,
+  author = {Pandey, A. and Arora, J. and Kohli, G. S. R. and Khurana, M. and Sharma, N. and Jindal, N.},
+  title = {Prediction of Cervical Cancer with Machine Learning Approaches},
+  journal = {Journal of The Institution of Engineers (India): Series B},
+  year = {2025},
+  doi = {10.1007/s40031-025-01248-7},
+  url = {https://doi.org/10.1007/s40031-025-01248-7}
+}
+
+@article{mathivanan2024enhancing,
+  author = {Mathivanan, Suresh Kumar and Francis, D. and Srinivasan, S. and Khatavkar, V. and P, K. and Shah, Mumtaz A.},
+  title = {Enhancing cervical cancer detection and robust classification through a fusion of deep learning models},
+  journal = {Scientific Reports},
+  year = {2024},
+  volume = {14},
+  number = {1},
+  doi = {10.1038/s41598-024-61063-w},
+  url = {https://doi.org/10.1038/s41598-024-61063-w}
+}
+
+@article{liang2025criteriacalibration,
+  author = {Liang, Y. and Yang, J. and Wei, S. and Liu, Y. and He, S. and Zhang, K. and Qiu, J. and Yang, B.},
+  title = {Criteria-calibration approaches to deep learning-based cervical cancer radiation treatment auto-planning},
+  journal = {Radiation Oncology},
+  year = {2025},
+  volume = {20},
+  number = {1},
+  doi = {10.1186/s13014-025-02684-x},
+  url = {https://doi.org/10.1186/s13014-025-02684-x}
+}
+
+@article{ramu2024augmenting,
+  author = {Ramu, K. and Ananthanarayanan, A. and Josephson, P. J. and Paul, N. R. R. and Tumuluru, P. and Divya, C. and Suman, S. K.},
+  title = {Augmenting Cervical Cancer Analysis with Deep Learning Classification and Topography Selection Using Artificial Bee Colony Optimization},
+  journal = {SN Computer Science},
+  year = {2024},
+  volume = {5},
+  number = {6},
+  doi = {10.1007/s42979-024-03040-8},
+  url = {https://doi.org/10.1007/s42979-024-03040-8}
+}
+
+@article{kanimozhi2024automated,
+  author = {Kanimozhi, T. and Padmanaban, K. and Kanchana, M. and Asha Shiny, X. S.},
+  title = {An automated cervical cancer diagnosis model using Y-net and ensemble deep learning model},
+  journal = {International Journal of System Assurance Engineering and Management},
+  year = {2024},
+  doi = {10.1007/s13198-024-02487-5},
+  url = {https://doi.org/10.1007/s13198-024-02487-5}
+}
+
+@article{wang2025multimodal,
+  author = {Wang, W. and Yang, G. and Liu, Y. and Wei, L. and Xu, X. and Zhang, C. and Pan, Z. and Liang, Y. and Yang, B. and Qiu, J. and Zhang, F. and Hou, X. and Hu, K. and Liang, X.},
+  title = {Multimodal deep learning model for prognostic prediction in cervical cancer receiving definitive radiotherapy: a multi-center study},
+  journal = {npj Digital Medicine},
+  year = {2025},
+  volume = {8},
+  number = {1},
+  doi = {10.1038/s41746-025-01903-9},
+  url = {https://doi.org/10.1038/s41746-025-01903-9}
+}
+
+@article{singh2025cervical,
+  author = {Singh, R. and Kaur, H. and Malhotra, J.},
+  title = {Cervical cancer detection through Pap smear images using hybrid deep feature extraction and ensemble machine learning},
+  journal = {Multiscale and Multidisciplinary Modeling, Experiments and Design},
+  year = {2025},
+  volume = {8},
+  number = {5},
+  doi = {10.1007/s41939-025-00834-y},
+  url = {https://doi.org/10.1007/s41939-025-00834-y}
+}
+
+@article{devaraj2024deep,
+  author = {Devaraj, S. and Madian, N. and Menagadevi, M. and Remya, R.},
+  title = {Deep Learning Approaches for Analysing Papsmear Images to Detect Cervical Cancer},
+  journal = {Wireless Personal Communications},
+  year = {2024},
+  volume = {135},
+  number = {1},
+  pages = {81--98},
+  doi = {10.1007/s11277-024-10986-8},
+  url = {https://doi.org/10.1007/s11277-024-10986-8}
+}
+
+@article{he2025predictive,
+  author = {He, W. and Zhou, C. and Yang, Z. and Zhang, Y. and Zhang, W. and He, H. and Wang, J. and Zhou, F.},
+  title = {The predictive value of radiomics and deep learning for synchronous distant metastasis in clear cell renal cell carcinoma},
+  journal = {Discover Oncology},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1007/s12672-025-01806-x},
+  url = {https://doi.org/10.1007/s12672-025-01806-x}
+}
+
+@article{hou2025intelligent,
+  author = {Hou, S. and Liu, Y. and Cai, M. and Xu, J. and Qi, J. and Cai, X. and Niu, Q. and Zhang, Y. and Xu, H. and Chen, J.},
+  title = {Intelligent Diagnosis of Follicular Carcinoma Thyroid Cancer with a Novel Deep Learning Model},
+  journal = {Journal of Imaging Informatics in Medicine},
+  year = {2025},
+  doi = {10.1007/s10278-025-01723-z},
+  url = {https://doi.org/10.1007/s10278-025-01723-z}
+}
+
+@article{lu2025identifying,
+  author = {Lu, D. and Zheng, Y. and Yi, X. and Hao, J. and Zeng, X. and Han, L. and Li, Z. and Jiao, S. and Jiang, B. and Ai, J. and Peng, J.},
+  title = {Identifying potential risk genes for clear cell renal cell carcinoma with deep reinforcement learning},
+  journal = {Nature Communications},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1038/s41467-025-58439-5},
+  url = {https://doi.org/10.1038/s41467-025-58439-5}
+}
+
+@article{maurya2024basal,
+  author = {Maurya, A. and Stanley, R. J. and Aradhyula, H. Y. and Lama, N. and Nambisan, A. K. and Patel, G. and Saeed, D. and Swinfard, S. and Smith, C. and Jagannathan, S. and Hagerty, J. R. and Stoecker, W. V.},
+  title = {Basal Cell Carcinoma Diagnosis with Fusion of Deep Learning and Telangiectasia Features},
+  journal = {Journal of Imaging Informatics in Medicine},
+  year = {2024},
+  volume = {37},
+  number = {3},
+  pages = {1137--1150},
+  doi = {10.1007/s10278-024-00969-3},
+  url = {https://doi.org/10.1007/s10278-024-00969-3}
+}
+
+@article{song2025deep,
+  author = {Song, S. and Zhang, G. and Yao, Z. and Chen, R. and Liu, K. and Zhang, T. and Zeng, G. and Wang, Z. and Liu, R.},
+  title = {Deep learning based on intratumoral heterogeneity predicts histopathologic grade of hepatocellular carcinoma},
+  journal = {BMC Cancer},
+  year = {2025},
+  volume = {25},
+  number = {1},
+  doi = {10.1186/s12885-025-13781-1},
+  url = {https://doi.org/10.1186/s12885-025-13781-1}
+}
+
+@article{rajeev2024hccnetb,
+  author = {Rajeev, D. and Remya, S. and Nayyar, A.},
+  title = {HCCNet Fusion: a synergistic approach for accurate hepatocellular carcinoma staging using deep learning paradigm},
+  journal = {Multimedia Tools and Applications},
+  year = {2024},
+  volume = {84},
+  number = {14},
+  pages = {13315--13348},
+  doi = {10.1007/s11042-024-19446-8},
+  url = {https://doi.org/10.1007/s11042-024-19446-8}
+}
+
+@article{ma2025multichannel,
+  author = {Ma, H. and Wei, W. and Zhang, J. and Liang, L. and Zhang, L. and Wang, W. and Zhang, Q. and Zhang, Q. and Hao, Y. and Li, Z. and Wang, L. and Zhang, H.},
+  title = {Multi-channel deep learning radiomics model based on contrast-enhanced CT for predicting postoperative prognosis in laryngeal carcinoma},
+  journal = {BMC Cancer},
+  year = {2025},
+  volume = {25},
+  number = {1},
+  doi = {10.1186/s12885-025-14912-4},
+  url = {https://doi.org/10.1186/s12885-025-14912-4}
+}
+
+@article{qu2025deepb,
+  author = {Qu, H. and Zhang, S. and Li, X. and Miao, Y. and Han, Y. and Ju, R. and Cui, X. and Li, Y.},
+  title = {A deep learning model based on self-supervised learning for identifying subtypes of proliferative hepatocellular carcinoma from dynamic contrast-enhanced MRI},
+  journal = {Insights into Imaging},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1186/s13244-025-01968-w},
+  url = {https://doi.org/10.1186/s13244-025-01968-w}
+}
+
+@article{xiao2025deep,
+  author = {Xiao, B. and Lv, Y. and Peng, C. and Wei, Z. and Xv, Q. and Lv, F. and Jiang, Q. and Liu, H. and Li, F. and Xv, Y. and He, Q. and Xiao, M.},
+  title = {Deep learning feature-based model for predicting lymphovascular invasion in urothelial carcinoma of bladder using CT images},
+  journal = {Insights into Imaging},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1186/s13244-025-01988-6},
+  url = {https://doi.org/10.1186/s13244-025-01988-6}
+}
+
+@article{wu2025mribasedb,
+  author = {Wu, Q. and Zhang, T. and Xu, F. and Cao, L. and Gu, W. and Zhu, W. and Fan, Y. and Wang, X. and Hu, C. and Yu, Y.},
+  title = {MRI-based deep learning radiomics to differentiate dual-phenotype hepatocellular carcinoma from HCC and intrahepatic cholangiocarcinoma: a multicenter study},
+  journal = {Insights into Imaging},
+  year = {2025},
+  volume = {16},
+  number = {1},
+  doi = {10.1186/s13244-025-01904-y},
+  url = {https://doi.org/10.1186/s13244-025-01904-y}
+}

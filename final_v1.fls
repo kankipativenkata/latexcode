@@ -440,14 +440,14 @@ INPUT .\final_v1.bbl
 INPUT .\final_v1.bbl
 INPUT final_v1.bbl
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1.tfm
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
-INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
 INPUT C:\Program Files\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT C:\Program Files\MiKTeX\tex\generic\stringenc\se-utf8.def
 INPUT final_v1.aux
 INPUT .\final_v1.out
 INPUT .\final_v1.out

@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{2}
+\begin{thebibliography}{100}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,19 +36,905 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
-\bibitem[Mathivanan et~al\mbox{.}(2024)]%
-        {mathivanan2024employing}
-\bibfield{author}{\bibinfo{person}{S.~K. Mathivanan}, \bibinfo{person}{S.
-  Sonaimuthu}, \bibinfo{person}{S. Murugesan}, \bibinfo{person}{H. Rajadurai},
-  \bibinfo{person}{B.~D. Shivahare}, {and} \bibinfo{person}{M.~A. Shah}.}
+\bibitem[Aamir et~al\mbox{.}(2025)]%
+        {aamir2025automated}
+\bibfield{author}{\bibinfo{person}{M. Aamir}, \bibinfo{person}{Z. Rahman},
+  \bibinfo{person}{Uzair~Aslam Bhatti}, \bibinfo{person}{Waqas~Ahmed Abro},
+  \bibinfo{person}{Javed~Ahmed Bhutto}, {and} \bibinfo{person}{Z. He}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{An automated deep learning framework for brain
+  tumor classification using MRI imagery}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-02209-2}{doi:\nolinkurl{10.1038/s41598-025-02209-2}}
+
+
+\bibitem[Abid and Munir(2025)]%
+        {abid2025systematic}
+\bibfield{author}{\bibinfo{person}{Muhammad~Ali Abid} {and}
+  \bibinfo{person}{Kashif Munir}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A systematic review on deep learning implementation
+  in brain tumor segmentation, classification and prediction}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{31} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{38203--38242}.
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20706-4}{doi:\nolinkurl{10.1007/s11042-025-20706-4}}
+
+
+\bibitem[Abou~Ali et~al\mbox{.}(2025)]%
+        {abouali2025enhancing}
+\bibfield{author}{\bibinfo{person}{M. Abou~Ali}, \bibinfo{person}{J.
+  Charafeddine}, \bibinfo{person}{F. Dornaika}, {and} \bibinfo{person}{I.
+  Arganda-Carreras}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing Generalization and Mitigating Overfitting
+  in Deep Learning for Brain Cancer Diagnosis from MRI}.
+\newblock \bibinfo{journal}{\emph{Applied Magnetic Resonance}}
+  \bibinfo{volume}{56}, \bibinfo{number}{3} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{359--394}.
+\newblock
+\href{https://doi.org/10.1007/s00723-024-01743-y}{doi:\nolinkurl{10.1007/s00723-024-01743-y}}
+
+
+\bibitem[Adnan et~al\mbox{.}(2025)]%
+        {adnan2025deep}
+\bibfield{author}{\bibinfo{person}{Khalid~Mehmood Adnan},
+  \bibinfo{person}{Taher~M. Ghazal}, \bibinfo{person}{Muhammad Saleem},
+  \bibinfo{person}{Muhammad~Shoaib Farooq}, \bibinfo{person}{Chan~Yeob Yeun},
+  \bibinfo{person}{Munir Ahmad}, {and} \bibinfo{person}{Sungwon Lee}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning driven interpretable and informed
+  decision making model for brain tumour prediction using explainable AI}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-03358-0}{doi:\nolinkurl{10.1038/s41598-025-03358-0}}
+
+
+\bibitem[Ahmad and Riaz(2024)]%
+        {ahmad2024deepsea}
+\bibfield{author}{\bibinfo{person}{I. Ahmad} {and} \bibinfo{person}{S. Riaz}.}
   \bibinfo{year}{2024}\natexlab{}.
-\newblock \showarticletitle{Employing Deep Learning and Transfer Learning for
-  Accurate Brain Tumor Detection}.
-\newblock \bibinfo{journal}{\emph{Sci. Rep.}} \bibinfo{volume}{14},
-  \bibinfo{number}{1}, Article \bibinfo{articleno}{57970}
-  (\bibinfo{year}{2024}), \bibinfo{numpages}{12}~pages.
+\newblock \showarticletitle{Deep-SEA: a deep learning based patient specific
+  multi-modality post-cancer survival estimation architecture}.
+\newblock \bibinfo{journal}{\emph{Applied Intelligence}} \bibinfo{volume}{54},
+  \bibinfo{number}{21} (\bibinfo{year}{2024}), \bibinfo{pages}{10640--10652}.
+\newblock
+\href{https://doi.org/10.1007/s10489-024-05794-3}{doi:\nolinkurl{10.1007/s10489-024-05794-3}}
+
+
+\bibitem[Akter et~al\mbox{.}(2025)]%
+        {akter2025integrated}
+\bibfield{author}{\bibinfo{person}{M. Akter}, \bibinfo{person}{R. Khatun},
+  \bibinfo{person}{M.~A. Talukder}, \bibinfo{person}{M.~M. Islam},
+  \bibinfo{person}{M.~A. Uddin}, \bibinfo{person}{M.~K.~U. Ahamed}, {and}
+  \bibinfo{person}{A. Khraisat}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{An Integrated Deep Learning Model for Skin Cancer
+  Detection Using Hybrid Feature Fusion Technique}.
+\newblock \bibinfo{journal}{\emph{Biomedical Materials \& Devices}}
+  \bibinfo{volume}{3}, \bibinfo{number}{2} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{1433--1447}.
+\newblock
+\href{https://doi.org/10.1007/s44174-024-00264-3}{doi:\nolinkurl{10.1007/s44174-024-00264-3}}
+
+
+\bibitem[Alrabai et~al\mbox{.}(2025)]%
+        {alrabai2025explainable}
+\bibfield{author}{\bibinfo{person}{A. Alrabai}, \bibinfo{person}{A. Echtioui},
+  {and} \bibinfo{person}{F. Kallel}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Explainable deep learning approaches for skin
+  cancer diagnosis}.
+\newblock \bibinfo{journal}{\emph{Network Modeling Analysis in Health
+  Informatics and Bioinformatics}} \bibinfo{volume}{14}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s13721-025-00554-w}{doi:\nolinkurl{10.1007/s13721-025-00554-w}}
+
+
+\bibitem[AlShowarah(2025)]%
+        {alshowarah2025deepcancer}
+\bibfield{author}{\bibinfo{person}{Suleiman~A. AlShowarah}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{DeepCancer: deep learning for brain tumor
+  detection-based application system}.
+\newblock \bibinfo{journal}{\emph{Neural Computing and Applications}}
+  \bibinfo{volume}{37}, \bibinfo{number}{7} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{5577--5596}.
+\newblock
+\href{https://doi.org/10.1007/s00521-024-10926-4}{doi:\nolinkurl{10.1007/s00521-024-10926-4}}
+
+
+\bibitem[Ashfaq et~al\mbox{.}(2025)]%
+        {ashfaq2025skinsight}
+\bibfield{author}{\bibinfo{person}{N. Ashfaq}, \bibinfo{person}{Z. Suhail},
+  \bibinfo{person}{A. Khalid}, \bibinfo{person}{N. Sarwar}, \bibinfo{person}{A.
+  Irshad}, \bibinfo{person}{O. Yaman}, \bibinfo{person}{A. Alubaidi},
+  \bibinfo{person}{F.~M. Ahmed}, {and} \bibinfo{person}{F.~A. Almalki}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{SkinSight: advancing deep learning for skin cancer
+  diagnosis and classification}.
+\newblock \bibinfo{journal}{\emph{Discover Computing}} \bibinfo{volume}{28},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s10791-025-09541-1}{doi:\nolinkurl{10.1007/s10791-025-09541-1}}
+
+
+\bibitem[Baffa et~al\mbox{.}(2025)]%
+        {baffa2025comparative}
+\bibfield{author}{\bibinfo{person}{Matheus de~Oliveira Baffa},
+  \bibinfo{person}{Denise~Maria Zezell}, \bibinfo{person}{Luciano Bachmann},
+  \bibinfo{person}{Tiago~Mineo Pereira}, {and} \bibinfo{person}{Joaquim~Cezar
+  Felipe}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A comparative analysis of deep learning
+  architectures for thyroid tissue classification with hyperspectral imaging}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-16060-y}{doi:\nolinkurl{10.1038/s41598-025-16060-y}}
+
+
+\bibitem[Bhavya and Manjunath(2025)]%
+        {bhavya2025enhancing}
+\bibfield{author}{\bibinfo{person}{G. Bhavya} {and} \bibinfo{person}{T.~N.
+  Manjunath}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing breast cancer detection: Integrating deep
+  learning with evolutionary algorithms}.
+\newblock \bibinfo{journal}{\emph{International Journal of System Assurance
+  Engineering and Management}} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s13198-025-02981-4}{doi:\nolinkurl{10.1007/s13198-025-02981-4}}
+
+
+\bibitem[Brima and Atemkeng(2024)]%
+        {brima2024saliency}
+\bibfield{author}{\bibinfo{person}{Y. Brima} {and} \bibinfo{person}{M.
+  Atemkeng}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Saliency-driven explainable deep learning in
+  medical imaging: bridging visual explainability and statistical quantitative
+  analysis}.
+\newblock \bibinfo{journal}{\emph{BioData Mining}} \bibinfo{volume}{17},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1186/s13040-024-00370-4}{doi:\nolinkurl{10.1186/s13040-024-00370-4}}
+
+
+\bibitem[Calderaro et~al\mbox{.}(2023)]%
+        {calderaro2023deep}
+\bibfield{author}{\bibinfo{person}{J. Calderaro}, \bibinfo{person}{N.
+  Ghaffari~Laleh}, {and} \bibinfo{person}{{et. al.}}}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Deep learning-based phenotyping reclassifies
+  combined hepatocellular-cholangiocarcinoma}.
+\newblock \bibinfo{journal}{\emph{Nature Communications}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2023}).
+\newblock
+\href{https://doi.org/10.1038/s41467-023-43749-3}{doi:\nolinkurl{10.1038/s41467-023-43749-3}}
+
+
+\bibitem[Dayalane et~al\mbox{.}(2025)]%
+        {dayalane2025cervical}
+\bibfield{author}{\bibinfo{person}{S. Dayalane}, \bibinfo{person}{S.
+  Murugesan}, \bibinfo{person}{Suresh~Kumar Mathivanan}, \bibinfo{person}{H.
+  Rajadurai}, \bibinfo{person}{K. Panneer~Selvam}, {and}
+  \bibinfo{person}{Mumtaz~A. Shah}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Cervical Cancer Classification Using Deep Learning
+  Approach Using Colposcopy Images}.
+\newblock \bibinfo{journal}{\emph{Neural Processing Letters}}
+  \bibinfo{volume}{57}, \bibinfo{number}{4} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11063-025-11770-w}{doi:\nolinkurl{10.1007/s11063-025-11770-w}}
+
+
+\bibitem[Devaraj et~al\mbox{.}(2024)]%
+        {devaraj2024deep}
+\bibfield{author}{\bibinfo{person}{S. Devaraj}, \bibinfo{person}{N. Madian},
+  \bibinfo{person}{M. Menagadevi}, {and} \bibinfo{person}{R. Remya}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Deep Learning Approaches for Analysing Papsmear
+  Images to Detect Cervical Cancer}.
+\newblock \bibinfo{journal}{\emph{Wireless Personal Communications}}
+  \bibinfo{volume}{135}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{81--98}.
+\newblock
+\href{https://doi.org/10.1007/s11277-024-10986-8}{doi:\nolinkurl{10.1007/s11277-024-10986-8}}
+
+
+\bibitem[Dhwarithaa and kavin(2025)]%
+        {dhwarithaa2025optimal}
+\bibfield{author}{\bibinfo{person}{R. Dhwarithaa} {and} \bibinfo{person}{B.~P.
+  kavin}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Optimal edge optimization and deep learning model
+  for liver tumour nuclei segmentation and classification}.
+\newblock \bibinfo{journal}{\emph{Discover Computing}} \bibinfo{volume}{28},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s10791-025-09591-5}{doi:\nolinkurl{10.1007/s10791-025-09591-5}}
+
+
+\bibitem[Ding et~al\mbox{.}(2025)]%
+        {ding2025mitochondrial}
+\bibfield{author}{\bibinfo{person}{Y. Ding}, \bibinfo{person}{J. Li},
+  \bibinfo{person}{J. Zhang}, \bibinfo{person}{P. Li}, \bibinfo{person}{H.
+  Bai}, \bibinfo{person}{B. Fang}, \bibinfo{person}{H. Fang},
+  \bibinfo{person}{K. Huang}, \bibinfo{person}{G. Wang}, \bibinfo{person}{C.~J.
+  Nowell}, \bibinfo{person}{N.~H. Voelcker}, \bibinfo{person}{B. Peng},
+  \bibinfo{person}{L. Li}, {and} \bibinfo{person}{W. Huang}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Mitochondrial segmentation and function prediction
+  in live-cell images with deep learning}.
+\newblock \bibinfo{journal}{\emph{Nature Communications}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41467-025-55825-x}{doi:\nolinkurl{10.1038/s41467-025-55825-x}}
+
+
+\bibitem[Durgam et~al\mbox{.}(2025)]%
+        {durgam2025enhancing}
+\bibfield{author}{\bibinfo{person}{R. Durgam}, \bibinfo{person}{B. Panduri},
+  \bibinfo{person}{V. Balaji}, \bibinfo{person}{A.~O. Khadidos},
+  \bibinfo{person}{A.~O. Khadidos}, {and} \bibinfo{person}{S. Selvarajan}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing lung cancer detection through integrated
+  deep learning and transformer models}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-00516-2}{doi:\nolinkurl{10.1038/s41598-025-00516-2}}
+
+
+\bibitem[He et~al\mbox{.}(2025)]%
+        {he2025predictive}
+\bibfield{author}{\bibinfo{person}{W. He}, \bibinfo{person}{C. Zhou},
+  \bibinfo{person}{Z. Yang}, \bibinfo{person}{Y. Zhang}, \bibinfo{person}{W.
+  Zhang}, \bibinfo{person}{H. He}, \bibinfo{person}{J. Wang}, {and}
+  \bibinfo{person}{F. Zhou}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{The predictive value of radiomics and deep learning
+  for synchronous distant metastasis in clear cell renal cell carcinoma}.
+\newblock \bibinfo{journal}{\emph{Discover Oncology}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s12672-025-01806-x}{doi:\nolinkurl{10.1007/s12672-025-01806-x}}
+
+
+\bibitem[Hoang et~al\mbox{.}(2024)]%
+        {hoang2024deep}
+\bibfield{author}{\bibinfo{person}{D. Hoang}, \bibinfo{person}{G. Dinstag},
+  \bibinfo{person}{E.~D. Shulman}, \bibinfo{person}{L.~C. Hermida},
+  \bibinfo{person}{D.~S. Ben-Zvi}, \bibinfo{person}{E. Elis},
+  \bibinfo{person}{K. Caley}, \bibinfo{person}{S. Sammut}, \bibinfo{person}{S.
+  Sinha}, \bibinfo{person}{N. Sinha}, \bibinfo{person}{C.~H. Dampier},
+  \bibinfo{person}{C. Stossel}, \bibinfo{person}{T. Patil}, \bibinfo{person}{A.
+  Rajan}, \bibinfo{person}{W. Lassoued}, \bibinfo{person}{J. Strauss},
+  \bibinfo{person}{S. Bailey}, \bibinfo{person}{C. Allen}, \bibinfo{person}{J.
+  Redman}, \bibinfo{person}{T. Beker}, \bibinfo{person}{P. Jiang},
+  \bibinfo{person}{T. Golan}, \bibinfo{person}{S. Wilkinson},
+  \bibinfo{person}{A.~G. Sowalsky}, \bibinfo{person}{S.~R. Pine},
+  \bibinfo{person}{C. Caldas}, \bibinfo{person}{J.~L. Gulley},
+  \bibinfo{person}{K. Aldape}, \bibinfo{person}{R. Aharonov},
+  \bibinfo{person}{E.~A. Stone}, {and} \bibinfo{person}{E. Ruppin}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A deep-learning framework to predict cancer
+  treatment response from histopathology images through imputed
+  transcriptomics}.
+\newblock \bibinfo{journal}{\emph{Nature Cancer}} \bibinfo{volume}{5},
+  \bibinfo{number}{9} (\bibinfo{year}{2024}), \bibinfo{pages}{1305--1317}.
+\newblock
+\href{https://doi.org/10.1038/s43018-024-00793-2}{doi:\nolinkurl{10.1038/s43018-024-00793-2}}
+
+
+\bibitem[Hou et~al\mbox{.}(2025)]%
+        {hou2025intelligent}
+\bibfield{author}{\bibinfo{person}{S. Hou}, \bibinfo{person}{Y. Liu},
+  \bibinfo{person}{M. Cai}, \bibinfo{person}{J. Xu}, \bibinfo{person}{J. Qi},
+  \bibinfo{person}{X. Cai}, \bibinfo{person}{Q. Niu}, \bibinfo{person}{Y.
+  Zhang}, \bibinfo{person}{H. Xu}, {and} \bibinfo{person}{J. Chen}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Intelligent Diagnosis of Follicular Carcinoma
+  Thyroid Cancer with a Novel Deep Learning Model}.
+\newblock \bibinfo{journal}{\emph{Journal of Imaging Informatics in Medicine}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s10278-025-01723-z}{doi:\nolinkurl{10.1007/s10278-025-01723-z}}
+
+
+\bibitem[Hu et~al\mbox{.}(2025)]%
+        {hu2025deep}
+\bibfield{author}{\bibinfo{person}{Z. Hu}, \bibinfo{person}{X. Zhang},
+  \bibinfo{person}{J. Yang}, \bibinfo{person}{B. Zhang}, \bibinfo{person}{H.
+  Chen}, \bibinfo{person}{W. Shen}, \bibinfo{person}{H. Li},
+  \bibinfo{person}{Y. Zhou}, \bibinfo{person}{J. Zhang}, \bibinfo{person}{K.
+  Qiu}, \bibinfo{person}{Z. Xie}, \bibinfo{person}{G. Xu}, \bibinfo{person}{J.
+  Tan}, {and} \bibinfo{person}{C. Pang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A deep learning-based computed tomography reading
+  system for the diagnosis of lung cancer associated with cystic airspaces}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-05986-y}{doi:\nolinkurl{10.1038/s41598-025-05986-y}}
+
+
+\bibitem[Huang et~al\mbox{.}(2025)]%
+        {huang2025deep}
+\bibfield{author}{\bibinfo{person}{T. Huang}, \bibinfo{person}{X. Huang}, {and}
+  \bibinfo{person}{H. Yin}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep Learning-based Pathological Image Analysis
+  Algorithm for Early Diagnosis of Breast Cancer}.
+\newblock \bibinfo{journal}{\emph{Neural Processing Letters}}
+  \bibinfo{volume}{57}, \bibinfo{number}{6} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11063-025-11753-x}{doi:\nolinkurl{10.1007/s11063-025-11753-x}}
+
+
+\bibitem[Ibrahim et~al\mbox{.}(2025)]%
+        {ibrahim2025ibrainnet}
+\bibfield{author}{\bibinfo{person}{Abdullahi~Umar Ibrahim},
+  \bibinfo{person}{G.~M. Engo}, \bibinfo{person}{I. Ame},
+  \bibinfo{person}{C.~W. Nwekwo}, {and} \bibinfo{person}{F. Al-Turjman}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{I-BrainNet: Deep Learning and Internet of Things
+  (DL/IoT)--Based Framework for the Classification of Brain Tumor}.
+\newblock \bibinfo{journal}{\emph{Journal of Imaging Informatics in Medicine}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s10278-025-01470-1}{doi:\nolinkurl{10.1007/s10278-025-01470-1}}
+
+
+\bibitem[Imbaquingo-Esparza et~al\mbox{.}(2024)]%
+        {imbaquingo2024exploring}
+\bibfield{author}{\bibinfo{person}{Diego~E. Imbaquingo-Esparza},
+  \bibinfo{person}{Marcos Botto-Tobar}, \bibinfo{person}{Jorge~G. Jacome-Leon},
+  {and} \bibinfo{person}{Marcelo Zambrano~Vizuete}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Exploring Advanced Deep Learning Paradigms for
+  Precise Brain Tumor Categorization}.
+\newblock \bibinfo{journal}{\emph{SN Computer Science}} \bibinfo{volume}{5},
+  \bibinfo{number}{7} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1007/s42979-024-03228-y}{doi:\nolinkurl{10.1007/s42979-024-03228-y}}
+
+
+\bibitem[Ishfaq et~al\mbox{.}(2025)]%
+        {ishfaq2025automatic}
+\bibfield{author}{\bibinfo{person}{Q.~U.~A. Ishfaq}, \bibinfo{person}{R. Bibi},
+  \bibinfo{person}{A. Ali}, \bibinfo{person}{F. Jamil}, \bibinfo{person}{Y.
+  Saeed}, \bibinfo{person}{R.~O. Alnashwan}, \bibinfo{person}{S.~A. Chelloug},
+  {and} \bibinfo{person}{M.~S.~A. Muthanna}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Automatic smart brain tumor classification and
+  prediction system using deep learning}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-95803-3}{doi:\nolinkurl{10.1038/s41598-025-95803-3}}
+
+
+\bibitem[Jam et~al\mbox{.}(2024)]%
+        {jam2024deep}
+\bibfield{author}{\bibinfo{person}{Zahra Jam}, \bibinfo{person}{Akbar Albadvi},
+  {and} \bibinfo{person}{Azim Atashi}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Deep learning application in diagnosing breast
+  cancer recurrence}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{13} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{12265--12297}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-19423-1}{doi:\nolinkurl{10.1007/s11042-024-19423-1}}
+
+
+\bibitem[Kanimozhi et~al\mbox{.}(2024)]%
+        {kanimozhi2024automated}
+\bibfield{author}{\bibinfo{person}{T. Kanimozhi}, \bibinfo{person}{K.
+  Padmanaban}, \bibinfo{person}{M. Kanchana}, {and} \bibinfo{person}{X.~S.
+  Asha~Shiny}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{An automated cervical cancer diagnosis model using
+  Y-net and ensemble deep learning model}.
+\newblock \bibinfo{journal}{\emph{International Journal of System Assurance
+  Engineering and Management}} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1007/s13198-024-02487-5}{doi:\nolinkurl{10.1007/s13198-024-02487-5}}
+
+
+\bibitem[Kashyap et~al\mbox{.}(2025)]%
+        {kashyap2025deep}
+\bibfield{author}{\bibinfo{person}{S. Kashyap}, \bibinfo{person}{A.~K. Shukla},
+  \bibinfo{person}{I. Naim}, {and} \bibinfo{person}{S. Pal}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep Learning-Based Lung Cancer Histopathology
+  Classification: Emphasizing Accuracy and Customisation}.
+\newblock \bibinfo{journal}{\emph{Biomedical Materials \& Devices}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s44174-025-00335-z}{doi:\nolinkurl{10.1007/s44174-025-00335-z}}
+
+
+\bibitem[Kaulgud and Mahadik(2025)]%
+        {kaulgud2025icoyotldcn}
+\bibfield{author}{\bibinfo{person}{R.~V. Kaulgud} {and} \bibinfo{person}{S.~R.
+  Mahadik}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{ICyO-TLDCN: Improved Cynomys Optimization Enabled
+  Deep Learning Model for Lung Cancer Detection}.
+\newblock \bibinfo{journal}{\emph{Biomedical Materials \& Devices}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s44174-025-00522-y}{doi:\nolinkurl{10.1007/s44174-025-00522-y}}
+
+
+\bibitem[Khaled et~al\mbox{.}(2024)]%
+        {khaled2024improving}
+\bibfield{author}{\bibinfo{person}{M. Khaled}, \bibinfo{person}{F. Touazi},
+  {and} \bibinfo{person}{D. Gaceb}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Improving Breast Cancer Diagnosis in Mammograms
+  with Progressive Transfer Learning and Ensemble Deep Learning}.
+\newblock \bibinfo{journal}{\emph{Arabian Journal for Science and Engineering}}
+  \bibinfo{volume}{50}, \bibinfo{number}{10} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{7697--7720}.
+\newblock
+\href{https://doi.org/10.1007/s13369-024-09428-1}{doi:\nolinkurl{10.1007/s13369-024-09428-1}}
+
+
+\bibitem[Khan et~al\mbox{.}(2025)]%
+        {khan2025enhanced}
+\bibfield{author}{\bibinfo{person}{M.~A. Khan}, \bibinfo{person}{S. Alam},
+  {and} \bibinfo{person}{W. Ahmed}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhanced Skin Cancer Diagnosis via Deep
+  Convolutional Neural Networks with Ensemble Learning}.
+\newblock \bibinfo{journal}{\emph{SN Computer Science}} \bibinfo{volume}{6},
+  \bibinfo{number}{2} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s42979-024-03581-y}{doi:\nolinkurl{10.1007/s42979-024-03581-y}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2023)]%
+        {kumar2023deep}
+\bibfield{author}{\bibinfo{person}{Ajay Kumar}, \bibinfo{person}{Sunil~Kumar
+  Shukla}, \bibinfo{person}{Neeraj Prakash}, {and}
+  \bibinfo{person}{Rajesh~Kumar Yadav}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{A Deep Learning and Powerful Computational
+  Framework for Brain Cancer MRI Image Recognition}.
+\newblock \bibinfo{journal}{\emph{Journal of The Institution of Engineers
+  (India): Series B}} \bibinfo{volume}{105}, \bibinfo{number}{1}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{1--18}.
+\newblock
+\href{https://doi.org/10.1007/s40031-023-00926-8}{doi:\nolinkurl{10.1007/s40031-023-00926-8}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2024b)]%
+        {kumar2024efficient}
+\bibfield{author}{\bibinfo{person}{Amit Kumar}, \bibinfo{person}{Abhishek~Kumar
+  Singh}, \bibinfo{person}{Akhilesh Singh}, \bibinfo{person}{Vijay Kumar},
+  \bibinfo{person}{Satya Prakash}, {and} \bibinfo{person}{Pramod~Kumar
+  Tiwari}.} \bibinfo{year}{2024}\natexlab{b}.
+\newblock \showarticletitle{An efficient framework for brain cancer
+  identification using deep learning}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{83}, \bibinfo{number}{24} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{65549--65578}.
+\newblock
+\href{https://doi.org/10.1007/s11042-023-18017-7}{doi:\nolinkurl{10.1007/s11042-023-18017-7}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2025)]%
+        {kumar2025advances}
+\bibfield{author}{\bibinfo{person}{R.~R. Kumar}, \bibinfo{person}{S.~V.
+  Shankar}, \bibinfo{person}{R. Jaiswal}, \bibinfo{person}{M. Ray},
+  \bibinfo{person}{N. Budhlakoti}, {and} \bibinfo{person}{K.~N. Singh}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Advances in Deep Learning for Medical Image
+  Analysis: A Comprehensive Investigation}.
+\newblock \bibinfo{journal}{\emph{Journal of Statistical Theory and Practice}}
+  \bibinfo{volume}{19}, \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s42519-024-00422-2}{doi:\nolinkurl{10.1007/s42519-024-00422-2}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2024a)]%
+        {kumar2024automating}
+\bibfield{author}{\bibinfo{person}{Yogesh Kumar}, \bibinfo{person}{Shikha
+  Shrivastav}, \bibinfo{person}{Kanika Garg}, \bibinfo{person}{Naman Modi},
+  \bibinfo{person}{Kinga Wiltos}, \bibinfo{person}{Marcin Woźniak}, {and}
+  \bibinfo{person}{Muhammad~Fazal Ijaz}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{Automating cancer diagnosis using advanced deep
+  learning techniques for multi-cancer image classification}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-75876-2}{doi:\nolinkurl{10.1038/s41598-024-75876-2}}
+
+
+\bibitem[Lawrence(2025)]%
+        {lawrence2025hybrid}
+\bibfield{author}{\bibinfo{person}{Michael~O. Lawrence}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A hybrid bio Inspired augmented with
+  hyper-parameter deep learning model for brain tumor classification}.
+\newblock \bibinfo{journal}{\emph{Journal of Electrical Systems and Information
+  Technology}} \bibinfo{volume}{12}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s43067-025-00207-y}{doi:\nolinkurl{10.1186/s43067-025-00207-y}}
+
+
+\bibitem[Le et~al\mbox{.}(2025)]%
+        {le2025deep}
+\bibfield{author}{\bibinfo{person}{Van~Hieu Le}, \bibinfo{person}{Thi Ngoc~Thao
+  Minh}, \bibinfo{person}{Quang~Hieu Kha}, {and} \bibinfo{person}{Nguyen
+  Quoc~Khanh Le}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep Learning Radiomics for Survival Prediction in
+  Non-Small-Cell Lung Cancer Patients from CT Images}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Systems}}
+  \bibinfo{volume}{49}, \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s10916-025-02156-5}{doi:\nolinkurl{10.1007/s10916-025-02156-5}}
+
+
+\bibitem[Liang et~al\mbox{.}(2025)]%
+        {liang2025criteriacalibration}
+\bibfield{author}{\bibinfo{person}{Y. Liang}, \bibinfo{person}{J. Yang},
+  \bibinfo{person}{S. Wei}, \bibinfo{person}{Y. Liu}, \bibinfo{person}{S. He},
+  \bibinfo{person}{K. Zhang}, \bibinfo{person}{J. Qiu}, {and}
+  \bibinfo{person}{B. Yang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Criteria-calibration approaches to deep
+  learning-based cervical cancer radiation treatment auto-planning}.
+\newblock \bibinfo{journal}{\emph{Radiation Oncology}} \bibinfo{volume}{20},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13014-025-02684-x}{doi:\nolinkurl{10.1186/s13014-025-02684-x}}
+
+
+\bibitem[Likhon et~al\mbox{.}(2024)]%
+        {likhon2024skinmultinet}
+\bibfield{author}{\bibinfo{person}{M.~N.~H. Likhon}, \bibinfo{person}{S.~U.
+  Rana}, \bibinfo{person}{S. Akter}, \bibinfo{person}{M.~S. Ahmed},
+  \bibinfo{person}{K.~A. Tanha}, \bibinfo{person}{M.~M. Rahman}, {and}
+  \bibinfo{person}{M.~E.~H. Nayeem}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{SkinMultiNet: Advancements in Skin Cancer
+  Prediction Using Deep Learning with Web Interface}.
+\newblock \bibinfo{journal}{\emph{Biomedical Materials \& Devices}}
+  \bibinfo{volume}{3}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{621--637}.
+\newblock
+\href{https://doi.org/10.1007/s44174-024-00205-0}{doi:\nolinkurl{10.1007/s44174-024-00205-0}}
+
+
+\bibitem[Link et~al\mbox{.}(2024)]%
+        {link2024longitudinal}
+\bibfield{author}{\bibinfo{person}{Katharina~E. Link}, \bibinfo{person}{Zachary
+  Schnurman}, \bibinfo{person}{Charles Liu}, \bibinfo{person}{Young~J. Kwon},
+  \bibinfo{person}{Lily~Y. Jiang}, \bibinfo{person}{Mustafa Nasir-Moin},
+  \bibinfo{person}{Sean Neifert}, \bibinfo{person}{Juan~D. Alzate},
+  \bibinfo{person}{Kyle Bernstein}, \bibinfo{person}{Tony Qu},
+  \bibinfo{person}{Vincent Chen}, \bibinfo{person}{Eric Yang},
+  \bibinfo{person}{John~G. Golfinos}, \bibinfo{person}{Daniel Orringer},
+  \bibinfo{person}{Douglas Kondziolka}, {and} \bibinfo{person}{Eric~K.
+  Oermann}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Longitudinal deep neural networks for assessing
+  metastatic brain cancer on a large open benchmark}.
+\newblock \bibinfo{journal}{\emph{Nature Communications}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41467-024-52414-2}{doi:\nolinkurl{10.1038/s41467-024-52414-2}}
+
+
+\bibitem[Lu et~al\mbox{.}(2025)]%
+        {lu2025identifying}
+\bibfield{author}{\bibinfo{person}{D. Lu}, \bibinfo{person}{Y. Zheng},
+  \bibinfo{person}{X. Yi}, \bibinfo{person}{J. Hao}, \bibinfo{person}{X. Zeng},
+  \bibinfo{person}{L. Han}, \bibinfo{person}{Z. Li}, \bibinfo{person}{S. Jiao},
+  \bibinfo{person}{B. Jiang}, \bibinfo{person}{J. Ai}, {and}
+  \bibinfo{person}{J. Peng}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Identifying potential risk genes for clear cell
+  renal cell carcinoma with deep reinforcement learning}.
+\newblock \bibinfo{journal}{\emph{Nature Communications}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41467-025-58439-5}{doi:\nolinkurl{10.1038/s41467-025-58439-5}}
+
+
+\bibitem[Ma et~al\mbox{.}(2025)]%
+        {ma2025multichannel}
+\bibfield{author}{\bibinfo{person}{H. Ma}, \bibinfo{person}{W. Wei},
+  \bibinfo{person}{J. Zhang}, \bibinfo{person}{L. Liang}, \bibinfo{person}{L.
+  Zhang}, \bibinfo{person}{W. Wang}, \bibinfo{person}{Q. Zhang},
+  \bibinfo{person}{Q. Zhang}, \bibinfo{person}{Y. Hao}, \bibinfo{person}{Z.
+  Li}, \bibinfo{person}{L. Wang}, {and} \bibinfo{person}{H. Zhang}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Multi-channel deep learning radiomics model based
+  on contrast-enhanced CT for predicting postoperative prognosis in laryngeal
+  carcinoma}.
+\newblock \bibinfo{journal}{\emph{BMC Cancer}} \bibinfo{volume}{25},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s12885-025-14912-4}{doi:\nolinkurl{10.1186/s12885-025-14912-4}}
+
+
+\bibitem[Mathivanan et~al\mbox{.}(2024a)]%
+        {mathivanan2024enhancing}
+\bibfield{author}{\bibinfo{person}{Suresh~Kumar Mathivanan},
+  \bibinfo{person}{D. Francis}, \bibinfo{person}{S. Srinivasan},
+  \bibinfo{person}{V. Khatavkar}, \bibinfo{person}{K. P}, {and}
+  \bibinfo{person}{Mumtaz~A. Shah}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{Enhancing cervical cancer detection and robust
+  classification through a fusion of deep learning models}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-61063-w}{doi:\nolinkurl{10.1038/s41598-024-61063-w}}
+
+
+\bibitem[Mathivanan et~al\mbox{.}(2024b)]%
+        {mathivanan2024employing}
+\bibfield{author}{\bibinfo{person}{Suresh~Kumar Mathivanan},
+  \bibinfo{person}{S. Sonaimuthu}, \bibinfo{person}{S. Murugesan},
+  \bibinfo{person}{H. Rajadurai}, \bibinfo{person}{B.~D. Shivahare}, {and}
+  \bibinfo{person}{Mumtaz~A. Shah}.} \bibinfo{year}{2024}\natexlab{b}.
+\newblock \showarticletitle{Employing deep learning and transfer learning for
+  accurate brain tumor detection}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
 \newblock
 \href{https://doi.org/10.1038/s41598-024-57970-7}{doi:\nolinkurl{10.1038/s41598-024-57970-7}}
+
+
+\bibitem[Mathivanan et~al\mbox{.}(2025)]%
+        {mathivanan2025secure}
+\bibfield{author}{\bibinfo{person}{Suresh~Kumar Mathivanan},
+  \bibinfo{person}{S. Srinivasan}, \bibinfo{person}{M.~S. Koti},
+  \bibinfo{person}{V.~S. Kushwah}, \bibinfo{person}{R.~B. Joseph}, {and}
+  \bibinfo{person}{Mumtaz~A. Shah}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A secure hybrid deep learning framework for brain
+  tumor detection and classification}.
+\newblock \bibinfo{journal}{\emph{Journal of Big Data}} \bibinfo{volume}{12},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s40537-025-01117-6}{doi:\nolinkurl{10.1186/s40537-025-01117-6}}
+
+
+\bibitem[Maurya et~al\mbox{.}(2024)]%
+        {maurya2024basal}
+\bibfield{author}{\bibinfo{person}{A. Maurya}, \bibinfo{person}{R.~J. Stanley},
+  \bibinfo{person}{H.~Y. Aradhyula}, \bibinfo{person}{N. Lama},
+  \bibinfo{person}{A.~K. Nambisan}, \bibinfo{person}{G. Patel},
+  \bibinfo{person}{D. Saeed}, \bibinfo{person}{S. Swinfard},
+  \bibinfo{person}{C. Smith}, \bibinfo{person}{S. Jagannathan},
+  \bibinfo{person}{J.~R. Hagerty}, {and} \bibinfo{person}{W.~V. Stoecker}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Basal Cell Carcinoma Diagnosis with Fusion of Deep
+  Learning and Telangiectasia Features}.
+\newblock \bibinfo{journal}{\emph{Journal of Imaging Informatics in Medicine}}
+  \bibinfo{volume}{37}, \bibinfo{number}{3} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{1137--1150}.
+\newblock
+\href{https://doi.org/10.1007/s10278-024-00969-3}{doi:\nolinkurl{10.1007/s10278-024-00969-3}}
+
+
+\bibitem[Mavaddati(2024)]%
+        {mavaddati2024brain}
+\bibfield{author}{\bibinfo{person}{S. Mavaddati}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Brain tumors classification using deep models and
+  transfer learning}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{22} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{25677--25708}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-20141-x}{doi:\nolinkurl{10.1007/s11042-024-20141-x}}
+
+
+\bibitem[Meeradevi et~al\mbox{.}(2025)]%
+        {meeradevi2025lung}
+\bibfield{author}{\bibinfo{person}{T. Meeradevi}, \bibinfo{person}{S.
+  Sasikala}, \bibinfo{person}{L. Murali}, \bibinfo{person}{N. Manikandan},
+  {and} \bibinfo{person}{K. Ramaswamy}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Lung cancer detection with machine learning
+  classifiers with multi-attribute decision-making system and deep learning
+  model}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-88188-w}{doi:\nolinkurl{10.1038/s41598-025-88188-w}}
+
+
+\bibitem[Mehedi et~al\mbox{.}(2024)]%
+        {mehedi2024lightweight}
+\bibfield{author}{\bibinfo{person}{Md. Hasan~Khaled Mehedi},
+  \bibinfo{person}{M. Khandaker}, \bibinfo{person}{S. Ara},
+  \bibinfo{person}{M.~A. Alam}, \bibinfo{person}{M.~F. Mridha}, {and}
+  \bibinfo{person}{Z. Aung}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A lightweight deep learning method to identify
+  different types of cervical cancer}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-79840-y}{doi:\nolinkurl{10.1038/s41598-024-79840-y}}
+
+
+\bibitem[Mohamed et~al\mbox{.}(2025)]%
+        {mohamed2025misc}
+\bibfield{author}{\bibinfo{person}{E.~H. Mohamed}, \bibinfo{person}{N. Abdu},
+  \bibinfo{person}{M. Khalil}, \bibinfo{person}{H. Kamal}, {and}
+  \bibinfo{person}{E.~A. Rashed}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{MiSC: A hybrid multi-modal deep learning approach
+  for accurate skin cancer detection}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20951-7}{doi:\nolinkurl{10.1007/s11042-025-20951-7}}
+
+
+\bibitem[Mushtaq and Singh(2024)]%
+        {mushtaq2024deep}
+\bibfield{author}{\bibinfo{person}{S. Mushtaq} {and} \bibinfo{person}{O.
+  Singh}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A deep learning based architecture for multi-class
+  skin cancer classification}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{83}, \bibinfo{number}{39} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{87105--87127}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-19817-1}{doi:\nolinkurl{10.1007/s11042-024-19817-1}}
+
+
+\bibitem[Nahiduzzaman et~al\mbox{.}(2025)]%
+        {nahiduzzaman2025hybrid}
+\bibfield{author}{\bibinfo{person}{Md. Nahiduzzaman},
+  \bibinfo{person}{Lway~Faisal Abdulrazak}, \bibinfo{person}{H.~B. Kibria},
+  \bibinfo{person}{Amith Khandakar}, \bibinfo{person}{Mohamed~Amine Ayari},
+  \bibinfo{person}{M.~F. Ahamed}, \bibinfo{person}{M. Ahsan},
+  \bibinfo{person}{J. Haider}, \bibinfo{person}{M.~A. Moni}, {and}
+  \bibinfo{person}{M. Kowalski}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A hybrid explainable model based on advanced
+  machine learning and deep learning models for classifying brain tumors using
+  MRI images}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-85874-7}{doi:\nolinkurl{10.1038/s41598-025-85874-7}}
+
+
+\bibitem[Narayan et~al\mbox{.}(2025)]%
+        {narayan2025comparison}
+\bibfield{author}{\bibinfo{person}{Y. Narayan}, \bibinfo{person}{Abhishek~P.
+  Pasupulla}, \bibinfo{person}{Dinesh Kumar}, \bibinfo{person}{K.~R. Chandra},
+  \bibinfo{person}{R.~M. Singh}, \bibinfo{person}{P. Charan}, {and}
+  \bibinfo{person}{D.~P. Singh}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Comparison based on transfer learning and fusion of
+  deep learning models for brain cancer classification}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{35} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{44317--44337}.
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20884-1}{doi:\nolinkurl{10.1007/s11042-025-20884-1}}
+
+
+\bibitem[Nassif et~al\mbox{.}(2025)]%
+        {nassif2025classification}
+\bibfield{author}{\bibinfo{person}{Ali~Bou Nassif}, \bibinfo{person}{Nour~A.
+  Abujabal}, {and} \bibinfo{person}{Asma~A. Omar}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Classification of lung cancer severity using gene
+  expression data based on deep learning}.
+\newblock \bibinfo{journal}{\emph{BMC Medical Informatics and Decision Making}}
+  \bibinfo{volume}{25}, \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s12911-025-03011-w}{doi:\nolinkurl{10.1186/s12911-025-03011-w}}
+
+
+\bibitem[Naveenraj and Vijayakumar(2025)]%
+        {naveenraj2025enriched}
+\bibfield{author}{\bibinfo{person}{M. Naveenraj} {and} \bibinfo{person}{P.
+  Vijayakumar}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enriched lung cancer classification approach using
+  an optimized hybrid deep learning approach}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-07322-w}{doi:\nolinkurl{10.1038/s41598-025-07322-w}}
+
+
+\bibitem[Ozdemir and Pacal(2025)]%
+        {ozdemir2025robust}
+\bibfield{author}{\bibinfo{person}{B. Ozdemir} {and} \bibinfo{person}{I.
+  Pacal}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A robust deep learning framework for multiclass
+  skin cancer classification}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-89230-7}{doi:\nolinkurl{10.1038/s41598-025-89230-7}}
+
+
+\bibitem[Pandey et~al\mbox{.}(2025)]%
+        {pandey2025prediction}
+\bibfield{author}{\bibinfo{person}{A. Pandey}, \bibinfo{person}{J. Arora},
+  \bibinfo{person}{G.~S.~R. Kohli}, \bibinfo{person}{M. Khurana},
+  \bibinfo{person}{N. Sharma}, {and} \bibinfo{person}{N. Jindal}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Prediction of Cervical Cancer with Machine Learning
+  Approaches}.
+\newblock \bibinfo{journal}{\emph{Journal of The Institution of Engineers
+  (India): Series B}} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s40031-025-01248-7}{doi:\nolinkurl{10.1007/s40031-025-01248-7}}
+
+
+\bibitem[Pandey and Pandey(2025)]%
+        {pandey2025wavelet}
+\bibfield{author}{\bibinfo{person}{A. Pandey} {and} \bibinfo{person}{V.~K.
+  Pandey}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Wavelet Based Classification Using Meta-Heuristic
+  Algorithm with Deep Transfer Learning Technique}.
+\newblock \bibinfo{journal}{\emph{SN Computer Science}} \bibinfo{volume}{6},
+  \bibinfo{number}{3} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s42979-025-03683-1}{doi:\nolinkurl{10.1007/s42979-025-03683-1}}
+
+
+\bibitem[Paul et~al\mbox{.}(2024)]%
+        {paul2024deep}
+\bibfield{author}{\bibinfo{person}{A. Paul}, \bibinfo{person}{A. Ali}, {and}
+  \bibinfo{person}{S.~S. Chaudhuri}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Deep Learning Models for Skin Cancer Classification
+  Across Diverse Color Spaces: Comprehensive Analysis}.
+\newblock \bibinfo{journal}{\emph{Archives of Computational Methods in
+  Engineering}} \bibinfo{volume}{31}, \bibinfo{number}{8}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{4455--4483}.
+\newblock
+\href{https://doi.org/10.1007/s11831-024-10160-0}{doi:\nolinkurl{10.1007/s11831-024-10160-0}}
+
+
+\bibitem[Pradeepa et~al\mbox{.}(2025)]%
+        {pradeepa2025hybrid}
+\bibfield{author}{\bibinfo{person}{M. Pradeepa}, \bibinfo{person}{B. Sharmila},
+  {and} \bibinfo{person}{M. Nirmala}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A hybrid deep learning model EfficientNet with GRU
+  for breast cancer detection from histopathology images}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-00930-6}{doi:\nolinkurl{10.1038/s41598-025-00930-6}}
+
+
+\bibitem[Qu et~al\mbox{.}(2025a)]%
+        {qu2025deep}
+\bibfield{author}{\bibinfo{person}{H. Qu}, \bibinfo{person}{S. Zhang},
+  \bibinfo{person}{X. Li}, \bibinfo{person}{Y. Miao}, \bibinfo{person}{Y. Han},
+  \bibinfo{person}{R. Ju}, \bibinfo{person}{X. Cui}, {and} \bibinfo{person}{Y.
+  Li}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{A deep learning model based on self-supervised
+  learning for identifying subtypes of proliferative hepatocellular carcinoma
+  from dynamic contrast-enhanced MRI}.
+\newblock \bibinfo{journal}{\emph{Insights into Imaging}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13244-025-01968-w}{doi:\nolinkurl{10.1186/s13244-025-01968-w}}
+
+
+\bibitem[Qu et~al\mbox{.}(2025b)]%
+        {qu2025deepb}
+\bibfield{author}{\bibinfo{person}{H. Qu}, \bibinfo{person}{S. Zhang},
+  \bibinfo{person}{X. Li}, \bibinfo{person}{Y. Miao}, \bibinfo{person}{Y. Han},
+  \bibinfo{person}{R. Ju}, \bibinfo{person}{X. Cui}, {and} \bibinfo{person}{Y.
+  Li}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{A deep learning model based on self-supervised
+  learning for identifying subtypes of proliferative hepatocellular carcinoma
+  from dynamic contrast-enhanced MRI}.
+\newblock \bibinfo{journal}{\emph{Insights into Imaging}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13244-025-01968-w}{doi:\nolinkurl{10.1186/s13244-025-01968-w}}
+
+
+\bibitem[R and C.M(2025)]%
+        {r2025transfer}
+\bibfield{author}{\bibinfo{person}{N. R} {and} \bibinfo{person}{V. C.M}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Transfer learning based deep architecture for lung
+  cancer classification using CT image with pattern and entropy based feature
+  set}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-13755-0}{doi:\nolinkurl{10.1038/s41598-025-13755-0}}
 
 
 \bibitem[R.~V. et~al\mbox{.}(2025)]%
@@ -56,13 +942,506 @@
 \bibfield{author}{\bibinfo{person}{M. R.~V.}, \bibinfo{person}{Y.~G. N.},
   \bibinfo{person}{M. H.~M.}, \bibinfo{person}{B. K.~N.}, {and}
   \bibinfo{person}{M. R.}} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{Brain Tumor Classification on MRI Images Using
-  Fine-Tuned Deep Learning Models}.
-\newblock \bibinfo{journal}{\emph{Mach. Learn. Comput. Sci. Eng.}}
-  \bibinfo{volume}{1}, \bibinfo{number}{1}, Article \bibinfo{articleno}{24}
-  (\bibinfo{year}{2025}), \bibinfo{numpages}{18}~pages.
+\newblock \showarticletitle{Brain tumor classification on MRI images using
+  fine-tuned deep learning models}.
+\newblock \bibinfo{journal}{\emph{Machine Learning for Computational Science
+  and Engineering}} \bibinfo{volume}{1}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}).
 \newblock
 \href{https://doi.org/10.1007/s44379-025-00024-0}{doi:\nolinkurl{10.1007/s44379-025-00024-0}}
+
+
+\bibitem[Rajeev et~al\mbox{.}(2024a)]%
+        {rajeev2024hccnet}
+\bibfield{author}{\bibinfo{person}{D. Rajeev}, \bibinfo{person}{S. Remya},
+  {and} \bibinfo{person}{A. Nayyar}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{HCCNet Fusion: a synergistic approach for accurate
+  hepatocellular carcinoma staging using deep learning paradigm}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{14} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{13315--13348}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-19446-8}{doi:\nolinkurl{10.1007/s11042-024-19446-8}}
+
+
+\bibitem[Rajeev et~al\mbox{.}(2024b)]%
+        {rajeev2024hccnetb}
+\bibfield{author}{\bibinfo{person}{D. Rajeev}, \bibinfo{person}{S. Remya},
+  {and} \bibinfo{person}{A. Nayyar}.} \bibinfo{year}{2024}\natexlab{b}.
+\newblock \showarticletitle{HCCNet Fusion: a synergistic approach for accurate
+  hepatocellular carcinoma staging using deep learning paradigm}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{14} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{13315--13348}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-19446-8}{doi:\nolinkurl{10.1007/s11042-024-19446-8}}
+
+
+\bibitem[Ramu et~al\mbox{.}(2024)]%
+        {ramu2024augmenting}
+\bibfield{author}{\bibinfo{person}{K. Ramu}, \bibinfo{person}{A.
+  Ananthanarayanan}, \bibinfo{person}{P.~J. Josephson},
+  \bibinfo{person}{N.~R.~R. Paul}, \bibinfo{person}{P. Tumuluru},
+  \bibinfo{person}{C. Divya}, {and} \bibinfo{person}{S.~K. Suman}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Augmenting Cervical Cancer Analysis with Deep
+  Learning Classification and Topography Selection Using Artificial Bee Colony
+  Optimization}.
+\newblock \bibinfo{journal}{\emph{SN Computer Science}} \bibinfo{volume}{5},
+  \bibinfo{number}{6} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1007/s42979-024-03040-8}{doi:\nolinkurl{10.1007/s42979-024-03040-8}}
+
+
+\bibitem[Rashad et~al\mbox{.}(2025)]%
+        {rashad2025automating}
+\bibfield{author}{\bibinfo{person}{N.~M. Rashad}, \bibinfo{person}{N.~M.
+  Abdelnapi}, \bibinfo{person}{A.~F. Seddik}, {and} \bibinfo{person}{M.~A.
+  Sayedelahl}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Automating skin cancer screening: a deep learning}.
+\newblock \bibinfo{journal}{\emph{Journal of Engineering and Applied Science}}
+  \bibinfo{volume}{72}, \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s44147-024-00573-w}{doi:\nolinkurl{10.1186/s44147-024-00573-w}}
+
+
+\bibitem[Rastogi et~al\mbox{.}(2025)]%
+        {rastogi2025deep}
+\bibfield{author}{\bibinfo{person}{Divya Rastogi}, \bibinfo{person}{P. Johri},
+  \bibinfo{person}{M. Donelli}, \bibinfo{person}{S. Kadry},
+  \bibinfo{person}{A.~A. Khan}, \bibinfo{person}{G. Espa}, \bibinfo{person}{P.
+  Feraco}, {and} \bibinfo{person}{J. Kim}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning Integrated MRI brain tumor analysis:
+  feature extraction, segmentation, and Survival Prediction using Replicator
+  and volumetric networks}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-84386-0}{doi:\nolinkurl{10.1038/s41598-024-84386-0}}
+
+
+\bibitem[Reddy and M.P(2025)]%
+        {reddy2025skin}
+\bibfield{author}{\bibinfo{person}{A.~S. Reddy} {and} \bibinfo{person}{G.
+  M.P}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Skin cancer detection using optimized mask R-CNN
+  and two-fold-deep-learning-classifier framework}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{30} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{36871--36898}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-20377-7}{doi:\nolinkurl{10.1007/s11042-024-20377-7}}
+
+
+\bibitem[S et~al\mbox{.}(2025)]%
+        {s2025comprehensive}
+\bibfield{author}{\bibinfo{person}{A. S}, \bibinfo{person}{S. R},
+  \bibinfo{person}{S.~K. Nambiar}, {and} \bibinfo{person}{A. K~Cherian}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A comprehensive deep learning approach for skin
+  cancer diagnosis: integrating interpretability and advanced techniques}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{35} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{43643--43663}.
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20854-7}{doi:\nolinkurl{10.1007/s11042-025-20854-7}}
+
+
+\bibitem[S. and Vinoth~Kumar(2025)]%
+        {s2025lung}
+\bibfield{author}{\bibinfo{person}{B.~K. S.} {and} \bibinfo{person}{M.
+  Vinoth~Kumar}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Lung cancer detection and classification with
+  optimal feature selection and two-fold-deep-learning-classifiers}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20947-3}{doi:\nolinkurl{10.1007/s11042-025-20947-3}}
+
+
+\bibitem[Sagar et~al\mbox{.}(2023)]%
+        {sagar2023image}
+\bibfield{author}{\bibinfo{person}{G.~V. Sagar}, \bibinfo{person}{M.~R. Kumar},
+  \bibinfo{person}{S.~H. Ahammad}, {and} \bibinfo{person}{C. Santhosh}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Image classification of intracranial tumor using
+  deep residual learning technique}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{83}, \bibinfo{number}{19} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{57409--57427}.
+\newblock
+\href{https://doi.org/10.1007/s11042-023-17712-9}{doi:\nolinkurl{10.1007/s11042-023-17712-9}}
+
+
+\bibitem[Sandhu et~al\mbox{.}(2025)]%
+        {sandhu2025development}
+\bibfield{author}{\bibinfo{person}{J.~K. Sandhu}, \bibinfo{person}{C. Sharma},
+  \bibinfo{person}{A. Kaur}, \bibinfo{person}{S.~K. Pandey},
+  \bibinfo{person}{A. Sinha}, {and} \bibinfo{person}{J. Shreyas}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Development of a clinical decision support system
+  for breast cancer detection using ensemble deep learning}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-06784-2}{doi:\nolinkurl{10.1038/s41598-025-06784-2}}
+
+
+\bibitem[Sarhan et~al\mbox{.}(2025)]%
+        {sarhan2025achieving}
+\bibfield{author}{\bibinfo{person}{Ahmed~M. Sarhan}, \bibinfo{person}{H.~A.
+  Ali}, \bibinfo{person}{S. Yasser}, \bibinfo{person}{M. Gobara},
+  \bibinfo{person}{A.~A. Kandil}, \bibinfo{person}{G. Sherif}, {and}
+  \bibinfo{person}{E. Moustafa}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Achieving high-accuracy skin cancer classification
+  with deep learning optimized by ant colony algorithm}.
+\newblock \bibinfo{journal}{\emph{Journal of Electrical Systems and Information
+  Technology}} \bibinfo{volume}{12}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s43067-025-00243-8}{doi:\nolinkurl{10.1186/s43067-025-00243-8}}
+
+
+\bibitem[Shahid and Imran(2025)]%
+        {shahid2025breast}
+\bibfield{author}{\bibinfo{person}{Muhammad~S. Shahid} {and}
+  \bibinfo{person}{Ali Imran}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Breast cancer detection using deep learning
+  techniques: challenges and future directions}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{6} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{3257--3304}.
+\newblock
+\href{https://doi.org/10.1007/s11042-025-20606-7}{doi:\nolinkurl{10.1007/s11042-025-20606-7}}
+
+
+\bibitem[Shakya et~al\mbox{.}(2025)]%
+        {shakya2025comprehensive}
+\bibfield{author}{\bibinfo{person}{M. Shakya}, \bibinfo{person}{R. Patel},
+  {and} \bibinfo{person}{S. Joshi}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A comprehensive analysis of deep learning and
+  transfer learning techniques for skin cancer classification}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-82241-w}{doi:\nolinkurl{10.1038/s41598-024-82241-w}}
+
+
+\bibitem[Sharafaddini et~al\mbox{.}(2024a)]%
+        {sharafaddini2024deep}
+\bibfield{author}{\bibinfo{person}{Amir~Mohammad Sharafaddini},
+  \bibinfo{person}{Kamyab~Kiani Esfahani}, {and} \bibinfo{person}{Nader
+  Mansouri}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{Deep learning approaches to detect breast cancer: a
+  comprehensive review}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{21} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{24079--24190}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-20011-6}{doi:\nolinkurl{10.1007/s11042-024-20011-6}}
+
+
+\bibitem[Sharafaddini et~al\mbox{.}(2024b)]%
+        {sharafaddini2024deepb}
+\bibfield{author}{\bibinfo{person}{Amir~Mohammad Sharafaddini},
+  \bibinfo{person}{Kamyab~Kiani Esfahani}, {and} \bibinfo{person}{Nader
+  Mansouri}.} \bibinfo{year}{2024}\natexlab{b}.
+\newblock \showarticletitle{Deep learning approaches to detect breast cancer: a
+  comprehensive review}.
+\newblock \bibinfo{journal}{\emph{Multimedia Tools and Applications}}
+  \bibinfo{volume}{84}, \bibinfo{number}{21} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{24079--24190}.
+\newblock
+\href{https://doi.org/10.1007/s11042-024-20011-6}{doi:\nolinkurl{10.1007/s11042-024-20011-6}}
+
+
+\bibitem[Shastri et~al\mbox{.}(2025)]%
+        {shastri2025enhancing}
+\bibfield{author}{\bibinfo{person}{A. Shastri}, \bibinfo{person}{Y. Prajapati},
+  \bibinfo{person}{H. Katariya}, \bibinfo{person}{M. Paliwal}, {and}
+  \bibinfo{person}{K. Sabale}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing Clinical Outcomes Using Deep Learning
+  Solution for Accurate Lung Cancer Classification}.
+\newblock \bibinfo{journal}{\emph{Sensing and Imaging}} \bibinfo{volume}{26},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11220-025-00548-y}{doi:\nolinkurl{10.1007/s11220-025-00548-y}}
+
+
+\bibitem[Shilpa et~al\mbox{.}(2025)]%
+        {shilpa2025deep}
+\bibfield{author}{\bibinfo{person}{B. Shilpa}, \bibinfo{person}{G.~G.
+  Devadhas}, {and} \bibinfo{person}{T.~Y. Satheesha}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A Deep Learning Framework for Enhanced Liver Tumor
+  Classification Using Convolutional Gated Kronecker Network}.
+\newblock \bibinfo{journal}{\emph{SN Computer Science}} \bibinfo{volume}{6},
+  \bibinfo{number}{5} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s42979-025-04080-4}{doi:\nolinkurl{10.1007/s42979-025-04080-4}}
+
+
+\bibitem[Shin et~al\mbox{.}(2025)]%
+        {shin2025deep}
+\bibfield{author}{\bibinfo{person}{S. Shin}, \bibinfo{person}{Y. Chang}, {and}
+  \bibinfo{person}{S. Ryu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning mammography-based breast cancer risk
+  model, its serial change, and breast cancer mortality}.
+\newblock \bibinfo{journal}{\emph{Breast Cancer}} \bibinfo{volume}{32},
+  \bibinfo{number}{6} (\bibinfo{year}{2025}), \bibinfo{pages}{1462--1471}.
+\newblock
+\href{https://doi.org/10.1007/s12282-025-01772-w}{doi:\nolinkurl{10.1007/s12282-025-01772-w}}
+
+
+\bibitem[Singh et~al\mbox{.}(2025)]%
+        {singh2025cervical}
+\bibfield{author}{\bibinfo{person}{R. Singh}, \bibinfo{person}{H. Kaur}, {and}
+  \bibinfo{person}{J. Malhotra}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Cervical cancer detection through Pap smear images
+  using hybrid deep feature extraction and ensemble machine learning}.
+\newblock \bibinfo{journal}{\emph{Multiscale and Multidisciplinary Modeling,
+  Experiments and Design}} \bibinfo{volume}{8}, \bibinfo{number}{5}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s41939-025-00834-y}{doi:\nolinkurl{10.1007/s41939-025-00834-y}}
+
+
+\bibitem[Song et~al\mbox{.}(2025)]%
+        {song2025deep}
+\bibfield{author}{\bibinfo{person}{S. Song}, \bibinfo{person}{G. Zhang},
+  \bibinfo{person}{Z. Yao}, \bibinfo{person}{R. Chen}, \bibinfo{person}{K.
+  Liu}, \bibinfo{person}{T. Zhang}, \bibinfo{person}{G. Zeng},
+  \bibinfo{person}{Z. Wang}, {and} \bibinfo{person}{R. Liu}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning based on intratumoral heterogeneity
+  predicts histopathologic grade of hepatocellular carcinoma}.
+\newblock \bibinfo{journal}{\emph{BMC Cancer}} \bibinfo{volume}{25},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s12885-025-13781-1}{doi:\nolinkurl{10.1186/s12885-025-13781-1}}
+
+
+\bibitem[Sunakawa et~al\mbox{.}(2024)]%
+        {sunakawa2024deep}
+\bibfield{author}{\bibinfo{person}{T. Sunakawa}, \bibinfo{person}{D.
+  Kitaguchi}, \bibinfo{person}{S. Kobayashi}, \bibinfo{person}{K. Aoki},
+  \bibinfo{person}{M. Kujiraoka}, \bibinfo{person}{K. Sasaki},
+  \bibinfo{person}{L. Azuma}, \bibinfo{person}{A. Yamada}, \bibinfo{person}{M.
+  Kudo}, \bibinfo{person}{M. Sugimoto}, \bibinfo{person}{H. Hasegawa},
+  \bibinfo{person}{N. Takeshita}, \bibinfo{person}{N. Gotohda}, {and}
+  \bibinfo{person}{M. Ito}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Deep learning-based automatic bleeding recognition
+  during liver resection in laparoscopic hepatectomy}.
+\newblock \bibinfo{journal}{\emph{Surgical Endoscopy}} \bibinfo{volume}{38},
+  \bibinfo{number}{12} (\bibinfo{year}{2024}), \bibinfo{pages}{7656--7662}.
+\newblock
+\href{https://doi.org/10.1007/s00464-024-11331-7}{doi:\nolinkurl{10.1007/s00464-024-11331-7}}
+
+
+\bibitem[Tawfeek et~al\mbox{.}(2025)]%
+        {tawfeek2025enhancing}
+\bibfield{author}{\bibinfo{person}{M.~A. Tawfeek}, \bibinfo{person}{I.
+  Alrashdi}, \bibinfo{person}{M. Alruwaili}, \bibinfo{person}{W.~M. Shaban},
+  {and} \bibinfo{person}{F.~M. Talaat}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing the efficiency of lung cancer screening:
+  predictive models utilizing deep learning from CT scans}.
+\newblock \bibinfo{journal}{\emph{Neural Computing and Applications}}
+  \bibinfo{volume}{37}, \bibinfo{number}{17} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{11459--11477}.
+\newblock
+\href{https://doi.org/10.1007/s00521-025-11084-x}{doi:\nolinkurl{10.1007/s00521-025-11084-x}}
+
+
+\bibitem[Tbahriti et~al\mbox{.}(2025)]%
+        {tbahriti2025machine}
+\bibfield{author}{\bibinfo{person}{H.~F. Tbahriti}, \bibinfo{person}{A.
+  Boukadoum}, \bibinfo{person}{M. Benbernou}, {and} \bibinfo{person}{M.
+  Belhocine}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Machine learning and deep learning in glioblastoma:
+  a systematic review and meta-analysis of diagnosis, prognosis, and
+  treatment}.
+\newblock \bibinfo{journal}{\emph{Discover Oncology}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s12672-025-03303-7}{doi:\nolinkurl{10.1007/s12672-025-03303-7}}
+
+
+\bibitem[Vijayakumari et~al\mbox{.}(2024)]%
+        {vijayakumari2024automated}
+\bibfield{author}{\bibinfo{person}{B. Vijayakumari}, \bibinfo{person}{N.
+  Kiruthiga}, {and} \bibinfo{person}{C.~P. Bushkala}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Automated evaluation and parameter estimation of
+  brain tumor using deep learning techniques}.
+\newblock \bibinfo{journal}{\emph{Neural Computing and Applications}}
+  \bibinfo{volume}{36}, \bibinfo{number}{33} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{20751--20767}.
+\newblock
+\href{https://doi.org/10.1007/s00521-024-10255-6}{doi:\nolinkurl{10.1007/s00521-024-10255-6}}
+
+
+\bibitem[Vikhe and Shrivastava(2025)]%
+        {vikhe2025white}
+\bibfield{author}{\bibinfo{person}{Nilesh~B. Vikhe} {and}
+  \bibinfo{person}{Megha Shrivastava}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{White Headed Timber Optimization based Deep
+  Learning model for Brain Tumor Prediction}.
+\newblock \bibinfo{journal}{\emph{Biomedical Materials \& Devices}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s44174-025-00293-6}{doi:\nolinkurl{10.1007/s44174-025-00293-6}}
+
+
+\bibitem[Wang et~al\mbox{.}(2025)]%
+        {wang2025multimodal}
+\bibfield{author}{\bibinfo{person}{W. Wang}, \bibinfo{person}{G. Yang},
+  \bibinfo{person}{Y. Liu}, \bibinfo{person}{L. Wei}, \bibinfo{person}{X. Xu},
+  \bibinfo{person}{C. Zhang}, \bibinfo{person}{Z. Pan}, \bibinfo{person}{Y.
+  Liang}, \bibinfo{person}{B. Yang}, \bibinfo{person}{J. Qiu},
+  \bibinfo{person}{F. Zhang}, \bibinfo{person}{X. Hou}, \bibinfo{person}{K.
+  Hu}, {and} \bibinfo{person}{X. Liang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Multimodal deep learning model for prognostic
+  prediction in cervical cancer receiving definitive radiotherapy: a
+  multi-center study}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}} \bibinfo{volume}{8},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41746-025-01903-9}{doi:\nolinkurl{10.1038/s41746-025-01903-9}}
+
+
+\bibitem[Wu et~al\mbox{.}(2025a)]%
+        {wu2025mribased}
+\bibfield{author}{\bibinfo{person}{Q. Wu}, \bibinfo{person}{T. Zhang},
+  \bibinfo{person}{F. Xu}, \bibinfo{person}{L. Cao}, \bibinfo{person}{W. Gu},
+  \bibinfo{person}{W. Zhu}, \bibinfo{person}{Y. Fan}, \bibinfo{person}{X.
+  Wang}, \bibinfo{person}{C. Hu}, {and} \bibinfo{person}{Y. Yu}.}
+  \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{MRI-based deep learning radiomics to differentiate
+  dual-phenotype hepatocellular carcinoma from HCC and intrahepatic
+  cholangiocarcinoma: a multicenter study}.
+\newblock \bibinfo{journal}{\emph{Insights into Imaging}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13244-025-01904-y}{doi:\nolinkurl{10.1186/s13244-025-01904-y}}
+
+
+\bibitem[Wu et~al\mbox{.}(2025b)]%
+        {wu2025mribasedb}
+\bibfield{author}{\bibinfo{person}{Q. Wu}, \bibinfo{person}{T. Zhang},
+  \bibinfo{person}{F. Xu}, \bibinfo{person}{L. Cao}, \bibinfo{person}{W. Gu},
+  \bibinfo{person}{W. Zhu}, \bibinfo{person}{Y. Fan}, \bibinfo{person}{X.
+  Wang}, \bibinfo{person}{C. Hu}, {and} \bibinfo{person}{Y. Yu}.}
+  \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{MRI-based deep learning radiomics to differentiate
+  dual-phenotype hepatocellular carcinoma from HCC and intrahepatic
+  cholangiocarcinoma: a multicenter study}.
+\newblock \bibinfo{journal}{\emph{Insights into Imaging}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13244-025-01904-y}{doi:\nolinkurl{10.1186/s13244-025-01904-y}}
+
+
+\bibitem[Xiao et~al\mbox{.}(2025)]%
+        {xiao2025deep}
+\bibfield{author}{\bibinfo{person}{B. Xiao}, \bibinfo{person}{Y. Lv},
+  \bibinfo{person}{C. Peng}, \bibinfo{person}{Z. Wei}, \bibinfo{person}{Q. Xv},
+  \bibinfo{person}{F. Lv}, \bibinfo{person}{Q. Jiang}, \bibinfo{person}{H.
+  Liu}, \bibinfo{person}{F. Li}, \bibinfo{person}{Y. Xv}, \bibinfo{person}{Q.
+  He}, {and} \bibinfo{person}{M. Xiao}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning feature-based model for predicting
+  lymphovascular invasion in urothelial carcinoma of bladder using CT images}.
+\newblock \bibinfo{journal}{\emph{Insights into Imaging}} \bibinfo{volume}{16},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13244-025-01988-6}{doi:\nolinkurl{10.1186/s13244-025-01988-6}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2025b)]%
+        {zhang2025multimodal}
+\bibfield{author}{\bibinfo{person}{R. Zhang}, \bibinfo{person}{K. Wang},
+  \bibinfo{person}{S. Wang}, \bibinfo{person}{C. Wang}, \bibinfo{person}{T.
+  Cao}, \bibinfo{person}{C. Ci}, \bibinfo{person}{M. Xu}, {and}
+  \bibinfo{person}{M. Ge}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{Multimodal deep learning model for prediction of
+  breast cancer recurrence risk and correlation with oncotype DX}.
+\newblock \bibinfo{journal}{\emph{Breast Cancer Research}}
+  \bibinfo{volume}{27}, \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13058-025-02129-z}{doi:\nolinkurl{10.1186/s13058-025-02129-z}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2025a)]%
+        {zhang2025deep}
+\bibfield{author}{\bibinfo{person}{Y. Zhang}, \bibinfo{person}{S. Liu},
+  \bibinfo{person}{J. Chen}, \bibinfo{person}{R. Chen}, \bibinfo{person}{Z.
+  Yang}, \bibinfo{person}{R. Sheng}, \bibinfo{person}{X. Li},
+  \bibinfo{person}{T. Wang}, \bibinfo{person}{H. Liu}, \bibinfo{person}{F.
+  Yang}, \bibinfo{person}{J. Ying}, \bibinfo{person}{L. Yang},
+  \bibinfo{person}{J. Sun}, {and} \bibinfo{person}{M. Zhou}.}
+  \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{Deep learning-based histomorphological subtyping
+  and risk stratification of small cell lung cancer from hematoxylin and
+  eosin-stained whole slide images}.
+\newblock \bibinfo{journal}{\emph{Genome Medicine}} \bibinfo{volume}{17},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s13073-025-01526-5}{doi:\nolinkurl{10.1186/s13073-025-01526-5}}
+
+
+\bibitem[Zhou et~al\mbox{.}(2024)]%
+        {zhou2024length}
+\bibfield{author}{\bibinfo{person}{H. Zhou}, \bibinfo{person}{S. Lin},
+  \bibinfo{person}{M. Watson}, \bibinfo{person}{C.~T. Bernadt},
+  \bibinfo{person}{O. Zhang}, \bibinfo{person}{L. Liao}, \bibinfo{person}{R.
+  Govindan}, \bibinfo{person}{R.~J. Cote}, {and} \bibinfo{person}{C. Yang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Length-scale study in deep learning prediction for
+  non-small cell lung cancer brain metastasis}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{14},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41598-024-73428-2}{doi:\nolinkurl{10.1038/s41598-024-73428-2}}
+
+
+\bibitem[Zhou et~al\mbox{.}(2025)]%
+        {zhou2025fpabased}
+\bibfield{author}{\bibinfo{person}{L. Zhou}, \bibinfo{person}{A. Jain},
+  \bibinfo{person}{A.~K. Dubey}, \bibinfo{person}{S.~K. Singh},
+  \bibinfo{person}{N. Gupta}, \bibinfo{person}{A. Panwar}, \bibinfo{person}{S.
+  Kumar}, \bibinfo{person}{T.~A. Althaqafi}, \bibinfo{person}{V. Arya},
+  \bibinfo{person}{W. Alhalabi}, {and} \bibinfo{person}{B.~B. Gupta}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{FPA-based weighted average ensemble of deep
+  learning models for classification of lung cancer using CT scan images}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-02015-w}{doi:\nolinkurl{10.1038/s41598-025-02015-w}}
+
+
+\bibitem[Öznacar and Varol~Kayapunar(2025)]%
+        {oznacar2025advanced}
+\bibfield{author}{\bibinfo{person}{T. Öznacar} {and} \bibinfo{person}{N.
+  Varol~Kayapunar}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Advanced skin cancer prediction with medical image
+  data using MobileNetV2 deep learning and optimized techniques}.
+\newblock \bibinfo{journal}{\emph{Scientific Reports}} \bibinfo{volume}{15},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41598-025-14963-4}{doi:\nolinkurl{10.1038/s41598-025-14963-4}}
+
+
+\bibitem[Şahin et~al\mbox{.}(2025)]%
+        {sahin2025unified}
+\bibfield{author}{\bibinfo{person}{M.~F. Şahin}, \bibinfo{person}{S.~F.
+  Yeganli}, \bibinfo{person}{G. Uludağ}, \bibinfo{person}{F. Yeganli}, {and}
+  \bibinfo{person}{F. Anka}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Unified Deep Learning Method for Accurate Brain
+  Tumor Segmentation Using Vertical Voxel Grouping and Wavelet Features}.
+\newblock \bibinfo{journal}{\emph{Signal, Image and Video Processing}}
+  \bibinfo{volume}{19}, \bibinfo{number}{11} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1007/s11760-025-04557-y}{doi:\nolinkurl{10.1007/s11760-025-04557-y}}
 
 
 \end{thebibliography}
